@@ -1,0 +1,30 @@
+Trade Winds and Navigation, North Atlantic, 1807
+Referenced by Essay: 
+Navigating the Coasts and Seas
+Sometime around 1800, Edmund Blunt began a partnership with Nathaniel Bowditch (1773-1838) who was a mathematical prodigy and master of navigational sciences born into an ancient seafaring family in Salem, Massachusetts. They schemed to create a new, improved edition of another British navigational authority, The New Practical Navigator, being an Epitome of Navigation, which had been written by John Hamilton Moore (1738-1807), who was a skilled British mathematician and innovator in navigational techniques. Captain Lawrence Furlong’s American Coast Pilot was primarily addressed to coast-wise navigation along the American coast, and the intricacies of sailing in and out of complex harbor channels, etc. Moore’s Epitome of Navigation was a general treatise on celestial navigation, determining latitude and longitude at sea by reference to astronomical positioning, and particularly to improved methods to determine a ship’s longitude, by use of tables of the projected positions of the Moon at specific future times and dates as experienced at the Royal Observatory at Greenwich.
+     Blunt and Bowditch’s Chart of the Atlantic Ocean features a compass rose in the approximate center of the Western Ocean, or North Atlantic. The chart also has some arrows showing consistent ocean current direction, and a great arc, named as “The Trade Wind” which is more accurately described as the course of the Gulf Steam flowing from the south and then east towards the coast of northwestern Europe. The chart also shows the track of a ship’s voyage from Boston Harbor into and along the great arc, and then directly east to the Portuguese island of Madeira, southwest of the Iberian Peninsula. That journey was accompanied by a complete journal of the process of navigating from Boston to Madeira, written to illustrate most or all of the navigational techniques presented by Bowditch. In that era, there were copyright laws in force in both Great Britain and the United States, although they varied from our present legal conceptions of copyright a good deal. But in any case, a way of making the case that a new edition of somebody else’s book didn’t violate copyrights to the book was to make additions and improvements to it. The original British editions of Moore’s New Practical Navigator taught his navigational techniques through a journal of a voyage from London to the island of Tenerife, in the Canary Islands off the coast from the western Sahara in Africa. Bowditch’s version voyaged from Boston to Madeira, and hence was “new, and improved!”
+     The 1807 edition of “the Bowditch” also includes illustrations of the three major instruments of navigation as used in the western tradition in that era: (1) The mariners compass, with its thirty-two-point divisions, the compass rose, here mounted on gimbals in a box, to compensate for the rocking movements of the ship; (2) Equipment to determine the speed of the ship, consisting of an hourglass for timing, and a spool on which line can be wound, and a “log,” which when thrown overboard off the back end of the ship attached to the line, will tend to stay in the same place in the water, while the ship moves forward and the line runs out, until the moment the hourglass empties. The length of the line unrolled during the time of the hourglass can then be converted into an estimate of the speed of the ship; and (3) Two versions of the general class of angle-measuring instruments called, generally, quadrants. Isaac Newton (1642-1727) actually devised the concept for a celestial angle measuring device using double-reflecting mirrors, a description of which he gave to Edmond Halley. This was not published until after Halley’s death in 1742, by which time a British mathematician, John Hadley (1682-1744), and an American optician and inventor, Thomas Godfrey (1704-1749) had, about 1730, independently invented their own versions of the instrument. Well into the next century, the instruments were commonly known as Hadley’s quadrants. In the Bowditch image, the instrument on the left is described as a quadrant, although it is more properly an octant, as its curved arc represents an eighth of a circle, or forty-five degrees. The instrument in the right is a sextant, with an arc of sixty degrees, or a sixth of a circle. With this general class of instrument, it is possible to measure the angle between two celestial objects reasonably accurately, by day or night, from the deck of a moving ship, which is an extraordinary achievement. This triad of instrument systems for determining the direction, speed, and position of a ship became universal in the western traditions of navigation until the twentieth century and the advent of radio systems and electronic instruments. Even now, in the absence of electronics, the triad still works well.
+ 
+
+Selection Gallery
+Trade Winds and Navigation, North Atlantic, 1807
+Citation:
+Hooker, William, "Chart of the Atlantic Ocean", in Nathaniel Bowditch, The New American Practical Navigator (Newburyport, Mass. : Printed by Edmund M. Blunt ... for Cushing & Appleton ..., 1807), plate I. L 995 .111
+
+
+View Full Metadata
+Trade Winds and Navigation, North Atlantic, 1807
+Citation:
+Hooker, William, "[Nautical Instruments]", in Nathaniel Bowditch, The New American Practical Navigator (Newburyport, Mass. : Printed by Edmund M. Blunt ... for Cushing & Appleton ..., 1807), plate VI. L 995 .111
+
+
+View Full Metadata
+Trade Winds and Navigation, North Atlantic, 1807
+Citation:
+Hooker, William, "Quadrant and Sextant of Reflection", in Nathaniel Bowditch, The New American Practical Navigator (Newburyport, Mass. : Printed by Edmund M. Blunt ... for Cushing & Appleton ..., 1807), plate VII. L 995 .111
+
+slug: `1807_trade_winds`,
+referringEssay: 
+content: 
+title: 
+maps: 

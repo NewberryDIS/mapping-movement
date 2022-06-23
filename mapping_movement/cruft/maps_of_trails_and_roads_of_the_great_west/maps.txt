@@ -1,0 +1,12 @@
+1779_map_of_the_province_of_new_mexico.txt
+1811_road_from_capital_of_new_spain.txt
+1830_map_of_texas_with_parts.txt
+1846_new_map_of_texas.txt
+1857_overland_mail_route_to_california.txt
+1859_route_from_kansas_city.txt
+1863_military_road_from_fort_walla.txt
+1870_territory_of_montana.txt
+1875_best_and_shortest_cattle.txt
+1898_gold_and_coal_fields.txt
+_MAIN_maps_of_trails_and_roads.txt
+maps.txt

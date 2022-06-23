@@ -1,0 +1,17 @@
+Amtrak Passenger Routes, 1971
+Referenced by Essay: 
+American Railroad Maps, 1873-2012
+The 1950s spelled the end of the line for most of the passenger railroads in the United States. Long unprofitable from a variety of perspectives, rail service declined sharply after the Second World as Americans turned to the highways and airways for travel. In 1956 President Eisenhower signed the act creating the National System of Interstate and Defense Highways. Two years later the Boeing 707 jetliner inaugurated commercial jet service. Then, rather than subsidize rail travel in addition to constructing new highways and airports, the Interstate Commerce Act of 1958 streamlined the process by which companies could abandon passenger service. As the number of trains dropped each year it became apparent that only a federal effort could save even the shell of a national rail passenger system.
+     The National Railroad Passenger Act of 1970 envisioned service to all of the nationʼs metropolitan areas with lines passing through all of the states, something similar to the Interstate Highways. On May 1, 1971, the newly named Amtrak service started operations but, as this, its second timetable map indicates, the system left out states like Maine, Arkansas, and South Dakota, and cities like Cleveland and Dallas had only “added” or “as soon as possible” service. Moreover, the map was misleading because many of the routes, especially in the West, operated only three days a week.
+     Three railroads still offering passenger service in 1971 did not join Amtrak but, as this map indicates, their trains were limited to one or two routes. Moreover, Amtrak in 1971 did not own the trackage or right-of-way, only the right to run trains and ownership of the rolling stock, equipment, and stations. Federal subsidies subsequently kept the system operating, added some additional trains and routes, aided the purchase of new equipment and even some rights-of-way. After the terrorist strike of 9-11, the nation gained some appreciation for Amtrak and the development of high-speed rail corridors, but whether current plans and proposals will come to fruition remains a question.
+
+Selection Gallery
+Nationwide Schedules, Intercity Passenger Service
+Citation:
+Amtrak, "Amtrak : Nationwide Schedules of Intercity Passenger Service : Effective July 12, 1971" (Washington, DC : National Railroad Passenger Corporation, [1971]), p. 14-19. HE1805 .A58 1971
+
+slug: `1971_amtrak_passenger`,
+referringEssay: 
+content: 
+title: 
+maps: 

@@ -1,0 +1,11 @@
+1732_variations_of_the_compass.txt
+1807_trade_winds.txt
+1820_ships_and_navigation.txt
+1833_stage_and_steamboat_routes_ohio.txt
+1838_us_coast_survey_chart_new_haven.txt
+1859_frontiers_of_ocean.txt
+1877_austro_hungarian.txt
+1891_algae_concentrations.txt
+1934_us_coast_survey_chart_hawaii.txt
+_MAIN_navigating_the_coasts_and_seas.txt
+maps.txt
