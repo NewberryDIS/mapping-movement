@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "mapping-movement/precache-manifest.e333a3c766eec2cff076b155dc4f9133.js"
+  "/precache-manifest.0f766841d62bdbba072f1c864552f262.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mapping-movement"});
