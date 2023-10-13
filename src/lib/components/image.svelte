@@ -36,7 +36,7 @@
 	<div class="image-container no-lines">
 		<div
 			class="space"
-            style="background-image:  url('{base}/local-images/{image[0]}.jpg');"
+            style="background-image:  url('{base}/2000/{image[0]}_2000w.jpg');"
 		>
 			{#if tooltipVisible}
 				<div

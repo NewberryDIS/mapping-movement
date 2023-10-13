@@ -14,7 +14,7 @@
                         id="{g.essayno}-{g.minino}"
                         href="{base}/{g.essayslug}/{g.minislug}#top"
                         class="no-lines"
-                        style="background-image: url('https://collections.newberry.org/IIIF3/Image/{g.imageiiifid}/square/300,/0/default.jpg');"
+                        style="background-image: url('{base}/600/{g.imageiiifid}_600.jpg');"
                     >
                         <li>
                             <span>
