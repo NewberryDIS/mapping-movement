@@ -1,0 +1,192 @@
+---
+essayno: mm12
+essayfn: mm12-waterways-cartography-part-1
+essaytitle: "Waterways Cartography, Part I"
+essaysubtitle: "The Mapping of North America's Internal Navigation Systems"
+author: "Gerald A. Danzer"
+essayslug: waterways-cartography-part-1
+---
+
+<script>
+import {page} from '$app/stores'
+import {base} from '$app/paths'
+import Image from '$comps/image.svelte'
+</script>
+
+Mapping movement over water, particularly the transport of goods and passengers by way of rivers, lakes, canals, and intracoastal waterways, is an integral part in the story of the development of North America. Our focus here is on how waterways were conceived and developed, maintained and improved across the continent. The technologies employed, initially developed in the Old World, brought new ways of transport and travel to the New World, stimulating fresh approaches to conquering space and improving life. Maps stood behind the whole process, but needed new ways of reading them to reveal their unique qualities and full potential.
+
+This project uses two brief essays and twenty focus maps to introduce readers to the cartography of waterways in North America over the last several centuries. The first essay discusses the special qualities of these maps and then notes their origin in Europe. The second essay picks up the story in North America and brings the account up to the present day. Ten focus maps, arranged chronologically, accompany each essay, but together, they outline the story of travel and commercial exchange over water. At the same time each focus map has something to say about the unique characteristics of waterways cartography. The commentary for each map therefore uses a variety of approaches to develop contexts for understanding, appreciating, and critiquing them.
+
+What is unique about maps focusing on waterways? Does a reader need any special preparation to read them with deep understanding and to use them to advantage? How many different types of waterway maps were drawn to help shape the continent? Why were they created? What insights might they provide to fathom the main currents in American thought?
+
+With these questions in mind, let us define some basic terms. A map is a graphic image that shows aspects of the earth’s surface to help us think about the world. We study the surface and then mine the layers of meaning under it, probing for hidden depths, secret arguments, and cultural reflections. A “way,” in turn, is a route or path for movement. So, at the most basic level, waterway maps employ hydrographic features to convey information and/or arguments about the movement of goods or passengers by way of water, or in some examples, the conveyance of water itself for irrigation, drainage, or consumption. Some of these waterways mapped are natural, others, "Canals," are artificial, made by people for these purposes.
+
+One of the oldest extant maps in the Western tradition, a plan of the Mesopotamian city of Nippur, inscribed on a clay tablet with a reed stylus over three millennia ago, features the Nunbirdu Canal. One hesitates to label this example as a waterways map because the canal is not the focus of the map: It is just one physical feature among others, such as walls, temples, and palaces, which defined the urban fabric. However, if the main map had an inset to show the route of the canal, or the harbor facilities at the city, then we would consider the entire effort as a waterways map. Definitions are difficult, and categories often cause confusion, but “waterways maps,” as used here, center on rivers, lakes, and canals, and are primarily employed as parts of transportation systems. However, the rubric also extends to natural and artificial works dedicated to irrigation, flood control, water conveyance, and other commercial or recreational purposes.
+
+<Image index=1 />
+
+### Reading Canal Maps
+
+Canal maps are only one type of waterways cartography, but understanding their nature and function will help readers put the entire corpus into context. First, note that canal maps often come in two distinctly different parts: The isometric view of the canal directly overhead as the waterway crosses its territory and a sideways view showing the elevation of the various pools created by dams and usually separated by locks. The second view ordinarily employs a vertical scale much larger than the horizontal one. A third perspective, occasionally employed, is a cutaway section across the width of the canal to demonstrate how a boat would float upon its waters. Here the horizontal and vertical scales would be identical, or at least much closer together. A fourth feature, understood but not often presented graphically, is the need for feeder systems to keep enough water in the waterway to float the boats. Here reservoirs, dams, lateral canals, raceways, regulating channels, and the like are involved. A map recognizing the difficulty of maintaining constant water levels in canals shows the main passageway as only one part of a complex engineering system. A variety of maps, diagrams, drawings and tables are thus usually needed to fully explain the entire system suggested on the main sheet.
+
+Maps of rivers also need multiple images and perspectives because the waters vary so much between high and low levels. Isometric maps need to show the river at various stages, reaching out to cover the entire flood plain, sometimes even extending further to define the stream’s entire basin. Rivers are constantly changing their course, eroding some banks and depositing the materials elsewhere, creating new vegetation patterns, opening and closing channels, and moving islands downstream. In short, rivers are wild and canals have tamed their waters, best viewed as complicated machines in motion. These dynamic factors must be taken into account whenever one consults any waterways map.
+
+Translating the variability and complexity of waterways into stable economic terms leads to two major considerations somewhat contradictory in nature. The first is how people have found ways to regulate water flows and levels. The second is their desire to emphasize the advantages of water transport by maximizing the carrying capacity of the vessels employed on the waterway. The development of dams, reservoirs, and locks from the seventeenth century onward created a set of solutions to the first factor, and the use of steam and later diesel power addressed the second issue. By the dawn of the twenty-first century it was practical to assemble as many as forty or fifty barges, aggregating up to 80,000 tons, into one tow powered by a single tugboat. This was accomplished on the lower Mississippi River where a deep channel is maintained for about 700 miles without a lock.
+
+Upstream on the Great River, where locks are required at regular intervals, the expense of enlarging the facilities to accommodate such tows has posed problems. On the other hand, breaking down the tows and reassembling them after proceeding through smaller locks raises time and labor costs, factors which cut into the economic advantage of waterborne commerce. Knowledgeable people view waterways maps in terms of transportation units, that is, the number of tons times the number of miles moved in a single hour of labor cost for one person. Thus deeper beds, expanded locks, larger vessels, more powerful engines, and reduced labor costs all increase the viability of an inland navigation system. But larger facilities also dramatically increase the amount of capital investment required, may reduce the flexibility of the system, and may also have greater impact on river ecosystems.
+
+Another factor, historically very significant but usually not readily apparent on waterways maps, is the push to find ways to cross summits between water- courses. Locks are most challenging to operate at the highest point on the divide between natural basins because they must be kept full of water at a place where it is seldom readily available. Inventors and engineers have been kept busy over the years searching for ways to overcome this challenge of the summits.
+
+Inclined planes, mechanical lifts, shoots of various types, railroads, and huge containers designed to hold entire ships loaded with cargo and hoist them over an embankment, were all suggested and tried in order to conquer summits over the centuries. The United States, facing labor shortages during the Canal Era, often took a leadership role in these experiments. The inclines on the Morris Canal, put into operation in 1831, were constantly reengineered to make them more efficient. The basic idea was to use a lock ladder to bring coal barges to a summit and then slide them down the slope on the other side. The end result, employing inclined planes for both ascent and descent, gained international fame and became a classic example of how to reduce the construction of expensive locks. ([Focus Map 11](/waterways-cartography-part-2/1882-inland-canals#top)) The New Jersey canal continued in operation until 1924 when an expanding population lowered the water table and took away an economical water supply.
+
+<Image index=6 />
+
+In the 1840s the use of railroads to portage canal boats across the summits of the Pennsylvania mountains to connect the Delaware and Ohio rivers also gained fame in the annals of transportation technology, but it soon succumbed to economic pressures brought on largely by improvements in the trunk-line railroads that offered direct competition. The Pennsylvania Mainline Canal thus flourished for a mere twenty years, one major stumbling block being the labor expense of detaching the canal boats into their four compartment sections to fit on the railway cars and then reassembling them at the other end of the portage. Nevertheless, the entire Pennsylvania canal system rivaled that of New York State for a short time and demonstrated how a coordinated entity could use varying technologies to address the specific challenges of a site to the benefit of the entire transportation system.
+
+Therefore a major consideration when reading waterways maps, especially those showing canals, is that they are often accompanied by engineering drawings showing how specific topographical challenges were or would be addressed. Indeed, a full complement of maps for a canal would go beyond the typical route map to also picture the waterway in profile as well as cross section ad then portray its water management area, featuring reservoirs, feeders, and drainage facilities, often reaching to the full extent of the drainage basin, and finally featuring drawings of locks, inclines, or other engineering solutions used at specific sites along the way.
+
+But there are even more challenges to reading canal maps. The numerous technologies employed, the varying widths used on different canals, the dissimilar lengths of their locks, and the need to use barges specifically built for the depth of each canal—these complications are not readily apparent on most canal maps. What looks like an integrated system on a map often turns out to be a collection of unique units.
+
+Scale posed another issue in waterways cartography. Should inland navigation maps follow the conventions of naval practice? Specifically, should they use statute miles usually employed for measuring land areas, the length of which is set by law, or should they use nautical miles determined by the length of one minute of latitude? The difference is that one nautical mile equals 1.15 US statute miles. Similarly, should speed be measured in knots or in miles per hour? Canal maps generally used land-based measurements, but maps of the Great Lakes and the Intracoastal Waterways often spoke the language of nautical charts.
+
+The inclusion of coastal maps in this study ([Focus Map 19](/waterways-cartography-part-2/1949-intracoastal-waterway-nj#top)) is dictated by the fact that boats primarily designed for inland waters often venture out into the ocean for short distances. Moreover, the construction of the Intracoastal Waterway along the Atlantic and Gulf coasts specifically encouraged the use of such watercraft for coastal voyages. This practice, although not unique to North America, was certainly encouraged by the continent’s submerged coastal plain along the Atlantic and Gulf shores.
+
+In sum, waterways maps, like all types of maps, are difficult to confine within specific boundaries. The edges of maps always whisper to informed readers that there is more beyond the neat lines marking the end of coverage. The geography always extends further than the cartography, even on world maps that often omit coverage of the very high latitudes. Map readers need to keep reminding themselves that there is more space beyond the sheet at hand, connected in many ways to the area portrayed, off the map but still part of the story.
+
+Finally, there is the time factor. Every map, to be complete, needs a date. What time does it present? Is the information current? Or, does it portray a world now past, but calibrated to a specific date? Many times maps use a generalized past, combining data from various years or periods into one extended unit of time. On other occasions, maps present future plans or possibilities not yet realized. From the very beginning, English maps of canals distinguished between waterways proposed, chartered, under construction, and in operation. American cartographers generally followed this practice for transportation mapping, and alert readers will always consult the key to keep the distinctions in mind.
+
+Hopefully these comments urging readers of waterways maps to “keep their heads up” will not turn them away from using these maps or appreciating the riches they have to offer. Moving water has always fascinated humankind, and the prospect of moving over water quickens our blood. Rivers and lakes, at the very least, put flesh on the dry bones of our map. Hydrographic features provide locations and create a sense of place. Cartographic portrayals of lakes, rivers, and canals, like the physical features themselves, have become part of our culture, both in their own right and in terms of how the people use them. In history as well as in legend, they are ingredients in recipes for the American way, major sources for documenting the American experience. They furnish telling mirrors for understanding ourselves and our situation.
+
+Waterways cartography may have appeared before the practice of writing itself. Both were connected. One way to explain the rise of civilization is to point to the shift from rainfall agriculture to irrigation with the resulting dramatic increase in production. When water could be channeled and regulated, engineering and technical knowledge became especially valuable, larger public works were put into place, cities developed, laws were made, and written records were kept. Canal maps, now lost in the shifting sands of time, probably stood behind the whole process.
+
+<Image index=2 />
+
+### The European Background
+
+Engineering designs, plans, and surveys must have facilitated the construction of many ancient canals that are known today only from written references or the archaeological record. This type of mapping has generally not survived, but the notebooks of Leonardo da Vinci, which sketch canals and hydrographic works for Italy in the Renaissance, are one exception. The earliest printed waterways maps did not appear until over a century later in France. One of the first of these is spectacular, and the waterway it portrays is even more so. The Languedoc Canal, or the Canal du Midi, on which construction was started in 1666, was completed under the direction of a talented amateur, Pierre-Paul Riquet, in 1681. Its design rested on the technology of the Briare Canal near Paris completed fifty years earlier, but it also utilized the experience of water management systems developed in the Low Countries and in Italy. Moreover, it depended on the common knowledge of local folk, including the management of stream flow by women.
+
+No one is sure of the exact way the knowledge of hydrographic engineering was diffused throughout Europe, but it burst into public consciousness in Languedoc where a hundred locks, a long tunnel, and three major aqueducts carried barges from the Bay of Biscay on the Atlantic Ocean to the Mediterranean Sea. In the process, cargo took a short cut and avoided problems in the Strait of Gibraltar, a military advantage that helped finance the entire effort. The Midi Canal marked a coming of age of canal engineering, and the inquisitive American, Thomas Jefferson, a century later, had a carriage fixed to a barge so he could travel, as a passenger, over the entire length of the waterway in comfort. Jefferson spent nine days on the canal, walking along the towpath or riding in his carriage, where he could “read, write, or observe,” with a map at hand, we suppose. There is no doubt that Jefferson knew how to read it with understanding for he devoted a whole day to investigate, on horseback, “the manner in which water has been collected to supply the canal.” (Jefferson 1787, 415-446)
+
+The celebratory map _Le Canal Royal de Languedoc…_ which I. B. Nolin published in Paris in 1697, echoes the spirit of the Midi canal in its elaborate presentation of it. Basically a strip map showing the canal’s route, it also features extensions showing the feeder reservoirs. The dozens of coats of arms that surround the map are surmounted by a royal tribute. Forty-seven plans of locks and engineering features, plus five inset maps, fill up the margins of the three folio sheets pasted together to accommodate all the information and decorations, turning the map into a virtual atlas. The cartouche at the center shows Neptune exchanging ships with a maiden representing the Mediterranean Sea. A reader needs at least an hour to fully explore the map. French engineers devoted the next century-and-a-half to connecting its two seventeenth-century canals with a network of waterways that was well underway before the English built their first modern canal. Nevertheless, North American waterway maps are firmly anchored in an English rather than a French cartographic tradition.
+
+The modern canal era in England suddenly came to life in 1759 when the engineer James Brindley completed a canal for the Duke of Bridgewater to haul coal to Manchester. The waterway became a landmark in the Industrial Revolution and was followed by a multitude of similar projects. Each one needed a separate act of Parliament to proceed, and the procedure was soon regularized with maps playing essential roles.
+
+Geologist John Farey, Sr.'s long article on canals in the 39-volume _Cyclopaedia, Or Universal Dictionary of Arts and Sciences_ (1803-1820), compiled by Abraham Rees, refers to eight steps in developing a canal. Maps were needed at every stage. The process was outlined as follows:
+
+1. An initial survey of the line proposed
+
+2. A complete plan to show the local impact and to detail the facilities needed: culverts, drains, bridges, water supply works, roads, and the like
+
+3. Plans to accompany the “books of reference” required to be submitted with the application to Parliament for a charter, certified and “lodged with the county clerk” for public inspection and with the company clerk for stockholders to consult
+
+4. A general route map to assist in selling stock for the company
+
+5. Land surveys to record the purchase of land parcels required for the improvement
+
+6. Detailed construction plans needed for the “acts applying,” and local customs
+
+7. Maps and plans to facilitate the management and operation of the enterprise
+
+8. Similar maps to explore future developments and secure extensions or connections to expand the enterprise because it was in the nation’s interest to join individual projects together, creating a national system of waterways.
+
+Large-scale sheets showing the route were also required so that property owners, at the very beginning of the enterprise, could gauge the impact the development would have on their lands. Small-scale maps of the route designed to promote the sale of shares in the company could be more general, even decorative, in nature. On the other hand, the engineering maps and diagrams needed to direct construction activities called for a high level of accuracy, especially when work was carried out at more than one place at the same time.
+
+However, the classic British canal map that appeared about three decades after the Bridgewater Canal was completed followed none of these specific examples. Instead of focusing on one waterway, it portrayed the whole “system” of inland navigation in England. John Phillips included this map in his _General History of Inland Navigation, Foreign and Domestic, containing a Complete Account of the Canals Already Executed in England, with Considerations on those Projected_ (London,1792). Originally published in two large volumes, a second edition appeared three years later, followed by several more versions, including a less expensive quarto edition, within the next decade. The fourth edition, dated 1803, was not only corrected and updated, but also abridged and reduced in price to reach a wider audience.
+
+<Image index=7 />
+
+By the time this popular version appeared, “canal fever,” already past its peak in Britain, had started to break out in the new United States. Interestingly, Phillips listed as the second of his qualifications for writing the book the fact that he had spent “some years” in America as “a prisoner on parole.” His first qualification was his employment “by the great Brindley, the father of English canals,” but experience in America furnished “reasonable pretensions to a proper knowledge of the subject.” “No part of the world,” he concluded, “is so well watered…as the territories of the American States.” Nature had started the job and canals would perfect it, converting the United States into “a number of large fertile islands, uniting and trading with each other with ease and small expense.” (572-573) The author then devoted about ten pages to various proposed canals in progress or proposed in America. Hailing the “the immortal Washington…\[as\] the original father and promoter of these canals and improvements…. Twice the savior of his country,” he had set it on the course to prosperity as well as liberty. With canals, the US economy would soon “astonish Europe.”
+
+As you can see, there was little doubt in European eyes that inland navigation in America should be considered on a national level and seen as a great engine of prosperity. Abraham Rees no doubt had an edition of Phillips’ study at hand when he entered the article on canals into his _Cyclopaedia_. Although the entry was the longest one in the entire thirty-nine-volume work, it needed a map similar to the one in _Inland Navigation_ to tell the story. So Farey reported, at the conclusion of the “Canals” entry, that he intended to supply such a map in an appended atlas volume showing how England was served by an internal system of “navigable rivers, canals, rail-ways, harbors, etc.” The map, copyright on May 1, 1818, duly appeared in the atlas supplement (volume 45) to the _Cyclopaedia._ All of the maps in this world atlas are general reference maps except for the one titled “Canals, Navigations, and Railways of Great Britain,” which is a stellar example of an early thematic map devoted to transportation.
+
+Now this fact, seemingly of only antiquarian interest, may be critical to the history of American cartography in general and its maps of internal navigation in particular. Rees’s _Cyclopaedia_, in spite of its great size, found a home in the United States. A consortium of almost every leading printer in the country came together to support the US edition of the great work. Financial difficulties faced the project at every turn, but it was eventually published in 47 volumes between 1810 and 1824. The US edition’s article on canals, well over 100,000 words in length, repeats much of the information in the London version but devotes about one-tenth of the space to projects proposed and under construction in the United States, covering the story up to about 1804.
+
+This long section on canals in the United States begins by echoing the optimism, even the very words, of Phillips: Artificial waterways would perfect “the most intimate union” formed by nature, converting the United States “into a cluster of large and fertile islands, communicating with each other, with ease and little expense, and, in many instances without the uncertainty and danger of the sea.” The accompanying atlas to the English version was also duly reproduced in the US, even the exceptional map of the canals of Great Britain. The map may be viewed as an inspiration for the new country, although directed to a British audience, because the theme of a system of waterways seemed to fit the United States as well. Think of the national map “of canal-making, and of river-navigations and railways as forming one great, compound, and connected _System of Internal Communication_." Only then, the entry continued, should one consider “individual establishments of this kind.” The reader would do well to start with this basic concept when reading their maps as well: Thinking of individual areas in terms of the larger systems of which they form a part.
+
+The US edition concluded its section on canals in the new nation with a stirring vision enunciated by James Cammack of Georgia. He envisioned a nation crisscrossed by canals, main trunks with their subordinates, “intersected, like the streets, lanes and avenues of a great city; with channels of conveyance for the wealth, produce and internal commerce of the whole.”
+
+The accompanying atlas, in the US version, largely followed the London edition, containing, in the same order, ancient and modern maps. The United States now appeared in two sheets, the northern part to the Mississippi River and the southern part to the Rio Grande, both “compiled from the best authorities by John Melish.” Dated July, 1818, the first one prematurely showed Illinois as a state. Thus it was one version of Melish’s celebrated national map. Different engravers, often without identification, worked on these encyclopedia maps, mostly in Philadelphia, then the center of American publishing and mapmaking.
+
+The celebrated English canal map appeared in a virtually identical US version, providing an example and stimulus to the new nation. The American cartographer who seemed to benefit most from this example was Henry S. Tanner. Along with his older brother, Benjamin, and brother-in-law William Darby, the younger Tanner soon became a pillar of his profession, and [his 1829 map of the nation](/waterways-cartography-part-1/1829-canals-and-railroads#top) can be considered a magnificent landmark celebrating transportation cartography as well as the mother map of a United States bound into one nation by the ties of roads, waterways, and railroads. But by then a series of notable images for internal navigation had already been produced. The first of these was published in London, and so as we end the story of the European background to North American waterways cartography in Philadelphia, we must recross the Atlantic Ocean to begin the story of waterways maps by North Americans, the focus of Essay II.
+
+<Image index=3 />
+
+#### Further Reading
+
+The previous discussion of canal and waterways maps is in some ways unique in that it employs their cartography to explore North American history, especially how inland waters carried passengers and freight back and forth across the continent as economic, political, social, and cultural functions. There are literally thousands of excellent books and articles that tell the story of virtually every canal, waterway, river, lake, inland port, and navigation system that has served the continent's inhabitants. Maps have attended these studies in two ways: (1) as primary sources left behind after the planning, building, use, modification, and overall functioning of the particular facility and (2) as creations by later people who turned to cartography to narrate the tale or gauge the effectiveness of particular works, routes, or functions of these waterways.
+
+From the very start scholars at various times have surveyed the major existing works and systems and described them in a systematic way. The entry on “Canals” in both the original British and subsequent American edition of the _Cyclopaedia_ compiled by Abraham Rees serve this function on a global scale. George Armroyd’s _A Connected View of the Whole Internal Navigation of the United States_ appeared in two editions, 1826 and 1830 (reprinted, 1971), needing over 600 pages to complete its coverage.
+
+A major effort by the Division of Transportation of the Carnegie Institution of Washington in the early twentieth century led to several dozen studies by individual scholars which formed the base for a summary _History of Transportation in the United States before 1860_ (1917) prepared under the direction of Balthasar Henry Meyer by Caroline E. MacGill and her staff. This landmark volume was reprinted in 1948. _The Preliminary Report of the Inland Waterways_ _Commission_ published by the Government Printing Office as a Senate Document in 1908 had a different function, but ranged widely in gathering background information of great use to later scholars. It was reprinted in 1972.
+
+In contrast, to these lengthy tomes, most readers learned about _Old Towpaths: The Story of the American Canal Era_ from the sprightly book by Alvin F. Harlow issued in 1926. It is a nostalgic account, ending in a lament for a world that lost out to “the neurotic whirl of our present-day business and social life.” Although it is comprehensive in its coverage, its usefulness is limited by the absence of notes and the lack of an index. Moreover, its tone has shaded the popular image of the canal era and suggested that waterways disappeared with the coming of the railroad. The cartographic record, of course, tells a different tale and one must convert to a divergent mindset to reap the full benefits of these maps.
+
+Going further will be a do-it-yourself project for the researcher, but let me suggest eight reading assignments that might be useful in getting started. First, the researcher should use a survey of the Canal Era in the United States, 1790-1860 by a modern scholar such as Ronald E. Shaw’s _Canals for a Nation_ (1990), a brief account that touches many topics and themes. The second and third suggestions are to read two books in tandem: Forest G. Hill, _Roads, Rails, & Waterways: The Army Engineers and Early Transportation_ (1957) and Arthur Maass, _Muddy Waters: The Army Engineers and the Nation’s Rivers_ (1951). This would be best followed by a book or an article in the continuing debate between natural free-flow advocates and those confident in engineering solutions to riverine problems.
+
+The fourth and fifth suggestions are to use some deeper history to illuminate the European context for America’s use of waterways as transportation arteries. The researcher would be well served to start with L. T.C. Rolt’s _From Sea to Sea: The Canal du Midi_ (1973), then to read Chandra Mukerji's, _Impossible Engineering_ (2009), the same topic seen through several different lenses, and conclude with her article, “Printing, Cartography, and Conceptions of Place in Renaissance Europe,” in _Media, Culture, and Society_, 28:5 (September, 2006), 651-669.
+
+The next two approaches involve much less arduous reading. The sixth, _Towpaths to Tugboats: A History of American Canal Engineering_ (1985) is a pamphlet published by the American Canal and Transportation Center for a popular audience. It hails the achievements of the engineers as milestones on the road to progress. The other suggestion, the seventh, is a clearly written scientific study, _Hydrology and Environmental Aspects of Erie Canal (1817-99)_. The illustrations alone in this ninety-two-page report, US Geological Survey Water-Supply Paper number 2018, are worth the price of admission.
+
+The eighth, and final, recommendation starts with Robert C. Post’s _Technology, Transport, and Travel in American History_ (2003), a short volume in the Historical Perspectives on Technology, Society, and Culture series issued by the American Historical Association and the Society for the History of Technology. Three of its nine chapters deal with Canals, the Inland Seacoast, and Riverways. Brief essays, followed by several pages of useful notes are really a preface to a long bibliography.
+
+In the end, going researching further depends on where one's subject is planted. It will be necessary to use local sources and state or regional finding aids to discover materials of use. But one should not neglect general or related documents. Remember: Developing a context for the research will provide keys to its meaning and significance. Several of Post’s suggestions will probably be useful springboards, but I have my own favorites to add to his list:
+
+<Image index=4 />
+<details>
+<summary>Further Reading</summary>
+
+- Albion, Robert Greenhalgh, _The Rise of New York Port, 1815-1860_, (1939).
+
+- Becht, J. Edwin, _Commodity Origins, Traffic and Markets Accessible to Chicago via the Illinois Waterway_, (1952).
+
+- Cudahy, Brian J., _Box Boats: How Container Ships Changed the World_, (2006).
+
+- Dixon, Frank Haigh, _A Traffic History of the Mississippi River System_, (1909).
+
+- Harris, Robert, _Canals and their Architecture_, (1969).
+
+- Howe, Charles W. , et al., _Inland Waterway Transportation: Studies in Public and Private Management and Investment Decisions_, (1969).
+
+- Larson, John L., _Internal Improvement: National Public Works and the Promise of Popular Government in the Early United States_, (2001).
+
+- McCool, Daniel, _River Republic: The Fall and Rise of America’s Rivers_, (2012).
+
+- McCullough, Robert, and Walter Leuba, _The Pennsylvania Main Line Canal_, (1973).
+
+- Shallat, Todd, _Structures in the Stream: Water, Science, and the Rise of the U. S. Army Corps of Engineers_, (1994).
+
+- Sheriff, Carol, _The Artificial River: The Erie Canal and the Paradox of Progress, 1817-1862_, (1996).
+
+- Stine, Jeffrey K., _Mixing the Waters: Environment, Politics, and the Building of the Tennessee-Tombigbee Waterway_, (1993).
+
+</details>
+
+<Image index=5 />
+<details>
+<summary>Bibliography</summary>
+
+- Cammack, James. 1806-1820. “Canals.” In _The_ _Cyclopaedia, or, Universal dictionary of arts, sciences, and literature_, edited by Abraham Rees, v. 6. Philadelphia: Samuel F. Bradford.
+
+- Colden, Cadwallader D. 1825. _Memoir…presented to the Mayor of the City, at the Celebration of the Completion of the New York Canals._ New York: Printed by order of the Corporation of New York.
+
+- Colles, Christopher. 1785. _Proposals for the speedy settlement of the waste and unappropriated lands on the Western Frontier…._ New York: Samuel Loudon.
+
+- Farey, John Sr. 1806-1820. “Canals.” In _The_ _Cyclopaedia, or, Universal dictionary of arts, sciences, and literature,_ edited by Abraham Rees, v. 6. Philadelphia: Samuel F. Bradford.
+
+- Hosack, David. 1829. _Memoir of De Witt Clinton_. New York: J. Seymour.
+
+- Hutchins, Thomas. 1778. _A Topographical Description of Virginia, Pennsylvania, Maryland and North Carolina_. London: T. Hutchins.
+
+- Jefferson, Thomas, “Notes of a Tour into the Southern Parts of France, &c. Memorandums taken on a journey from Paris into the southern parts of France and Northern Italy, in the year 1787.” In _The_ _Papers of Thomas Jefferson,_ edited by Julian P. Boyd, et al, v. 11, 415-462. Princeton, NJ: Princeton University Press.
+
+- Maury, Matthew Fontaine, _Physical survey of Virginia_. Richmond, VA: W.A.R. Nye
+
+- Nolin, Jean-Baptiste. 1697. _Le canal royal de Languedoc._ Paris: I.B. Nolin.
+
+- Phillips, John. 1792. _A general history of inland navigation, foreign and domestic, containing a complete account of the canals already executed in England, with considerations on those Projected._ London: J. Taylor
+
+- Tanner, Henry Schenck. 1826. _A New College Atlas._ Philadelphia: Henry Schenck Tanner.
+
+- Tanner, Henry Schenck. 1829. _Memoir of the recent surveys, observations, and internal improvements, in the United States._ Philadelphia: Henry Schenck Tanner.
+
+</details>
