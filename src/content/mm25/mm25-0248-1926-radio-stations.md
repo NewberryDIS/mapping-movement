@@ -1,4 +1,5 @@
 ---
+iaid: x998854158805867
 minino: '0248'
 minifn: mm25-0248-1926-radio-stations
 minititle: 'Radio Stations of the United States, Canada, Mexico, and Cuba, 1926'

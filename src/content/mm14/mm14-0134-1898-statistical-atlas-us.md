@@ -1,4 +1,5 @@
 ---
+iaid: x998758608805867
 minino: '0134'
 minifn: mm14-0134-1898-statistical-atlas-us
 minititle: 'Statistical Atlas of the United States, 1898'

@@ -1,4 +1,5 @@
 ---
+iaid: x998990668805867
 minino: '0119'
 minifn: mm12-0119-1878-longitudinal-sections
 minititle: 'Longitudinal Sections, Mississippi Valley, 1878'

@@ -1,4 +1,5 @@
 ---
+iaid: x998776368805867
 minino: '0180'
 minifn: mm18-0180-1934-us-coast-survey-chart-hawaii
 minititle: 'U.S. Coast Survey Chart, Hawaii, 1934'

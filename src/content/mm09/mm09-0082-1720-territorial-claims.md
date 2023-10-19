@@ -1,4 +1,5 @@
 ---
+iaid: x991578408805867
 minino: '0082'
 minifn: mm09-0082-1720-territorial-claims
 minititle: 'Territorial Claims, North America, 1720'

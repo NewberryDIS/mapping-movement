@@ -1,4 +1,5 @@
 ---
+iaid: x998713388805867
 minino: '0111'
 minifn: mm12-0111-1808-proposed-canal-new-york
 minititle: 'Proposed Canal, New York to Philadelphia, 1808'

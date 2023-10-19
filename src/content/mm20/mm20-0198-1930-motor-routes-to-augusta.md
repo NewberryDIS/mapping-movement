@@ -1,4 +1,5 @@
 ---
+iaid: x998740848805867
 minino: '0198'
 minifn: mm20-0198-1930-motor-routes-to-augusta
 minititle: 'Motor Routes to Augusta, Georgia and Florida, 1930'

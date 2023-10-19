@@ -1,4 +1,5 @@
 ---
+iaid: x998653688805867
 minino: '0067'
 minifn: mm07-0067-1863-military-road-from-fort-walla
 minititle: 'Military Road from Fort Walla Walla to Fort Benton, 1863'

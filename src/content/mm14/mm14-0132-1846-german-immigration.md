@@ -1,4 +1,5 @@
 ---
+iaid: x998758218805867
 minino: '0132'
 minifn: mm14-0132-1846-german-immigration
 minititle: 'German Immigration Guide to the US, 1846'

@@ -1,4 +1,5 @@
 ---
+iaid: x998668978805867
 minino: '0077'
 minifn: mm08-0077-1703-new-voyages-in-northern-america
 minititle: 'New Voyages in Northern America, 1703'

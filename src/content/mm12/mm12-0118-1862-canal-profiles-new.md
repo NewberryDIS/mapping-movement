@@ -1,4 +1,5 @@
 ---
+iaid: x999005638805867
 minino: '0118'
 minifn: mm12-0118-1862-canal-profiles-new
 minititle: 'Canal Profiles, New York State, 1862'

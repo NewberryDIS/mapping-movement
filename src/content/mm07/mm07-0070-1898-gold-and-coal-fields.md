@@ -1,4 +1,5 @@
 ---
+iaid: x997505618805867
 minino: '0070'
 minifn: mm07-0070-1898-gold-and-coal-fields
 minititle: 'The Gold and Coal Fields of Alaska, 1898'

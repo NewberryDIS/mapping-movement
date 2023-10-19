@@ -1,4 +1,5 @@
 ---
+iaid: x998724268805867
 minino: '0182'
 minifn: mm19-0182-1909-route-bogota
 minititle: 'The Route of Professor Hiram Bingham from Caracas to Bogota, 1909'

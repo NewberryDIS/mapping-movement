@@ -1,4 +1,5 @@
 ---
+iaid: x998740868805867
 minino: '0196'
 minifn: mm20-0196-1869-georgia-central-railroad
 minititle: 'Georgia Central Railroad and its Connections, 1869'

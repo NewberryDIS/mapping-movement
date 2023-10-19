@@ -1,4 +1,6 @@
 ---
+iaid: x998758498805867
+iaid: x998758508805867
 minino: '0136'
 minifn: mm14-0136-1886-fire-insurance-chi
 minititle: 'Fire Insurance Atlas of Chicago, 1886'

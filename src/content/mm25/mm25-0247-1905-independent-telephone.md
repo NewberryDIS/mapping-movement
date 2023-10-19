@@ -1,4 +1,5 @@
 ---
+iaid: x998854198805867
 minino: '0247'
 minifn: mm25-0247-1905-independent-telephone
 minititle: 'Independent Telephone Networks, 1905'

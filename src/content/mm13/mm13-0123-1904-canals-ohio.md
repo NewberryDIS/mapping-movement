@@ -1,4 +1,5 @@
 ---
+iaid: x998715618805867
 minino: '0123'
 minifn: mm13-0123-1904-canals-ohio
 minititle: 'Canals in Ohio, 1904'

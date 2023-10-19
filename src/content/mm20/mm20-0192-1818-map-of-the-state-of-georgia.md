@@ -1,4 +1,5 @@
 ---
+iaid: x997083948805867
 minino: '0192'
 minifn: mm20-0192-1818-map-of-the-state-of-georgia
 minititle: 'Map of the State of Georgia, 1818'

@@ -1,4 +1,5 @@
 ---
+iaid: x998645678805867
 minino: '0054'
 minifn: mm06-0054-1898-property-chicago
 minititle: 'Property of Railroads in the Business Center of Chicago, 1898'

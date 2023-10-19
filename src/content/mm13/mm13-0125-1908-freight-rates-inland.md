@@ -1,4 +1,5 @@
 ---
+iaid: x998715628805867
 minino: '0125'
 minifn: mm13-0125-1908-freight-rates-inland
 minititle: 'Freight Rates on Inland Rivers, 1908'

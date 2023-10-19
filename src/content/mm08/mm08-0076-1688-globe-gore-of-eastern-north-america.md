@@ -1,4 +1,5 @@
 ---
+iaid: x998670108805867
 minino: '0076'
 minifn: mm08-0076-1688-globe-gore-of-eastern-north-america
 minititle: 'Globe Gore of Eastern North America, 1688'

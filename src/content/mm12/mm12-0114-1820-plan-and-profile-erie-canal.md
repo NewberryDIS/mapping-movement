@@ -1,4 +1,5 @@
 ---
+iaid: x998714798805867
 minino: '0114'
 minifn: mm12-0114-1820-plan-and-profile-erie-canal
 minititle: 'Plan and Profile, Erie Canal, 1820'

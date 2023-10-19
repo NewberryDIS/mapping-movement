@@ -1,4 +1,5 @@
 ---
+iaid: x998643918805867
 minino: '0053'
 minifn: mm06-0053-1895-road-map-ny
 minititle: 'Road map of the country around New York, 1895'

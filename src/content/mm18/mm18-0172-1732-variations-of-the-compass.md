@@ -1,4 +1,5 @@
 ---
+iaid: x998774128805867
 minino: '0172'
 minifn: mm18-0172-1732-variations-of-the-compass
 minititle: 'Variations of the Compass, Atlantic Ocean, 1732'

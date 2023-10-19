@@ -1,4 +1,5 @@
 ---
+iaid: x998715848805867
 minino: '0126'
 minifn: mm13-0126-1931-buffalo-great-lakes
 minititle: 'Buffalo and the Great Lakes, 1931'

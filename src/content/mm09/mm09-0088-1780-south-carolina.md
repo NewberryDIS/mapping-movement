@@ -1,4 +1,5 @@
 ---
+iaid: x993275478805867
 minino: '0088'
 minifn: mm09-0088-1780-south-carolina
 minititle: 'South Carolina and Part of Georgia, 1780'

@@ -1,4 +1,5 @@
 ---
+iaid: x999499108805867
 minino: '0246'
 minifn: mm25-0246-1899-new-economy
 minititle: 'The New Economy, 1899'

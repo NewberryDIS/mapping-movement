@@ -1,4 +1,5 @@
 ---
+iaid: x991572058805867
 minino: '0069'
 minifn: mm07-0069-1870-territory-of-montana
 minititle: 'The Territory of Montana, 1870'

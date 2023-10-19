@@ -1,4 +1,5 @@
 ---
+iaid: x998713858805867
 minino: '0115'
 minifn: mm12-0115-1848-travel-guide-hudson
 minititle: 'Travel Guide, Hudson River, 1848'

@@ -1,4 +1,5 @@
 ---
+iaid: x998726948805867
 minino: '0190'
 minifn: mm19-0190-1848-military-leavenworth
 minititle: 'Military Reconnaissance from Fort Leavenworth to San Diego, 1848'

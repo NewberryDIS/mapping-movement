@@ -1,4 +1,5 @@
 ---
+iaid: x998713838805867
 minino: '0112'
 minifn: mm12-0112-1817-navigation-guide-for-inland-rivers
 minititle: 'Navigation Guide for Inland Rivers, 1817'

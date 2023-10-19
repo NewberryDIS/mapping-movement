@@ -1,4 +1,5 @@
 ---
+iaid: x998716068805867
 minino: '0130'
 minifn: mm13-0130-1964-commodities
 minititle: 'Commodities and Carriers on Inland Waterways, 1964'

@@ -1,4 +1,5 @@
 ---
+iaid: x998740578805867
 minino: '0193'
 minifn: mm20-0193-1822-state-of-georgia
 minititle: 'The State of Georgia, in the American Atlas, 1822'

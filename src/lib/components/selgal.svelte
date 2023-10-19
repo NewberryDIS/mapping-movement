@@ -14,7 +14,7 @@
                         id="{g.essayno}-{g.minino}"
                         href="{base}/{g.essayslug}/{g.minislug}#top"
                         class="no-lines"
-                        style="background-image: url('{base}/600/{g.imageiiifid}_600.jpg');"
+                        style="background-image: url('{base}/600/{g.imageiiifid}_600w.jpg');"
                     >
                         <li>
                             <span>

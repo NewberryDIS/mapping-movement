@@ -1,4 +1,5 @@
 ---
+iaid: x998670098805867
 minino: '0071'
 minifn: mm08-0071-1541-nautical-chart-of-the-pacific-coast-of-mexico
 minititle: 'Nautical chart of the Pacific coast of Mexico, Baja California, and the Gulf of California, 1541 (1770)'
