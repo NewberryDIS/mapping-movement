@@ -1,6 +1,5 @@
 ---
 iaid: x998723608805867
-iaid: x998723608805867
 minino: "0184"
 minifn: mm19-0184-1938-motorists-mexico
 minititle: Motorist's Guide to Mexico, 1938

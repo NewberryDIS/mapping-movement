@@ -1,6 +1,5 @@
 ---
 iaid: x998731668805867
-iaid: x998731668805867
 minino: "0188"
 minifn: mm19-0188-1950-panorama-american
 minititle: "Panorama of the American Continent, 1950"

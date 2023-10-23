@@ -1,6 +1,5 @@
 ---
 iaid: x991759858805867
-iaid: x991759858805867
 minino: "0189"
 minifn: mm19-0189-1726-louisiana-mexico
 minititle: "Louisiana and the Coast of Mexico, 1726"
