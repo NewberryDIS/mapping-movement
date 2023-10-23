@@ -1,4 +1,5 @@
 ---
+iaid: x998497288805867
 minino: '0025'
 minifn: mm03-0025-1916-georgia-railroad
 minititle: 'Georgia Railroad Commission Map, 1916'

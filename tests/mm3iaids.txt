@@ -1,0 +1,10 @@
+find ./mm03 -iname "mm03-0021*" -exec awk -i inplace 'NR==1{print; print "iaid: x998496138805867"} NR!=1' {} \;
+find ./mm03 -iname "mm03-0022*" -exec awk -i inplace 'NR==1{print; print "iaid: x998497298805867"} NR!=1' {} \;
+find ./mm03 -iname "mm03-0023*" -exec awk -i inplace 'NR==1{print; print "iaid: x998498438805867"} NR!=1' {} \;
+find ./mm03 -iname "mm03-0024*" -exec awk -i inplace 'NR==1{print; print "iaid: x999421428805867"} NR!=1' {} \;
+find ./mm03 -iname "mm03-0025*" -exec awk -i inplace 'NR==1{print; print "iaid: x998497288805867"} NR!=1' {} \;
+find ./mm03 -iname "mm03-0026*" -exec awk -i inplace 'NR==1{print; print "iaid: x999421478805867"} NR!=1' {} \;
+find ./mm03 -iname "mm03-0027*" -exec awk -i inplace 'NR==1{print; print "iaid: x999421518805867"} NR!=1' {} \;
+find ./mm03 -iname "mm03-0028*" -exec awk -i inplace 'NR==1{print; print "iaid: x998497308805867"} NR!=1' {} \;
+find ./mm03 -iname "mm03-0029*" -exec awk -i inplace 'NR==1{print; print "iaid: x999421538805867"} NR!=1' {} \;
+find ./mm03 -iname "mm03-0030*" -exec awk -i inplace 'NR==1{print; print "iaid: x999476408805867"} NR!=1' {} \;

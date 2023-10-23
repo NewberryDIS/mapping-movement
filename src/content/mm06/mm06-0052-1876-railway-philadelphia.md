@@ -1,7 +1,5 @@
 ---
 iaid: x998643888805867
-new line
-new line
 minino: "0052"
 minifn: mm06-0052-1876-railway-philadelphia
 minititle: "Railway map of Philadelphia, 1876"

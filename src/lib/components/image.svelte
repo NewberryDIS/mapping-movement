@@ -2,29 +2,32 @@
     import { base } from '$app/paths'
 	import { page } from '$app/stores';
 	import Icon from '@iconify/svelte';
-	export let hero = false,
+	export let home = false,
 		index = 0;
 
 	const homePageImages = [
-		['2KXJ8ZSFRJRJR', 'United States of America', '2KXJ8ZSQ38UEJ', '2KXJ8ZWQ2ML7'],
+		['2KXJ8ZSFRJRJR', 'United States of America', '2KXJ8ZSQ38UEJ', '2KXJ8ZWQ2ML7', 'x997119818805867'],
 		[
 			'2KXJ8ZSFE74FY',
 			'Nationalities map no. 1-4, Polk St. to Twelfth,...Chicago',
 			'2KXJ8ZSQ388AA',
-			'2KXJ8ZWQNUL5'
+            '2KXJ8ZWQNUL5',
+"nby_92356"
 		]
 	];
 	// $: console.log('page.data.minis', $page.data.minis);
 	$: mini = $page.data.mini || false;
 	$: image = mini
-		? [mini.meta.imageiiifid, mini.meta.imagetitle, mini.meta.manifest, mini.meta.imagelink]
+		? [mini.meta.imageiiifid, mini.meta.imagetitle, mini.meta.manifest, mini.meta.imagelink, mini.meta.iaid]
 		: $page.data.minis
-		? $page.data.minis.map((i) => [i.imageiiifid, i.imagetitle, i.manifest, i.imagelink])[index]
+            ? $page.data.minis.map((i) => [i.imageiiifid, i.imagetitle, i.manifest, i.imagelink, i.iaid])[index]
 		: homePageImages[index];
 
 	// $: href = `https://digital.newberry.org/mirador?manifest=https://collections.newberry.org/IIIF3/Presentation/Manifest/${image[2]}`;
-	$: href = `https://digital.newberry.org/mirador?manifest=https://collections.newberry.org/IIIF3/Presentation/Manifest/${image[2]}`;
+	// $: href = `https://digital.newberry.org/mirador?manifest=https://collections.newberry.org/IIIF3/Presentation/Manifest/${image[2]}`;
 
+    $: iiifurl ="https://iiif.archivelab.org/iiif/" + image[4]
+    $: dcurl ="https://archive.org/details/" + image[4]
 	let tooltipVisible = false;
 
 	function toggleTooltip() {
@@ -33,10 +36,12 @@
 </script>
 
 <div>
+
+            <!-- style="background-image: image-set(url('/600/{ image[0] }_600w.jpg') 600w, url('/1200/{ image[0] }_1200w.jpg') 1200w, url('/2000/{ image[0] }_2000w.jpg') 2000w);" -->
 	<div class="image-container no-lines">
 		<div
 			class="space"
-            style="background-image:  url('{base}/2000/{image[0]}_2000w.jpg');"
+            style="background-image:  url('/1200/{image[0]}_1200w.webp');"
 		>
 			{#if tooltipVisible}
 				<div
@@ -56,29 +61,51 @@
 			<button class="info-icon" on:click={() => (tooltipVisible = !tooltipVisible)}>
 				<Icon icon="zondicons:question" width="32" color="var(--brand)" />
 			</button>
+            {#if !home}
+<a href="#gallery-anchor" class="jump-tt no-lines" >
+                <div class="jump-tt-text">Jump to essay gallery</div>
+                <Icon icon="emojione-monotone:down-arrow" width="32" color="var(--brand)" />
+            </a>
+{/if}
 		</div>
-		<div class="caption-box">
-			<div class="caption-title">
-				<span>
-					View <i class={hero && $page.data.essay ? 'hero-title' : ''}>{image[1]}</i>
-					<a {href} target="_blank" class="llines"><b>in a IIIF Viewer</b></a>or at
-					<a
-						href="https://collections.newberry.org/asset-management/{image[3]}"
-						target="_blank"
-						class="llines"><b>Newberry Digital Collections</b></a
-					>
-				</span>
-			</div>
-			{#if hero && $page.data.essay}
-				<div class="jump-link">
-					<a href="#gallery-anchor">Jump to Essay Gallery</a>
-				</div>
-			{/if}
-		</div>
+    <figcaption class="outer-container">
+        <div class="inner-container">View <em>"</em></div>
+        <div class="inner-container center-container"><em>{image[1]}</em></div>
+        <div class="inner-container"><em>"</em> in a <a href={iiifurl} target="_blank" class="llines bold">IIIF Vewer</a> or in our <a href={dcurl} target="_blank" class="llines bold">Digital Collections</a></div>
+    </figcaption>
 	</div>
 </div>
 
 <style>
+    .jump-tt {
+        position: absolute;
+        bottom: 11px;
+        right: 11px;
+        border: 1px solid transparent;
+        padding: 4px;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        transition: 250ms;
+        text-decoration: none;
+
+    }
+    .jump-tt-text {
+        font-family: 'styrene';
+        color: var(--brand);
+        height: 100%;
+        opacity: 0;
+        transition: 250ms;
+        padding-inline: 8px;
+    }
+    .jump-tt:hover {
+
+		border: 1px solid var(--brand);
+		background: var(--surface-1);
+    }
+    .jump-tt:hover .jump-tt-text {
+        opacity: 1;
+    }
 	.info-icon {
 		display: block;
 		position: absolute;
@@ -99,53 +126,6 @@
 	}
 	.tooltip p {
 		margin: 4px;
-	}
-	.caption-box {
-		display: flex;
-		flex-direction: row;
-		justify-content: flex-start;
-		align-items: center;
-		height: 30px;
-		width: 100%;
-	}
-	.caption-title,
-	.jump-link {
-		line-height: 0.9rem;
-		font-size: 0.85rem;
-	}
-	.caption-title {
-		max-width: calc(100% - 140px);
-	}
-	.caption-title i {
-		display: inline-block;
-		vertical-align: bottom;
-		white-space: nowrap;
-		overflow: hidden;
-		text-overflow: ellipsis;
-	}
-	.caption-title span {
-		overflow: hidden;
-		white-space: nowrap;
-		text-overflow: ellipsis;
-	}
-	.caption-title:has(.hero-title) i {
-		/* max-width: calc(90% - 140px); */
-	}
-	.caption-title:not(:has(.hero-title)) i {
-		max-width: calc(90% - 140px);
-		/* max-width: 95%; */
-	}
-	.hero-title {
-		max-width: calc(100% - 400px);
-	}
-	.caption-title b {
-		font-weight: bold;
-		font-family: 'signifier-bold';
-	}
-
-	.jump-link {
-		min-width: 150px;
-		text-align: right;
 	}
 	div,
 	a {
@@ -173,4 +153,28 @@
 		padding: 0;
 		position: relative;
 	}
+    .bold { 
+        font-weight: bold;
+    }
+    .outer-container {
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        white-space: nowrap; 
+        overflow: hidden; 
+        font-size: 0.85rem;
+    }
+
+    .inner-container {
+        flex: 0 1 auto; 
+        white-space: nowrap;
+    }
+
+    .center-container {
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
+    button.info-icon {
+        left: 11px;
+    }
 </style>

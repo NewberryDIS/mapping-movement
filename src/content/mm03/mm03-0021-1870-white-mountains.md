@@ -1,4 +1,5 @@
 ---
+iaid: x998496138805867
 minino: '0021'
 minifn: mm03-0021-1870-white-mountains
 minititle: 'White Mountains, NH, Railroad Map, 1870'

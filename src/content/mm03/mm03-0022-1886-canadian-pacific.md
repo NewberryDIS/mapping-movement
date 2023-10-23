@@ -1,4 +1,5 @@
 ---
+iaid: x998497298805867
 minino: '0022'
 minifn: mm03-0022-1886-canadian-pacific
 minititle: 'Canadian Pacific Railway, Metis Rebellion, 1886'

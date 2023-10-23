@@ -77,9 +77,6 @@
 		transition: 100ms;
 		/* display: block; */
 	}
-	footer strong {
-		color: rgba(var(--midnight-rgb), 1);
-	}
 	a:visited {
 		color: rgba(var(--sapphire-rgb), 0.75);
 	}

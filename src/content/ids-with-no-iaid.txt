@@ -1,0 +1,48 @@
+echo 2KXJ8ZSFHNZEV >> mms.text 
+grep -r 2KXJ8ZSFHNZEV ./* >> mms.text
+echo 2KXJ8ZSFHTJLT >> mms.text 
+grep -r 2KXJ8ZSFHTJLT ./* >> mms.text
+echo 2KXJ8ZSFHTHTH >> mms.text 
+grep -r 2KXJ8ZSFHTHTH ./* >> mms.text
+echo 2KXGDN6HHSS >> mms.text 
+grep -r 2KXGDN6HHSS ./* >> mms.text
+echo 2KXJ8ZSFHNTVN >> mms.text 
+grep -r 2KXJ8ZSFHNTVN ./* >> mms.text
+echo 2KXJ8ZSFHNU40 >> mms.text 
+grep -r 2KXJ8ZSFHNU40 ./* >> mms.text
+echo 2KXJ8ZSFHTA06 >> mms.text 
+grep -r 2KXJ8ZSFHTA06 ./* >> mms.text
+echo 2KXJ8ZSFHNQ1C >> mms.text 
+grep -r 2KXJ8ZSFHNQ1C ./* >> mms.text
+echo 2KXJ8ZSFHNYG3 >> mms.text 
+grep -r 2KXJ8ZSFHNYG3 ./* >> mms.text
+echo 2KXJ8ZSFHT74J >> mms.text 
+grep -r 2KXJ8ZSFHT74J ./* >> mms.text
+echo 2KXJ8ZWQ7HJ7 >> mms.text 
+grep -r 2KXJ8ZWQ7HJ7 ./* >> mms.text
+echo 2KXJ8ZSFHN4IF >> mms.text 
+grep -r 2KXJ8ZSFHN4IF ./* >> mms.text
+echo 2KXJ8ZWQ9TGX >> mms.text 
+grep -r 2KXJ8ZWQ9TGX ./* >> mms.text
+echo 2KXJ8ZSFJ1R0V >> mms.text 
+grep -r 2KXJ8ZSFJ1R0V ./* >> mms.text
+echo 2KXJ8ZSQEPKJC >> mms.text 
+grep -r 2KXJ8ZSQEPKJC ./* >> mms.text
+echo 2KXGDN6HAFH >> mms.text 
+grep -r 2KXGDN6HAFH ./* >> mms.text
+echo 2KXJ8ZWQSG1X >> mms.text 
+grep -r 2KXJ8ZWQSG1X ./* >> mms.text
+echo 2KXJ8ZSFJ2670 >> mms.text 
+grep -r 2KXJ8ZSFJ2670 ./* >> mms.text
+echo 2KXJ8ZWQ7A39 >> mms.text 
+grep -r 2KXJ8ZWQ7A39 ./* >> mms.text
+echo 2KXJ8ZSFJ1SRJ >> mms.text 
+grep -r 2KXJ8ZSFJ1SRJ ./* >> mms.text
+echo 2KXJ8ZSFRJBC9 >> mms.text 
+grep -r 2KXJ8ZSFRJBC9 ./* >> mms.text
+echo 2KXJ8ZSFRJ6W1 >> mms.text 
+grep -r 2KXJ8ZSFRJ6W1 ./* >> mms.text
+echo 2KXJ8ZSQ3FANZ >> mms.text 
+grep -r 2KXJ8ZSQ3FANZ ./* >> mms.text
+echo 2KXJ8ZSFHNET3 >> mms.text 
+grep -r 2KXJ8ZSFHNET3 ./* >> mms.text

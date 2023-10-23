@@ -16,7 +16,7 @@ The production of this site was made possible by a major grant from the Preserva
 
 The editors are deeply appreciative of the intellectual and technical guidance and generous and patient support provided by the Northwestern University Advanced Media Production Studio (NUAMPS), a professional production team within Northwestern University Information Technology (NUIT), Academic & Research Technologies, who undertook the site design, technical development, and image capture and processing.
 
-<Image index=1 />
+<Image index=1 home />
 <details>
 <summary>Credits and Acknowledgments</summary>
 
@@ -24,85 +24,85 @@ All essays in _Mapping Movement in American History and Culture_ were subject to
 
 _Coeditors:_
 
-- James R. Akerman, The Newberry Library (Project Director)
-- Peter Nekola, The Newberry Library
+-   James R. Akerman, The Newberry Library (Project Director)
+-   Peter Nekola, The Newberry Library
 
 _Project Advisors:_
 
-- Michael P. Conzen, University of Chicago
-- Gerald A. Danzer, University of Illinois at Chicago
-- Ronald Grim, Boston Public Library
-- Jo Guldi, Brown University
-- David Rumsey, Cartography Associates
-- Susan Schulten, University of Denver
+-   Michael P. Conzen, University of Chicago
+-   Gerald A. Danzer, University of Illinois at Chicago
+-   Ronald Grim, Boston Public Library
+-   Jo Guldi, Brown University
+-   David Rumsey, Cartography Associates
+-   Susan Schulten, University of Denver
 
 Many departments of the Newberry Library cooperated in the creation of this resource, including:
 
 _The Newberry Library, Department of Digital Images and Services:_
 
-- Jennifer Thom
-- Catherine Gass
-- John Powell
-- Adam Strohm
+-   Jennifer Thom
+-   Catherine Gass
+-   John Powell
+-   Adam Strohm
 
 _The Newberry Library, Department of Collection Services:_
 
-- Linda Ballinger
-- Patrick Morris
-- Jessica Grzegorski
-- Graham Greer
+-   Linda Ballinger
+-   Patrick Morris
+-   Jessica Grzegorski
+-   Graham Greer
 
 _The Newberry Library, Editorial Staff:_
 
-- Will Gosner
-- Anne E. Cullen
-- Jarrett P. Dunning
-- Kristin Emery
-- Andrew Epps
-- Douglas Knox
-- Maisie O'Malley
+-   Will Gosner
+-   Anne E. Cullen
+-   Jarrett P. Dunning
+-   Kristin Emery
+-   Andrew Epps
+-   Douglas Knox
+-   Maisie O'Malley
 
 _Editorial Assistants:_
 
-- Daniel Greenberg
-- Daniel Jacobs
+-   Daniel Greenberg
+-   Daniel Jacobs
 
 _The Newberry Library, Department of Conservation Services:_
 
-- Lesa Dowd
-- Linda Kinnaman
-- Barbara Korbel
-- Kaytee Meade
-- Virginia Meredith
-- Becky Saiki
+-   Lesa Dowd
+-   Linda Kinnaman
+-   Barbara Korbel
+-   Kaytee Meade
+-   Virginia Meredith
+-   Becky Saiki
 
 _The Newberry Library, Department of Information Technology:_
 
-- Drin Gyuk
+-   Drin Gyuk
 
 This project could not have been undertaken without the support of:
 
-- James Grossman
-- Daniel Greene
-- David Spadafora
-- Diane Dillon
-- D. Bradford Hunt
+-   James Grossman
+-   Daniel Greene
+-   David Spadafora
+-   Diane Dillon
+-   D. Bradford Hunt
 
 This project also owes much to the tireless work of the Newberry Library Special Collections and General Reading Room Staff.
 
 Additional materials appear in the archive through the courtesy of:
 
-- Arthur and Janet Holzheimer
-- The British Library
-- The Milwaukee Public Library
-- The United States Army Corps of Engineers
+-   Arthur and Janet Holzheimer
+-   The British Library
+-   The Milwaukee Public Library
+-   The United States Army Corps of Engineers
 
 The following contributors gifted materials for the project to the Newberry Library:
 
-- James R. Akerman
-- Gerald A. Danzer
-- Ralph E. Ehrenberg
-- Peter Nekola
+-   James R. Akerman
+-   Gerald A. Danzer
+-   Ralph E. Ehrenberg
+-   Peter Nekola
 
 ![N.E.H.]({base}/NEH-Preferred-Seal820.jpg)
 

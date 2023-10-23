@@ -6,7 +6,7 @@
 	$: lg = $y < 200 && 'lg';
 	// $: lg = false;
 	$: sc = sm || lg || '';
-	$: console.log('$page.params.mini', !!$page.params.mini);
+	// $: console.log('$page.params.mini', !!$page.params.mini);
 	$: mini = !!$page.params.mini;
 </script>
 

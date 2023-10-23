@@ -42,7 +42,7 @@
 		<Sidebar {toc} />
 	</nav>
 	<article class="core">
-		<Image hero />
+		<Image home={$page.url.pathname === '/'} />
 		<Title {title} />
 		<div class="prose">
 			<slot />
