@@ -1,4 +1,5 @@
 ---
+iaid: xMM08-75
 minino: "0075"
 minifn: mm08-0075-1672-jesuit-map-of-lake-superior
 minititle: "Jesuit Map of Lake Superior, 1672"

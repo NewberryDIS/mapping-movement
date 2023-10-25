@@ -1,5 +1,6 @@
 ---
 iaid: x998559858805867
+iaid: x998559858805867
 minino: "0047"
 minifn: mm05-0047-1905-panama-canal
 minititle: "Proposed Panama Canal, 1905"

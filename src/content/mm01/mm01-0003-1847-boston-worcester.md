@@ -1,4 +1,5 @@
 ---
+iaid: x999374808805867
 minino: "0003"
 minifn: mm01-0003-1847-boston-worcester
 minititle: "Guidebook to the Boston and Worcester and Western Railroads, 1847"

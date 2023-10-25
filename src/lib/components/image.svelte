@@ -41,7 +41,7 @@
 	<div class="image-container no-lines">
 		<div
 			class="space"
-            style="background-image:  url('/1200/{image[0]}_1200w.webp');"
+            style="background-image:  url('/2000/{image[0]}_2000w.webp');"
 		>
 			{#if tooltipVisible}
 				<div
@@ -71,7 +71,7 @@
     <figcaption class="outer-container">
         <div class="inner-container">View <em>"</em></div>
         <div class="inner-container center-container"><em>{image[1]}</em></div>
-        <div class="inner-container"><em>"</em> in a <a href={iiifurl} target="_blank" class="llines bold">IIIF Vewer</a> or in our <a href={dcurl} target="_blank" class="llines bold">Digital Collections</a></div>
+        <div class="inner-container"><em>"</em> in a <a href={iiifurl} target="_blank" class="llines bold">IIIF Viewer</a> or in our <a href={dcurl} target="_blank" class="llines bold">Digital Collections</a></div>
     </figcaption>
 	</div>
 </div>
