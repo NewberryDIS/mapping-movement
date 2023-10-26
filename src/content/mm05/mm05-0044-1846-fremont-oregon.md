@@ -1,6 +1,5 @@
 ---
 iaid: x991570248805867
-iaid: x991570248805867
 minino: "0044"
 minifn: mm05-0044-1846-fremont-oregon
 minititle: Fremont's Exploration of the Oregon Trail, 1846

@@ -1,17 +1,18 @@
 <script>
     import { page } from "$app/stores";
     import { base } from "$app/paths";
+    import { toc } from '$lib/stores'
     // $: console.log('$page.data', $page.data);
-    export let toc = [
-        { essayslug: "asdf", essaytitle: "qwer" },
-        { essayslug: "asssdf", essaytitle: "qwsser" },
-    ];
+    // export let toc = [
+    //     { essayslug: "asdf", essaytitle: "qwer" },
+    //     { essayslug: "asssdf", essaytitle: "qwsser" },
+    // ];
 </script>
 
 <ul class="side bar">
     <a
-        href="{base}/"
-        class={$page.url.pathname == `${base}/`
+        href="/{base}"
+        class={$page.url.pathname == `/${base}`
             ? "active no-lines"
             : "no-lines"}
     >
@@ -19,7 +20,7 @@
     </a>
     {#each toc as c}
         <a
-            href="{base}/{c.essayslug}"
+            href="/{c.essayslug}"
             class={$page.url.pathname !== "/" &&
             $page.url.pathname.indexOf(c.essayslug) > -1
                 ? "active no-lines"

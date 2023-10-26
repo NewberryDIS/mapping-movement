@@ -1,0 +1,2644 @@
+{
+    "/src/content/mm01/mm01-0001-1828-survey-boston.md": {
+        "default": {}
+    },
+    "/src/content/mm01/mm01-0002-1836-vision-us-rr.md": {
+        "default": {}
+    },
+    "/src/content/mm01/mm01-0003-1847-boston-worcester.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x999374808805867",
+            "minino": "0003",
+            "minifn": "mm01-0003-1847-boston-worcester",
+            "minititle": "Guidebook to the Boston and Worcester and Western Railroads, 1847",
+            "minislug": "1847-boston-worcester",
+            "essayno": "mm01",
+            "essaytitle": "American Railroad Maps, 1828-1876",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1828-1876",
+            "manifest": "2KXJ8ZSFI8J68",
+            "imagetitle": "Connecticut River Bridge at Springfield, Massachusetts",
+            "imagectxid": "NL11JNT7",
+            "imageiiifid": "2KXJ8ZSFHTHTH",
+            "imagelink": "2KXJ8ZWQ50AR"
+        }
+    },
+    "/src/content/mm01/mm01-0004-1854-illinois-land-grant.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998365438805867",
+            "minino": "0004",
+            "minifn": "mm01-0004-1854-illinois-land-grant",
+            "minititle": "Illinois Central Railroad, Land Grant Maps, 1854",
+            "minislug": "1854-illinois-land-grant",
+            "essayno": "mm01",
+            "essaytitle": "American Railroad Maps, 1828-1876",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1828-1876",
+            "manifest": "2KXJ8ZSFI8LSQ",
+            "imagetitle": "Railroad and township map of the Chicago region",
+            "imagectxid": "NL11JNUH",
+            "imageiiifid": "2KXJ8ZSFHT74J",
+            "imagelink": "2KXJ8ZWQ9NA9"
+        }
+    },
+    "/src/content/mm01/mm01-0005-1854-northern-rr.md": {
+        "default": {}
+    },
+    "/src/content/mm01/mm01-0006-1853-pacific-rr.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998366318805867",
+            "minino": "0006",
+            "minifn": "mm01-0006-1853-pacific-rr",
+            "minititle": "Survey for a Pacific Railroad near the 35th Parallel, 1853-54",
+            "minislug": "1853-pacific-rr",
+            "essayno": "mm01",
+            "essaytitle": "American Railroad Maps, 1828-1876",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1828-1876",
+            "manifest": "2KXJ8ZSFI895B",
+            "imagetitle": "Explorations and surveys for a rail road route from the Mississippi River to the Pacific Ocean route near the 35th parallel. Map no. 1, From Fort...",
+            "imagectxid": "NL11JNXN",
+            "imageiiifid": "2KXJ8ZSFHNU40",
+            "imagelink": "2KXJ8ZWQTLDI"
+        }
+    },
+    "/src/content/mm01/mm01-0007-1854-rr-us.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998365368805867",
+            "minino": "0007",
+            "minifn": "mm01-0007-1854-rr-us",
+            "minititle": "Railroads in the United States, 1854",
+            "minislug": "1854-rr-us",
+            "essayno": "mm01",
+            "essaytitle": "American Railroad Maps, 1828-1876",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1828-1876",
+            "manifest": "2KXJ8ZSQT9EXZ",
+            "imagetitle": "Map of all the railroads in the United States in operation and progress",
+            "imagectxid": "NL11JNUO",
+            "imageiiifid": "2KXJ8ZSFHNZEV",
+            "imagelink": "2KXJ8ZWQ942D"
+        }
+    },
+    "/src/content/mm01/mm01-0008-1872-track-book.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998368448805867",
+            "minino": "0008",
+            "minifn": "mm01-0008-1872-track-book",
+            "minititle": "Track Book, NOJ&GN RR, ca. 1872",
+            "minislug": "1872-track-book",
+            "essayno": "mm01",
+            "essaytitle": "American Railroad Maps, 1828-1876",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1828-1876",
+            "manifest": "2KXJ8ZSFI8UD9",
+            "imagetitle": "Map of the New Orleans, Jackson, and Great Northern Railroad track leading to Jackson, Mississippi",
+            "imagectxid": "NL11JNXI",
+            "imageiiifid": "2KXJ8ZSFHNYG3",
+            "imagelink": "2KXJ8ZWPH0D4"
+        }
+    },
+    "/src/content/mm01/mm01-0009-1876-penn-rr.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998367918805867",
+            "minino": "0009",
+            "minifn": "mm01-0009-1876-penn-rr",
+            "minititle": "Pennsylvania Railroad Promotional Map, 1876",
+            "minislug": "1876-penn-rr",
+            "essayno": "mm01",
+            "essaytitle": "American Railroad Maps, 1828-1876",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1828-1876",
+            "manifest": "2KXJ8ZSFI84PU",
+            "imagetitle": "General map of the Pennsylvania Railroad and its connections",
+            "imagectxid": "NL11JNXM",
+            "imageiiifid": "2KXJ8ZSFHNQ1C",
+            "imagelink": "2KXJ8ZWPHWFO"
+        }
+    },
+    "/src/content/mm01/mm01-0010-1873-atsf-kansas.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991847378805867",
+            "minino": "0010",
+            "minifn": "mm01-0010-1873-atsf-kansas",
+            "minititle": "AT&SF Lands for Sale in Kansas, 1873",
+            "minislug": "1873-atsf-kansas",
+            "essayno": "mm01",
+            "essaytitle": "American Railroad Maps, 1828-1876",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1828-1876",
+            "manifest": "2KXJ8ZSFI8844",
+            "imagetitle": "Railroad lands in central and southwestern Kansas on eleven years' credit : the government grant of 3,000,000 acres to the Atchison, Topeka and Santa...",
+            "imagectxid": "NL11JNUM",
+            "imageiiifid": "2KXJ8ZSFHTA06",
+            "imagelink": "2KXJ8ZWQ90VR"
+        }
+    },
+    "/src/content/mm03/mm03-0021-1870-white-mountains.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998496138805867",
+            "minino": "0021",
+            "minifn": "mm03-0021-1870-white-mountains",
+            "minititle": "White Mountains, NH, Railroad Map, 1870",
+            "minislug": "1870-white-mountains",
+            "essayno": "mm03",
+            "essaytitle": "American Railroad Maps, 1873-2012",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1873-2012",
+            "manifest": "2KXJ8ZSFI8CVP",
+            "imagetitle": "To and across the White Mountains via Portland & Ogdensburg Railroad",
+            "imagectxid": "NL11JNUY",
+            "imageiiifid": "2KXJ8ZSFHNDPG",
+            "imagelink": "2KXJ8ZWPKLJW"
+        }
+    },
+    "/src/content/mm03/mm03-0022-1886-canadian-pacific.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998497298805867",
+            "minino": "0022",
+            "minifn": "mm03-0022-1886-canadian-pacific",
+            "minititle": "Canadian Pacific Railway, Metis Rebellion, 1886",
+            "minislug": "1886-canadian-pacific",
+            "essayno": "mm03",
+            "essaytitle": "American Railroad Maps, 1873-2012",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1873-2012",
+            "manifest": "2KXJ8ZSFI8ME2",
+            "imagetitle": "Map of part of the Dominion of Canada illustrating the use of the Canadian Pacific Railway in the movement of troops to quell the North-West troubles",
+            "imagectxid": "NL11JNUZ",
+            "imageiiifid": "2KXJ8ZSFHNBWL",
+            "imagelink": "2KXJ8ZWPK2P8"
+        }
+    },
+    "/src/content/mm03/mm03-0023-1890-lake-superior.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998498438805867",
+            "minino": "0023",
+            "minifn": "mm03-0023-1890-lake-superior",
+            "minititle": "Lake Superior South Shore Railway, 1890",
+            "minislug": "1890-lake-superior",
+            "essayno": "mm03",
+            "essaytitle": "American Railroad Maps, 1873-2012",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1873-2012",
+            "manifest": "2KXJ8ZSQESO8F",
+            "imagetitle": "Map of the Duluth South-Shore & Atlantic Ry. and connections",
+            "imagectxid": "NL11JNUN",
+            "imageiiifid": "2KXJ8ZSFHT6SE",
+            "imagelink": "2KXJ8ZSQENZH6"
+        }
+    },
+    "/src/content/mm03/mm03-0024-1909-rand-mcnally-business-atlas-florida.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x999421428805867",
+            "minino": "0024",
+            "minifn": "mm03-0024-1909-rand-mcnally-business-atlas-florida",
+            "minititle": "Rand McNally Business Atlas, Florida Map, 1909",
+            "minislug": "1909-rand-mcnally-business-atlas-florida",
+            "essayno": "mm03",
+            "essaytitle": "American Railroad Maps, 1873-2012",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1873-2012",
+            "manifest": "2KXJ8ZSQE4P3L",
+            "imagetitle": "Florida",
+            "imagectxid": "NL11JNVE",
+            "imageiiifid": "2KXJ8ZSFHNFMS",
+            "imagelink": "2KXJ8ZWPKC0I"
+        }
+    },
+    "/src/content/mm03/mm03-0025-1916-georgia-railroad.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998497288805867",
+            "minino": "0025",
+            "minifn": "mm03-0025-1916-georgia-railroad",
+            "minititle": "Georgia Railroad Commission Map, 1916",
+            "minislug": "1916-georgia-railroad",
+            "essayno": "mm03",
+            "essaytitle": "American Railroad Maps, 1873-2012",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1873-2012",
+            "manifest": "2KXJ8ZSQESZV6",
+            "imagetitle": "Railroad map of Georgia 1916",
+            "imagectxid": "NL11JNVF",
+            "imageiiifid": "2KXJ8ZSFHNAC6",
+            "imagelink": "2KXJ8ZWPGR35"
+        }
+    },
+    "/src/content/mm03/mm03-0026-1920-milwaukee-road.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x999421478805867",
+            "minino": "0026",
+            "minifn": "mm03-0026-1920-milwaukee-road",
+            "minititle": "Milwaukee Road Time Table, 1920",
+            "minislug": "1920-milwaukee-road",
+            "essayno": "mm03",
+            "essaytitle": "American Railroad Maps, 1873-2012",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1873-2012",
+            "manifest": "2KXJ8ZSFI860P",
+            "imagetitle": "Chicago-Milwaukee-St. Paul-Minneapolis-Aberdeen-Butte-Spokane-Seattle-Tacoma timetable of the Chicago, Milwaukee, and St. Paul Railway",
+            "imagectxid": "NL11J6VP",
+            "imageiiifid": "2KXJ8ZSFLDTXJ",
+            "imagelink": "2KXJ8ZSFLDTXJ"
+        }
+    },
+    "/src/content/mm03/mm03-0027-1925-atlas-of-traffic-maps.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x999421518805867",
+            "minino": "0027",
+            "minifn": "mm03-0027-1925-atlas-of-traffic-maps",
+            "minititle": "Atlas of Traffic Maps, 1925",
+            "minislug": "1925-atlas-of-traffic-maps",
+            "essayno": "mm03",
+            "essaytitle": "American Railroad Maps, 1873-2012",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1873-2012",
+            "manifest": "2KXJ8ZSFI85XI",
+            "imagetitle": "Map of steamship routes of the world",
+            "imagectxid": "NL11JNVG",
+            "imageiiifid": "2KXJ8ZSFHNHNH",
+            "imagelink": "2KXJ8ZWPKE3X"
+        }
+    },
+    "/src/content/mm03/mm03-0028-1945-railroad-operations-map-industrial.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998497308805867",
+            "minino": "0028",
+            "minifn": "mm03-0028-1945-railroad-operations-map-industrial",
+            "minititle": "Railroad Operations Map, Industrial District, Kansas City, 1945",
+            "minislug": "1945-railroad-operations-map-industrial",
+            "essayno": "mm03",
+            "essaytitle": "American Railroad Maps, 1873-2012",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1873-2012",
+            "manifest": "2KXJ8ZSQES36Z",
+            "imagetitle": "The Milwaukee-Kansas City Southern Joint Agency map showing tracks from West End to Leeds",
+            "imagectxid": "NL11JNXB",
+            "imageiiifid": "2KXJ8ZSFHN25F",
+            "imagelink": "2KXJ8ZWPGMB9"
+        }
+    },
+    "/src/content/mm03/mm03-0029-1971-amtrak-passenger.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x999421538805867",
+            "minino": "0029",
+            "minifn": "mm03-0029-1971-amtrak-passenger",
+            "minititle": "Amtrak Passenger Routes, 1971",
+            "minislug": "1971-amtrak-passenger",
+            "essayno": "mm03",
+            "essaytitle": "American Railroad Maps, 1873-2012",
+            "essaysubtitle": "",
+            "essayslug": "american-railroad-maps-1873-2012",
+            "manifest": "2KXJ8ZSFI8QIB",
+            "imagetitle": "Intercity railroad passenger routes",
+            "imagectxid": "NL11JNWI",
+            "imageiiifid": "2KXJ8ZSFHNP8J",
+            "imagelink": "2KXJ8ZWPKQ5K"
+        }
+    },
+    "/src/content/mm03/mm03-0030-1919-railroad-valuation-map-itasca.md": {
+        "default": {}
+    },
+    "/src/content/mm05/mm05-0040-1808-rapids-ohio.md": {
+        "default": {}
+    },
+    "/src/content/mm05/mm05-0041-1803-lewis-clark.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998204428805867",
+            "minino": "0041",
+            "minifn": "mm05-0041-1803-lewis-clark",
+            "minititle": "Lewis and Clark's Track, 1803-1805",
+            "minislug": "1803-lewis-clark",
+            "essayno": "mm05",
+            "essaytitle": "State and Federal Mapping of Infrastructure and Movement",
+            "essaysubtitle": "",
+            "essayslug": "state-and-federal",
+            "manifest": "2KXJ8ZSQESDQA",
+            "imagetitle": "A map of Lewis and Clark's track across the western portion of North America from the Misissippi [sic] to the Pacific Ocean",
+            "imagectxid": "NL11IXRH",
+            "imageiiifid": "2KXJ8ZSQEPKJC",
+            "imagelink": "2KXJ8ZSQEPKJC"
+        }
+    },
+    "/src/content/mm05/mm05-0042-1821-canal-lake-erie.md": {
+        "default": {}
+    },
+    "/src/content/mm05/mm05-0043-1841-us-expeditionary-oregon.md": {
+        "default": {}
+    },
+    "/src/content/mm05/mm05-0044-1846-fremont-oregon.md": {
+        "default": {}
+    },
+    "/src/content/mm05/mm05-0045-1858-chicago-harbor.md": {
+        "default": {}
+    },
+    "/src/content/mm05/mm05-0046-1866-union-pacific-rr.md": {
+        "default": {}
+    },
+    "/src/content/mm05/mm05-0047-1905-panama-canal.md": {
+        "default": {}
+    },
+    "/src/content/mm05/mm05-0048-1944-silk-chart.md": {
+        "default": {}
+    },
+    "/src/content/mm05/mm05-0049-1945-ancient-courses.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "xMM05-49",
+            "minino": "0049",
+            "minifn": "mm05-0049-1945-ancient-courses",
+            "minititle": "Ancient Courses, Mississippi River Meander Belt",
+            "minislug": "1945-ancient-courses",
+            "essayno": "mm05",
+            "essaytitle": "State and Federal Mapping of Infrastructure and Movement",
+            "essaysubtitle": "",
+            "essayslug": "state-and-federal",
+            "manifest": "2KXJ8ZSFI8VAD",
+            "imagetitle": "Ancient courses, Mississippi River meander belt, Cape Girardeau, Mo.-Donaldsonville, La.",
+            "imagectxid": "NL1UNYC",
+            "imageiiifid": "2KXJ8ZWQSG1X",
+            "imagelink": "2KXJ8ZWQSG1X"
+        }
+    },
+    "/src/content/mm06/mm06-0051-1836-north-river.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998645668805867",
+            "minino": "0051",
+            "minifn": "mm06-0051-1836-north-river",
+            "minititle": "Plan for a Great Pier in the North River, 1836",
+            "minislug": "1836-north-river",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSFI8DRX",
+            "imagetitle": "Map of the East River waterfront from Grand Street to Thirty-fourth Street in New York City",
+            "imagectxid": "NL2KOW",
+            "imageiiifid": "2KXGDN8PH3X",
+            "imagelink": "2KXJ8ZWP4MT9"
+        }
+    },
+    "/src/content/mm06/mm06-0052-1876-railway-philadelphia.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998643888805867",
+            "minino": "0052",
+            "minifn": "mm06-0052-1876-railway-philadelphia",
+            "minititle": "Railway map of Philadelphia, 1876",
+            "minislug": "1876-railway-philadelphia",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSFANDWE",
+            "imagetitle": "Railway map of Philadelphia to accompany Westcott's guide book to Philadelphia",
+            "imagectxid": "NL2LAZ",
+            "imageiiifid": "2KXGDN86NUR",
+            "imagelink": "2KXJ8ZWP5511"
+        }
+    },
+    "/src/content/mm06/mm06-0053-1895-road-map-ny.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998643918805867",
+            "minino": "0053",
+            "minifn": "mm06-0053-1895-road-map-ny",
+            "minititle": "Road map of the country around New York, 1895",
+            "minislug": "1895-road-map-ny",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSFI8KW9",
+            "imagetitle": "Rand McNally & Co.'s road map of the country around New York including parts of northern and central New Jersey, Westchester County, Long Island,...",
+            "imagectxid": "NL11JJXD",
+            "imageiiifid": "2KXJ8ZSFJ7CU0",
+            "imagelink": "2KXJ8ZWP4RD5"
+        }
+    },
+    "/src/content/mm06/mm06-0054-1898-property-chicago.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998645678805867",
+            "minino": "0054",
+            "minifn": "mm06-0054-1898-property-chicago",
+            "minititle": "Property of Railroads in the Business Center of Chicago, 1898",
+            "minislug": "1898-property-chicago",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSQESRIM",
+            "imagetitle": "Chicago Terminal Transfer Railroad Co. map showing property of railroads in the business center of Chicago",
+            "imagectxid": "NL11JK9X",
+            "imageiiifid": "2KXJ8ZSFJ7J7J",
+            "imagelink": "2KXJ8ZWP4EMX"
+        }
+    },
+    "/src/content/mm06/mm06-0055-1911-electric-la.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998645638805867",
+            "minino": "0055",
+            "minifn": "mm06-0055-1911-electric-la",
+            "minititle": "Electric Railway Lines, Los Angeles, 1911",
+            "minislug": "1911-electric-la",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSQES4WY",
+            "imagetitle": "Map of Southern Pacific Company and Pacific Electric Railway Company lines in the Los Angeles region of southern California",
+            "imagectxid": "NL11JKAS",
+            "imageiiifid": "2KXJ8ZSFJ72GN",
+            "imagelink": "2KXJ8ZWP4N0U"
+        }
+    },
+    "/src/content/mm06/mm06-0056-1937-new-england-regional.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998643938805867",
+            "minino": "0056",
+            "minifn": "mm06-0056-1937-new-england-regional",
+            "minititle": "Preliminary New England Regional Plan, 1937",
+            "minislug": "1937-new-england-regional",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSQESMLT",
+            "imagetitle": "Preliminary New England regional plan indicating progress of planning in New England : June 30, 1937",
+            "imagectxid": "NL11JKBQ",
+            "imageiiifid": "2KXJ8ZSFJ7IVZ",
+            "imagelink": "2KXJ8ZWP4488"
+        }
+    },
+    "/src/content/mm06/mm06-0057-1946-preliminary-chicago.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x994533958805867",
+            "minino": "0057",
+            "minifn": "mm06-0057-1946-preliminary-chicago",
+            "minititle": "Preliminary City Plan of Chicago, 1946",
+            "minislug": "1946-preliminary-chicago",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSFI8ATO",
+            "imagetitle": "Preliminary comprehensive city plan of Chicago a generalized presentation of the physical elements of the city plan designed for a population of...",
+            "imagectxid": "NL1UNEH",
+            "imageiiifid": "2KXJ8ZWQ7B21",
+            "imagelink": "2KXJ8ZWQ7B21"
+        }
+    },
+    "/src/content/mm06/mm06-0058-1951-valparaiso.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998643908805867",
+            "minino": "0058",
+            "minifn": "mm06-0058-1951-valparaiso",
+            "minititle": "Valparaiso Master Plan 1951",
+            "minislug": "1951-valparaiso",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSFI8NGO",
+            "imagetitle": "Valparaiso master plan, 1951 a guide for future community development",
+            "imagectxid": "NL1UMSU",
+            "imageiiifid": "2KXJ8ZWPSBG2",
+            "imagelink": "2KXJ8ZWPSBG2"
+        }
+    },
+    "/src/content/mm06/mm06-0059-1961-new-orleans.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998643898805867",
+            "minino": "0059",
+            "minifn": "mm06-0059-1961-new-orleans",
+            "minititle": "New Orleans Metropolitan Area Basic Evacuation Plan, 1961",
+            "minislug": "1961-new-orleans",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSFI8HY2",
+            "imagetitle": "New Orleans metropolitan area basic evacuation plan",
+            "imagectxid": "NL11JKCS",
+            "imageiiifid": "2KXJ8ZSFJEVLG",
+            "imagelink": "2KXJ8ZWP58OQ"
+        }
+    },
+    "/src/content/mm06/mm06-0060-1969-plan-nyc.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x99839558805867",
+            "minino": "0060",
+            "minifn": "mm06-0060-1969-plan-nyc",
+            "minititle": "Plan for New York City, 1969",
+            "minislug": "1969-plan-nyc",
+            "essayno": "mm06",
+            "essaytitle": "Planning Transportation",
+            "essaysubtitle": "",
+            "essayslug": "planning-transportation",
+            "manifest": "2KXJ8ZSFI83L1",
+            "imagetitle": "Mass transit program, New York City",
+            "imagectxid": "NL11JM06",
+            "imageiiifid": "2KXJ8ZSFJEFTM",
+            "imagelink": "2KXJ8ZWP4SLB"
+        }
+    },
+    "/src/content/mm07/mm07-0061-1779-map-of-the-province-of-new-mexico.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998653658805867",
+            "minino": "0061",
+            "minifn": "mm07-0061-1779-map-of-the-province-of-new-mexico",
+            "minititle": "Map of the Province of New Mexico, 1779",
+            "minislug": "1779-map-of-the-province-of-new-mexico",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSQ37E4H",
+            "imagetitle": "Plan de la Provincia Interna del Nuevo Mexico que hizo por mandato del Teniente Coronel de Caballeria, gobernador y comandante general de dicha...",
+            "imagectxid": "NL11JM2B",
+            "imageiiifid": "2KXJ8ZSFJEEAA",
+            "imagelink": "2KXJ8ZWQS2ND"
+        }
+    },
+    "/src/content/mm07/mm07-0062-1811-road-from-capital-of-new-spain.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998653698805867",
+            "minino": "0062",
+            "minifn": "mm07-0062-1811-road-from-capital-of-new-spain",
+            "minititle": "Road from Capital of New Spain to Santa Fe, 1811",
+            "minislug": "1811-road-from-capital-of-new-spain",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSQESNES",
+            "imagetitle": "Carte de la route que mène depuis la capitale de la Nouvelle Espagne jusqu'à S. Fe du Nouveau Mexique",
+            "imagectxid": "NL11JM30",
+            "imageiiifid": "2KXJ8ZSFJEOUT",
+            "imagelink": "2KXJ8ZWP4IQ1"
+        }
+    },
+    "/src/content/mm07/mm07-0063-1830-map-of-texas-with-parts.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991572038805867",
+            "minino": "0063",
+            "minifn": "mm07-0063-1830-map-of-texas-with-parts",
+            "minititle": "Map of Texas with Parts of Adjoining States, 1830",
+            "minislug": "1830-map-of-texas-with-parts",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSQ37M8N",
+            "imagetitle": "Map of Texas with parts of the adjoining states",
+            "imagectxid": "NL11JM3N",
+            "imageiiifid": "2KXJ8ZSFJE29N",
+            "imagelink": "2KXJ8ZWQSQSQ"
+        }
+    },
+    "/src/content/mm07/mm07-0064-1846-new-map-of-texas.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991562448805867",
+            "minino": "0064",
+            "minifn": "mm07-0064-1846-new-map-of-texas",
+            "minititle": "A New Map of Texas, Oregon, and California, 1846",
+            "minislug": "1846-new-map-of-texas",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSFI8SC8",
+            "imagetitle": "New map of Texas, Oregon, and California with the regions adjoining",
+            "imagectxid": "NL11JM3S",
+            "imageiiifid": "2KXJ8ZSFJEBKT",
+            "imagelink": "2KXJ8ZWQ43CB"
+        }
+    },
+    "/src/content/mm07/mm07-0065-1859-route-from-kansas-city.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991541658805867",
+            "minino": "0065",
+            "minifn": "mm07-0065-1859-route-from-kansas-city",
+            "minititle": "The Route from Kansas City to the Gold Mines, 1859",
+            "minislug": "1859-route-from-kansas-city",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSFI8GH5",
+            "imagetitle": "Map of Kansas with route from Kansas City to the gold mines",
+            "imagectxid": "NL11JNXK",
+            "imageiiifid": "2KXJ8ZSFHNN66",
+            "imagelink": "2KXJ8ZWP4UPD"
+        }
+    },
+    "/src/content/mm07/mm07-0066-1857-overland-mail-route-to-california.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991568238805867",
+            "minino": "0066",
+            "minifn": "mm07-0066-1857-overland-mail-route-to-california",
+            "minititle": "The Overland Mail Route to California, 1857",
+            "minislug": "1857-overland-mail-route-to-california",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSQ37JDV",
+            "imagetitle": "Skeleton map of the overland mail route to California",
+            "imagectxid": "NL11JM3Y",
+            "imageiiifid": "2KXJ8ZSFJETCL",
+            "imagelink": "2KXJ8ZWQSF5B"
+        }
+    },
+    "/src/content/mm07/mm07-0067-1863-military-road-from-fort-walla.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998653688805867",
+            "minino": "0067",
+            "minifn": "mm07-0067-1863-military-road-from-fort-walla",
+            "minititle": "Military Road from Fort Walla Walla to Fort Benton, 1863",
+            "minislug": "1863-military-road-from-fort-walla",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSQEST3V",
+            "imagetitle": "Map of military road from Fort Walla Walla on the Columbia to Fort Benton on the Missouri",
+            "imagectxid": "NL11JM45",
+            "imageiiifid": "2KXJ8ZSFJEPIH",
+            "imagelink": "2KXJ8ZWP4CSI"
+        }
+    },
+    "/src/content/mm07/mm07-0068-1875-best-and-shortest-cattle.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991542168805867",
+            "minino": "0068",
+            "minifn": "mm07-0068-1875-best-and-shortest-cattle",
+            "minititle": "The Best and Shortest Cattle Trail from Texas, 1875",
+            "minislug": "1875-best-and-shortest-cattle",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSQ38QCL",
+            "imagetitle": "Kansas Pacific Railway the best and shortest cattle trail from Texas",
+            "imagectxid": "NL1UN3Z",
+            "imageiiifid": "2KXJ8ZWQVEXW",
+            "imagelink": "2KXJ8ZWQVEXW"
+        }
+    },
+    "/src/content/mm07/mm07-0069-1870-territory-of-montana.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991572058805867",
+            "minino": "0069",
+            "minifn": "mm07-0069-1870-territory-of-montana",
+            "minititle": "The Territory of Montana, 1870",
+            "minislug": "1870-territory-of-montana",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSQ37G56",
+            "imagetitle": "Map of the territory of Montana with portions of the adjoining territories",
+            "imagectxid": "NL11JM68",
+            "imageiiifid": "2KXJ8ZSFJQ9YE",
+            "imagelink": "2KXJ8ZWQ75U8"
+        }
+    },
+    "/src/content/mm07/mm07-0070-1898-gold-and-coal-fields.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x997505618805867",
+            "minino": "0070",
+            "minifn": "mm07-0070-1898-gold-and-coal-fields",
+            "minititle": "The Gold and Coal Fields of Alaska, 1898",
+            "minislug": "1898-gold-and-coal-fields",
+            "essayno": "mm07",
+            "essaytitle": "Maps of Trails and Roads of the Great West",
+            "essaysubtitle": "",
+            "essayslug": "maps-of-trails-and-roads",
+            "manifest": "2KXJ8ZSQ37C1T",
+            "imagetitle": "The gold and coal fields of Alaska together with the principal steamer routes and trails",
+            "imagectxid": "NL11JM69",
+            "imageiiifid": "2KXJ8ZSFJQ8Z6",
+            "imagelink": "2KXJ8ZWQ9GTX"
+        }
+    },
+    "/src/content/mm08/mm08-0071-1541-nautical-chart-of-the-pacific-coast-of-mexico.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998670098805867",
+            "minino": "0071",
+            "minifn": "mm08-0071-1541-nautical-chart-of-the-pacific-coast-of-mexico",
+            "minititle": "Nautical chart of the Pacific coast of Mexico, Baja California, and the Gulf of California, 1541 (1770)",
+            "minislug": "1541-nautical-chart-of-the-pacific-coast-of-mexico",
+            "essayno": "mm08",
+            "essaytitle": "European Maps for Exploration and Discovery",
+            "essaysubtitle": "",
+            "essayslug": "european-maps-for-exploration",
+            "manifest": "2KXJ8ZSQ372EM",
+            "imagetitle": "Nautical chart of the Pacific coast of Mexico, Baja California, and the Gulf of California",
+            "imagectxid": "NL11JM6A",
+            "imageiiifid": "2KXJ8ZSFRJCD1",
+            "imagelink": "2KXJ8ZWQSCPU"
+        }
+    },
+    "/src/content/mm08/mm08-0072-1598-florida-and-the-apalachee-lands.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998671238805867",
+            "minino": "0072",
+            "minifn": "mm08-0072-1598-florida-and-the-apalachee-lands",
+            "minititle": "Florida and the Apalachee Lands, 1598",
+            "minislug": "1598-florida-and-the-apalachee-lands",
+            "essayno": "mm08",
+            "essaytitle": "European Maps for Exploration and Discovery",
+            "essaysubtitle": "",
+            "essayslug": "european-maps-for-exploration",
+            "manifest": "2KXJ8ZSQ37IGC",
+            "imagetitle": "Florida et Apalche",
+            "imagectxid": "NL11JM6F",
+            "imageiiifid": "2KXJ8ZSFRJT9P",
+            "imagelink": "2KXJ8ZWQS8VP"
+        }
+    },
+    "/src/content/mm08/mm08-0073-1612-virginia.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998670088805867",
+            "minino": "0073",
+            "minifn": "mm08-0073-1612-virginia",
+            "minititle": "Virginia, 1612",
+            "minislug": "1612-virginia",
+            "essayno": "mm08",
+            "essaytitle": "European Maps for Exploration and Discovery",
+            "essaysubtitle": "",
+            "essayslug": "european-maps-for-exploration",
+            "manifest": "2KXJ8ZSQ381LG",
+            "imagetitle": "Map of the whole territory traversed by Iohn Lederer in his three marches",
+            "imagectxid": "NL1UMU7",
+            "imageiiifid": "2KXJ8ZWP57IP",
+            "imagelink": "2KXJ8ZWP57IP"
+        }
+    },
+    "/src/content/mm08/mm08-0074-1612-new-france.md": {
+        "default": {}
+    },
+    "/src/content/mm08/mm08-0075-1672-jesuit-map-of-lake-superior.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "xMM08-75",
+            "minino": "0075",
+            "minifn": "mm08-0075-1672-jesuit-map-of-lake-superior",
+            "minititle": "Jesuit Map of Lake Superior, 1672",
+            "minislug": "1672-jesuit-map-of-lake-superior",
+            "essayno": "mm08",
+            "essaytitle": "European Maps for Exploration and Discovery",
+            "essaysubtitle": "",
+            "essayslug": "european-maps-for-exploration",
+            "manifest": "2KXJ8ZSQE44YY",
+            "imagetitle": "Lac Superieur et autres lieux ou sont les Missions des Peres da la Compagnie de Iesus comprises sous le nom d’Outaouacs",
+            "imagectxid": "NL11JMFL",
+            "imageiiifid": "2KXJ8ZSFRJBC9",
+            "imagelink": "2KXJ8ZWQSMO7"
+        }
+    },
+    "/src/content/mm08/mm08-0076-1688-globe-gore-of-eastern-north-america.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998670108805867",
+            "minino": "0076",
+            "minifn": "mm08-0076-1688-globe-gore-of-eastern-north-america",
+            "minititle": "Globe Gore of Eastern North America, 1688",
+            "minislug": "1688-globe-gore-of-eastern-north-america",
+            "essayno": "mm08",
+            "essaytitle": "European Maps for Exploration and Discovery",
+            "essaysubtitle": "",
+            "essayslug": "european-maps-for-exploration",
+            "manifest": "2KXJ8ZSQESW9A",
+            "imagetitle": "Globe gore of eastern North America, from Hudson Bay to the Gulf of Mexico",
+            "imagectxid": "NL11JM6G",
+            "imageiiifid": "2KXJ8ZSFRJSUK",
+            "imagelink": "2KXJ8ZWP52Q8"
+        }
+    },
+    "/src/content/mm08/mm08-0077-1703-new-voyages-in-northern-america.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998668978805867",
+            "minino": "0077",
+            "minifn": "mm08-0077-1703-new-voyages-in-northern-america",
+            "minititle": "New Voyages in Northern America, 1703",
+            "minislug": "1703-new-voyages-in-northern-america",
+            "essayno": "mm08",
+            "essaytitle": "European Maps for Exploration and Discovery",
+            "essaysubtitle": "",
+            "essayslug": "european-maps-for-exploration",
+            "manifest": "2KXJ8ZSF204V2",
+            "imagetitle": "Carte de la riviere Longue et de quelques autres, qui se dechargent dans le grand fleuve de Missisipi ... ; Carte que les Gnacsitares ont dessine...",
+            "imagectxid": "NL11JADZ",
+            "imageiiifid": "2KXJ8ZSF20F9U",
+            "imagelink": "2KXJ8ZSF20F9U"
+        }
+    },
+    "/src/content/mm08/mm08-0078-1761-russian-voyages-in-the-pacific-northwest.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x995096398805867",
+            "minino": "0078",
+            "minifn": "mm08-0078-1761-russian-voyages-in-the-pacific-northwest",
+            "minititle": "Russian Voyages in the Pacific Northwest, 1761",
+            "minislug": "1761-russian-voyages-in-the-pacific-northwest",
+            "essayno": "mm08",
+            "essaytitle": "European Maps for Exploration and Discovery",
+            "essaysubtitle": "",
+            "essayslug": "european-maps-for-exploration",
+            "manifest": "2KXJ8ZSQ375TC",
+            "imagetitle": "Map of the discoveries made by the Russians on the north west coast of America",
+            "imagectxid": "NL11JNXR",
+            "imageiiifid": "2KXJ8ZSFHNMAH",
+            "imagelink": "2KXJ8ZWQ9JS4"
+        }
+    },
+    "/src/content/mm08/mm08-0079-1784-map-of-kentucky.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991568278805867",
+            "minino": "0079",
+            "minifn": "mm08-0079-1784-map-of-kentucky",
+            "minititle": "Map of Kentucky, 1784",
+            "minislug": "1784-map-of-kentucky",
+            "essayno": "mm08",
+            "essaytitle": "European Maps for Exploration and Discovery",
+            "essaysubtitle": "",
+            "essayslug": "european-maps-for-exploration",
+            "manifest": "2KXJ8ZSQES8KG",
+            "imagetitle": "This map of Kentucke drawn from actual observations, is inscribed with the most perfect respect, to the Honorable the Congress of the United States...",
+            "imagectxid": "NL11JM6K",
+            "imageiiifid": "2KXJ8ZSFRJIA7",
+            "imagelink": "2KXJ8ZSQEN8OG"
+        }
+    },
+    "/src/content/mm08/mm08-0080-1801-mackenzies-northern-voyages.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998671198805867",
+            "minino": "0080",
+            "minifn": "mm08-0080-1801-mackenzies-northern-voyages",
+            "minititle": "MacKenzie's Northern Voyages, 1801",
+            "minislug": "1801-mackenzies-northern-voyages",
+            "essayno": "mm08",
+            "essaytitle": "European Maps for Exploration and Discovery",
+            "essaysubtitle": "",
+            "essayslug": "european-maps-for-exploration",
+            "manifest": "2KXJ8ZSFIIWWX",
+            "imagetitle": "Map of America between latitudes 40 and 70 north and longitudes 45 and 180 west, exhibiting Mackenzie's track from Montreal to Fort Chipewyan & from...",
+            "imagectxid": "NL11JM91",
+            "imageiiifid": "2KXJ8ZSFRJ90X",
+            "imagelink": "2KXJ8ZWQS13K"
+        }
+    },
+    "/src/content/mm09/mm09-0081-1672-virginia.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998706788805867",
+            "minino": "0081",
+            "minifn": "mm09-0081-1672-virginia",
+            "minititle": "Territory of Virginia, 1672",
+            "minislug": "1672-virginia",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSQESP1L",
+            "imagetitle": "Map of the whole territory traversed by Iohn Lederer in his three marches",
+            "imagectxid": "NL11JM9Q",
+            "imageiiifid": "2KXJ8ZSFRJ345",
+            "imagelink": "2KXJ8ZWP57IP"
+        }
+    },
+    "/src/content/mm09/mm09-0082-1720-territorial-claims.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991578408805867",
+            "minino": "0082",
+            "minifn": "mm09-0082-1720-territorial-claims",
+            "minititle": "Territorial Claims, North America, 1720",
+            "minislug": "1720-territorial-claims",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSQ37QNL",
+            "imagetitle": "New map of the north parts of America claimed by France under the names of Louisiana, Mississipi, Canada and New France, with the adjoyning...",
+            "imagectxid": "NL11JM6C",
+            "imageiiifid": "2KXJ8ZSFRJK34",
+            "imagelink": "2KXJ8ZWQ7DI2"
+        }
+    },
+    "/src/content/mm09/mm09-0083-1730-charecke-nation.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x994894278805867",
+            "minino": "0083",
+            "minifn": "mm09-0083-1730-charecke-nation",
+            "minititle": "Charecke Nation and the Path to Charles Town, 1730",
+            "minislug": "1730-charecke-nation",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSQ37FP3",
+            "imagetitle": "This represents the Charecke Nation by Col. Herberts map & my own observations with the path to Charles Town, its course & (distance measured by my...",
+            "imagectxid": "NL11JM9V",
+            "imageiiifid": "2KXJ8ZSFRJNB8",
+            "imagelink": "2KXJ8ZWQ924D"
+        }
+    },
+    "/src/content/mm09/mm09-0084-1755-british-colonies.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998706778805867",
+            "minino": "0084",
+            "minifn": "mm09-0084-1755-british-colonies",
+            "minititle": "British Colonies in America, 1755",
+            "minislug": "1755-british-colonies",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSQ382GM",
+            "imagetitle": "General map of the middle British colonies, in America viz Virginia, Maryland, Delaware, Pensilvania, New-Jersey, New-York, Connecticut, and Rhode...",
+            "imagectxid": "NL11JMCA",
+            "imageiiifid": "2KXJ8ZSFRJ6W1",
+            "imagelink": "2KXJ8ZWQSBL1"
+        }
+    },
+    "/src/content/mm09/mm09-0085-1755-virginia.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x99846048805867",
+            "minino": "0085",
+            "minifn": "mm09-0085-1755-virginia",
+            "minititle": "The Most Inhabited Part of Virginia, 1755",
+            "minislug": "1755-virginia",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSFIIXX4",
+            "imagetitle": "Map of the most inhabited part of Virginia containing the whole province of Maryland with part of Pensilvania, New Jersey and North Carolina",
+            "imagectxid": "NL11JMCD",
+            "imageiiifid": "2KXJ8ZSFRJJKK",
+            "imagelink": "2KXJ8ZWQSKH5"
+        }
+    },
+    "/src/content/mm09/mm09-0086-1775-carolinas.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x995575758805867",
+            "minino": "0086",
+            "minifn": "mm09-0086-1775-carolinas",
+            "minititle": "The Carolinas and their Indian Frontiers, 1775",
+            "minislug": "1775-carolinas",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSQ38TO6",
+            "imagetitle": "An accurate map of North and South Carolina with their Indian frontiers shewing in a distinct manner all the mountains, rivers, swamps, marshes, bays,...",
+            "imagectxid": "NL11JNXQ",
+            "imageiiifid": "2KXJ8ZSFHN8QM",
+            "imagelink": "2KXJ8ZWQT8EP"
+        }
+    },
+    "/src/content/mm09/mm09-0087-1757-south-carolina.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x993275388805867",
+            "minino": "0087",
+            "minifn": "mm09-0087-1757-south-carolina",
+            "minititle": "South Carolina and Part of Georgia, 1757",
+            "minislug": "1757-south-carolina",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSQ38XNA",
+            "imagetitle": "Map of South Carolina and a part of Georgia containing the whole sea-coast, all the islands, inlets, rivers, creeks, parishes, townships, boroughs,...",
+            "imagectxid": "NL11JMCF",
+            "imageiiifid": "2KXJ8ZSFRJWLU",
+            "imagelink": "2KXJ8ZWQTXYP"
+        }
+    },
+    "/src/content/mm09/mm09-0088-1780-south-carolina.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x993275478805867",
+            "minino": "0088",
+            "minifn": "mm09-0088-1780-south-carolina",
+            "minititle": "South Carolina and Part of Georgia, 1780",
+            "minislug": "1780-south-carolina",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSQ38L4S",
+            "imagetitle": "Map of South Carolina and a part of Georgia containing the whole sea-coast, all the islands, inlets, rivers, creeks, parishes, townships, boroughs,...",
+            "imagectxid": "NL11JMCG",
+            "imageiiifid": "2KXJ8ZSFRJ8TW",
+            "imagelink": "2KXJ8ZWQP97Q"
+        }
+    },
+    "/src/content/mm09/mm09-0089-1775-war-new-england.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x997783738805867",
+            "minino": "0089",
+            "minifn": "mm09-0089-1775-war-new-england",
+            "minititle": "The Seat of War in New England, 1775",
+            "minislug": "1775-war-new-england",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSQ380WE",
+            "imagetitle": "The seat of war in New England",
+            "imagectxid": "NL11JMCS",
+            "imageiiifid": "2KXJ8ZSFRJF25",
+            "imagelink": "2KXJ8ZWQTSR4"
+        }
+    },
+    "/src/content/mm09/mm09-0090-1777-charles-town.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998707928805867",
+            "minino": "0090",
+            "minifn": "mm09-0090-1777-charles-town",
+            "minititle": "Harbour of Charles Town, 1777",
+            "minislug": "1777-charles-town",
+            "essayno": "mm09",
+            "essaytitle": "Moving Pictures",
+            "essaysubtitle": "Maps and Imagination in Eighteenth-Century Anglo-America",
+            "essayslug": "moving-pictures",
+            "manifest": "2KXJ8ZSQ38W30",
+            "imagetitle": "The harbour of Charles Town in South-Carolina",
+            "imagectxid": "NL11JMCM",
+            "imageiiifid": "2KXJ8ZSFRJLP2",
+            "imagelink": "2KXJ8ZWQTJ14"
+        }
+    },
+    "/src/content/mm12/mm12-0111-1808-proposed-canal-new-york.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998713388805867",
+            "minino": "0111",
+            "minifn": "mm12-0111-1808-proposed-canal-new-york",
+            "minititle": "Proposed Canal, New York to Philadelphia, 1808",
+            "minislug": "1808-proposed-canal-new-york",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSF24P7K",
+            "imagetitle": "Map, of part of the state of New Jersey, pointing out the course of an intended inland timber navigation between New York and Philadelphia",
+            "imagectxid": "NL11JNXT",
+            "imageiiifid": "2KXJ8ZSFHNLYV",
+            "imagelink": "2KXJ8ZWP5K8D"
+        }
+    },
+    "/src/content/mm12/mm12-0112-1817-navigation-guide-for-inland-rivers.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998713838805867",
+            "minino": "0112",
+            "minifn": "mm12-0112-1817-navigation-guide-for-inland-rivers",
+            "minititle": "Navigation Guide for Inland Rivers, 1817",
+            "minislug": "1817-navigation-guide-for-inland-rivers",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSF24P7K",
+            "imagetitle": "Falls of Ohio",
+            "imagectxid": "NL11JMFM",
+            "imageiiifid": "2KXJ8ZSFRJVRQ",
+            "imagelink": "2KXJ8ZWP563I"
+        }
+    },
+    "/src/content/mm12/mm12-0113-1829-canals-and-railroads.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x997119818805867",
+            "minino": "0113",
+            "minifn": "mm12-0113-1829-canals-and-railroads",
+            "minititle": "Canals and Railroads, North America, 1829",
+            "minislug": "1829-canals-and-railroads",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSQ38UEJ",
+            "imagetitle": "United States of America",
+            "imagectxid": "NL11JMFN",
+            "imageiiifid": "2KXJ8ZSFRJRJR",
+            "imagelink": "2KXJ8ZWQ2ML7"
+        }
+    },
+    "/src/content/mm12/mm12-0114-1820-plan-and-profile-erie-canal.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998714798805867",
+            "minino": "0114",
+            "minifn": "mm12-0114-1820-plan-and-profile-erie-canal",
+            "minititle": "Plan and Profile, Erie Canal, 1820",
+            "minislug": "1820-plan-and-profile-erie-canal",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSF24EY4",
+            "imagetitle": "Plan et profil du canal projetté du lac Erié a la riviere Hudson dans l'etat de Neuwyork",
+            "imagectxid": "NL11JNXU",
+            "imageiiifid": "2KXJ8ZSFHNW7G",
+            "imagelink": "2KXJ8ZWP5YAX"
+        }
+    },
+    "/src/content/mm12/mm12-0115-1848-travel-guide-hudson.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998713858805867",
+            "minino": "0115",
+            "minifn": "mm12-0115-1848-travel-guide-hudson",
+            "minititle": "Travel Guide, Hudson River, 1848",
+            "minislug": "1848-travel-guide-hudson",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSF240V7",
+            "imagetitle": "Map of the Hudson River",
+            "imagectxid": "NL11JMFR",
+            "imageiiifid": "2KXJ8ZSFRJ2HB",
+            "imagelink": "2KXJ8ZWP5JYB"
+        }
+    },
+    "/src/content/mm12/mm12-0116-1852-proposed-dams-and-jetties.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x999468248805867",
+            "minino": "0116",
+            "minifn": "mm12-0116-1852-proposed-dams-and-jetties",
+            "minititle": "Proposed Dams and Jetties, Hudson River, ca. 1852",
+            "minislug": "1852-proposed-dams-and-jetties",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSQ38PMF",
+            "imagetitle": "Map of the Hudson River : shewing location of proposed dams and jetties for permanently improving the navigation of the Hudson River",
+            "imagectxid": "NL11JNXO",
+            "imageiiifid": "2KXJ8ZSFHNVSZ",
+            "imagelink": "2KXJ8ZWQTON1"
+        }
+    },
+    "/src/content/mm12/mm12-0117-1862-canada-lakes-and-canals.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998713848805867",
+            "minino": "0117",
+            "minifn": "mm12-0117-1862-canada-lakes-and-canals",
+            "minititle": "Lakes and Canals, 1862",
+            "minislug": "1862-canada-lakes-and-canals",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSQ38J7V",
+            "imagetitle": "Canada : canals and lakes",
+            "imagectxid": "NL11JMG7",
+            "imageiiifid": "2KXJ8ZSFRJDZU",
+            "imagelink": "2KXJ8ZWQPF0B"
+        }
+    },
+    "/src/content/mm12/mm12-0118-1862-canal-profiles-new.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x999005638805867",
+            "minino": "0118",
+            "minifn": "mm12-0118-1862-canal-profiles-new",
+            "minititle": "Canal Profiles, New York State, 1862",
+            "minislug": "1862-canal-profiles-new",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSQ3896L",
+            "imagetitle": "Profiles of the New York State canals and feeders : showing the elevations of the same above tide water and the junction of the lateral canals with...",
+            "imagectxid": "NL11JMGT",
+            "imageiiifid": "2KXJ8ZSFRJ5N7",
+            "imagelink": "2KXJ8ZWQP5K8"
+        }
+    },
+    "/src/content/mm12/mm12-0119-1878-longitudinal-sections.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998990668805867",
+            "minino": "0119",
+            "minifn": "mm12-0119-1878-longitudinal-sections",
+            "minititle": "Longitudinal Sections, Mississippi Valley, 1878",
+            "minislug": "1878-longitudinal-sections",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSF24X85",
+            "imagetitle": "Sheet 1. A longitudinal section of the valley of the Mississippi River, from the junction of the Minnesota to the junction of the Ohio River : as...",
+            "imagectxid": "NL11JMGR",
+            "imageiiifid": "2KXJ8ZSFRJEXO",
+            "imagelink": "2KXJ8ZWQTCOU"
+        }
+    },
+    "/src/content/mm12/mm12-0120-1869-proposed-canal-inland.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x999461738805867",
+            "minino": "0120",
+            "minifn": "mm12-0120-1869-proposed-canal-inland",
+            "minititle": "Proposed Canal, Inland from the James River, 1869",
+            "minislug": "1869-proposed-canal-inland",
+            "essayno": "mm12",
+            "essaytitle": "Waterways Cartography, Part I",
+            "essaysubtitle": "The Mapping of North America's Internal Navigation Systems",
+            "essayslug": "waterways-cartography-part-1",
+            "manifest": "2KXJ8ZSQ384TM",
+            "imagetitle": "Map of the American Central Water Line and other principal lines of communication between the western states, and the Atlantic seaboard",
+            "imagectxid": "NL11JMGQ",
+            "imageiiifid": "2KXJ8ZSFRJ7YI",
+            "imagelink": "2KXJ8ZWQPPOO"
+        }
+    },
+    "/src/content/mm13/mm13-0121-1882-inland-canals.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998715058805867",
+            "minino": "0121",
+            "minifn": "mm13-0121-1882-inland-canals",
+            "minititle": "Inland Canals, 1882",
+            "minislug": "1882-inland-canals",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSF24I5O",
+            "imagetitle": "Works on canals",
+            "imagectxid": "NL11JNXL",
+            "imageiiifid": "2KXJ8ZSFHNK20",
+            "imagelink": "2KXJ8ZWQ2VHR"
+        }
+    },
+    "/src/content/mm13/mm13-0122-1898-water-routes-yukon.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998715648805867",
+            "minino": "0122",
+            "minifn": "mm13-0122-1898-water-routes-yukon",
+            "minititle": "Water Routes to the Yukon, 1898",
+            "minislug": "1898-water-routes-yukon",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSQ38M9N",
+            "imagetitle": "Map of the western part of the Dominion of Canada shewing various routes to the Yukon Dist., 1898",
+            "imagectxid": "NL11JNU1",
+            "imageiiifid": "2KXJ8ZSFHTYM3",
+            "imagelink": "2KXJ8ZWQWMV7"
+        }
+    },
+    "/src/content/mm13/mm13-0123-1904-canals-ohio.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998715618805867",
+            "minino": "0123",
+            "minifn": "mm13-0123-1904-canals-ohio",
+            "minititle": "Canals in Ohio, 1904",
+            "minislug": "1904-canals-ohio",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSQESYJE",
+            "imagetitle": "Map of Ohio canals",
+            "imagectxid": "NL1UMUB",
+            "imageiiifid": "2KXJ8ZWP5GCR",
+            "imagelink": "2KXJ8ZWP5GCR"
+        }
+    },
+    "/src/content/mm13/mm13-0124-1894-water-transportation-routes-us.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998715658805867",
+            "minino": "0124",
+            "minifn": "mm13-0124-1894-water-transportation-routes-us",
+            "minititle": "Water Transportation Routes, United States, 1894",
+            "minislug": "1894-water-transportation-routes-us",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSQ38CUT",
+            "imagetitle": "Map showing the navigable depths of the rivers of the United States and the principal transportation routes on the sea-coasts and Great Lakes in the...",
+            "imagectxid": "NL11JNU0",
+            "imageiiifid": "2KXJ8ZSFHT28F",
+            "imagelink": "2KXJ8ZWQWNJ9"
+        }
+    },
+    "/src/content/mm13/mm13-0125-1908-freight-rates-inland.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998715628805867",
+            "minino": "0125",
+            "minifn": "mm13-0125-1908-freight-rates-inland",
+            "minititle": "Freight Rates on Inland Rivers, 1908",
+            "minislug": "1908-freight-rates-inland",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSF24ZLR",
+            "imagetitle": "Freight rates charged for the transportation of articles classed as first class in the classification as noted below via rail and via river from St....",
+            "imagectxid": "NL11JNTZ",
+            "imageiiifid": "2KXJ8ZSFHTV6Z",
+            "imagelink": "2KXJ8ZWP5OK2"
+        }
+    },
+    "/src/content/mm13/mm13-0126-1931-buffalo-great-lakes.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998715848805867",
+            "minino": "0126",
+            "minifn": "mm13-0126-1931-buffalo-great-lakes",
+            "minititle": "Buffalo and the Great Lakes, 1931",
+            "minislug": "1931-buffalo-great-lakes",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSF24OBP",
+            "imagetitle": "Origin of lake receipts at Buffalo, N.Y., during 1929",
+            "imagectxid": "NL11JNU4",
+            "imageiiifid": "2KXJ8ZSFHT85M",
+            "imagelink": "2KXJ8ZWQ2BX1"
+        }
+    },
+    "/src/content/mm13/mm13-0127-1936-us-lake-survey.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998716108805867",
+            "minino": "0127",
+            "minifn": "mm13-0127-1936-us-lake-survey",
+            "minititle": "U.S. Lake Survey, Cleveland Harbor Sheet, 1936",
+            "minislug": "1936-us-lake-survey",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSQ386KT",
+            "imagetitle": "Cleveland Harbor including lower Cuyahoga River",
+            "imagectxid": "NL11JNU6",
+            "imageiiifid": "2KXJ8ZSFHTRWY",
+            "imagelink": "2KXJ8ZWQEZBI"
+        }
+    },
+    "/src/content/mm13/mm13-0128-1970-nautical-charts-illinois.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998716048805867",
+            "minino": "0128",
+            "minifn": "mm13-0128-1970-nautical-charts-illinois",
+            "minititle": "Nautical Charts of the Illinois River, 1970",
+            "minislug": "1970-nautical-charts-illinois",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSF24KU1",
+            "imagetitle": "Nautical chart of the Illinois Waterway and Illinois River at Peoria mile 156.1 to mile 161.9",
+            "imagectxid": "NL11JNXV",
+            "imageiiifid": "2KXJ8ZSFHNIBA",
+            "imagelink": "2KXJ8ZWP51P5"
+        }
+    },
+    "/src/content/mm13/mm13-0129-1949-intracoastal-waterway-nj.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998716078805867",
+            "minino": "0129",
+            "minifn": "mm13-0129-1949-intracoastal-waterway-nj",
+            "minititle": "Intracoastal Waterway, New Jersey, 1949-1950",
+            "minislug": "1949-intracoastal-waterway-nj",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSF243FU",
+            "imagetitle": "New Jersey Intracoastal Waterway Little Egg Harbor to Longport",
+            "imagectxid": "NL1UMV7",
+            "imageiiifid": "2KXJ8ZSFE7A5S",
+            "imagelink": "2KXJ8ZWQKB_8"
+        }
+    },
+    "/src/content/mm13/mm13-0130-1964-commodities.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998716068805867",
+            "minino": "0130",
+            "minifn": "mm13-0130-1964-commodities",
+            "minititle": "Commodities and Carriers on Inland Waterways, 1964",
+            "minislug": "1964-commodities",
+            "essayno": "mm13",
+            "essaytitle": "Waterways Cartography, Part II",
+            "essaysubtitle": "Landmarks and Exemplars in North America",
+            "essayslug": "waterways-cartography-part-2",
+            "manifest": "2KXJ8ZSQES94J",
+            "imagetitle": "Common carriers of general commodities on the Tennessee River and interconnecting inland waterways",
+            "imagectxid": "NL1UMUG",
+            "imageiiifid": "2KXJ8ZWP5498",
+            "imagelink": "2KXJ8ZWP5498"
+        }
+    },
+    "/src/content/mm14/mm14-0131-1843-northwestern-states.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998758228805867",
+            "minino": "0131",
+            "minifn": "mm14-0131-1843-northwestern-states",
+            "minititle": "Guide to the Northwestern States, in German, 1843",
+            "minislug": "1843-northwestern-states",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSQE47FL",
+            "imagetitle": "Wegweiser durch die Staaten Ohio, Michigan, Indiana, Illinois, & Missouri : u. die Territorien Wisconsin & Jowa : nach den letzten Vermessungen der...",
+            "imagectxid": "NL11JNU9",
+            "imageiiifid": "2KXJ8ZSFHT3ES",
+            "imagelink": "2KXJ8ZWQ5PKO"
+        }
+    },
+    "/src/content/mm14/mm14-0132-1846-german-immigration.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998758218805867",
+            "minino": "0132",
+            "minifn": "mm14-0132-1846-german-immigration",
+            "minititle": "German Immigration Guide to the US, 1846",
+            "minislug": "1846-german-immigration",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSF24ANW",
+            "imagetitle": "Karte der Vereinigten Staaten von Nord-America : Neu Braunschweigs, der beiden Canadas und Texas",
+            "imagectxid": "NL1UMVD",
+            "imageiiifid": "2KXJ8ZWQKP_2",
+            "imagelink": "2KXJ8ZWQKP_2"
+        }
+    },
+    "/src/content/mm14/mm14-0133-1849-route-california.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998758458805867",
+            "minino": "0133",
+            "minifn": "mm14-0133-1849-route-california",
+            "minititle": "Map of the Route to California, 1849",
+            "minislug": "1849-route-california",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSQE4M8T",
+            "imagetitle": "Map of the route to California : compiled from accurate observations and surveys by government",
+            "imagectxid": "NL11JNXW",
+            "imageiiifid": "2KXJ8ZSFHN3HS",
+            "imagelink": "2KXJ8ZWQKG_W"
+        }
+    },
+    "/src/content/mm14/mm14-0134-1898-statistical-atlas-us.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998758608805867",
+            "minino": "0134",
+            "minifn": "mm14-0134-1898-statistical-atlas-us",
+            "minititle": "Statistical Atlas of the United States, 1898",
+            "minislug": "1898-statistical-atlas-us",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSF24F3U",
+            "imagetitle": "Composition of the foreign-born population, 1890",
+            "imagectxid": "NL1UMVW",
+            "imageiiifid": "2KXJ8ZWQK8_O",
+            "imagelink": "2KXJ8ZWQK8_O"
+        }
+    },
+    "/src/content/mm14/mm14-0135-1895-nationalities-chicago.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x99923568805867",
+            "minino": "0135",
+            "minifn": "mm14-0135-1895-nationalities-chicago",
+            "minititle": "Nationalities of Chicago by City Block, 1895",
+            "minislug": "1895-nationalities-chicago",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSQ388AA",
+            "imagetitle": "Nationalities map no. 1-4, Polk St. to Twelfth,...Chicago",
+            "imagectxid": "NL1UO2V",
+            "imageiiifid": "2KXJ8ZSFE74FY",
+            "imagelink": "2KXJ8ZWQNUL5"
+        }
+    },
+    "/src/content/mm14/mm14-0136-1886-fire-insurance-chi.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998758508805867",
+            "minino": "0136",
+            "minifn": "mm14-0136-1886-fire-insurance-chi",
+            "minititle": "Fire Insurance Atlas of Chicago, 1886",
+            "minislug": "1886-fire-insurance-chi",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSF24R18",
+            "imagetitle": "E. 1/2 of N.W. 1/4, section 33.40.14 : Canal Trustees sub. of part of sec. 33.40.14",
+            "imagectxid": "NL1UMVF",
+            "imageiiifid": "2KXJ8ZWQKC_9",
+            "imagelink": "2KXJ8ZWQKC_9"
+        }
+    },
+    "/src/content/mm14/mm14-0137-1886-plat-book-clayton.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998761828805867",
+            "minino": "0137",
+            "minifn": "mm14-0137-1886-plat-book-clayton",
+            "minititle": "Plat book of Clayton County, Iowa, 1886",
+            "minislug": "1886-plat-book-clayton",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSF20S89",
+            "imagetitle": "South part of Guttenberg, Clayton County, Iowa",
+            "imagectxid": "NL11JACQ",
+            "imageiiifid": "2KXJ8ZSF2KI4O",
+            "imagelink": "2KXJ8ZSF2KI4O"
+        }
+    },
+    "/src/content/mm14/mm14-0138-1863-slave-populations.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998758528805867",
+            "minino": "0138",
+            "minifn": "mm14-0138-1863-slave-populations",
+            "minititle": "Slave Populations in Southern States, 1863",
+            "minislug": "1863-slave-populations",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSQE416M",
+            "imagetitle": "Map of the Southern States, showing the relative proportion of slaves in the different localities",
+            "imagectxid": "NL1UMVH",
+            "imageiiifid": "2KXJ8ZWQKJ_R",
+            "imagelink": "2KXJ8ZWQKJ_R"
+        }
+    },
+    "/src/content/mm14/mm14-0139-1898-underground-railroad-routes.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998758238805867",
+            "minino": "0139",
+            "minifn": "mm14-0139-1898-underground-railroad-routes",
+            "minititle": "Underground Railroad Routes to Canada, 1898",
+            "minislug": "1898-underground-railroad-routes",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSQE4N9S",
+            "imagetitle": "Underground routes to Canada : showing the lines of travel of fugitive slaves",
+            "imagectxid": "NL1UMV5",
+            "imageiiifid": "2KXJ8ZWQK0_X",
+            "imagelink": "2KXJ8ZWQK0_X"
+        }
+    },
+    "/src/content/mm14/mm14-0140-1856-eastern-kansas.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991572918805867",
+            "minino": "0140",
+            "minifn": "mm14-0140-1856-eastern-kansas",
+            "minititle": "Eastern Kansas and Indian Lands, 1856",
+            "minislug": "1856-eastern-kansas",
+            "essayno": "mm14",
+            "essaytitle": "Mapping Migration and Settlement",
+            "essaysubtitle": "",
+            "essayslug": "mapping-migration",
+            "manifest": "2KXJ8ZSF20X65",
+            "imagetitle": "Map of Eastern Kansas",
+            "imagectxid": "NL11JAAO",
+            "imageiiifid": "2KXJ8ZSF2KMFI",
+            "imagelink": "2KXJ8ZSF2KMFI"
+        }
+    },
+    "/src/content/mm15/mm15-0141-1494-christopher-columbus.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998731588805867",
+            "minino": "0141",
+            "minifn": "mm15-0141-1494-christopher-columbus",
+            "minititle": "Christopher Columbus's Letter, 1494",
+            "minislug": "1494-christopher-columbus",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSF24WDQ",
+            "imagetitle": "Insula Hyspana",
+            "imagectxid": "NL1UMUT",
+            "imageiiifid": "2KXJ8ZWP5VZ4",
+            "imagelink": "2KXJ8ZWP5VZ4"
+        }
+    },
+    "/src/content/mm15/mm15-0142-1616-new-england.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998732618805867",
+            "minino": "0142",
+            "minifn": "mm15-0142-1616-new-england",
+            "minititle": "New England, 1616",
+            "minislug": "1616-new-england",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSQE4B0F",
+            "imagetitle": "New England : the most remarqueable parts thus named by the high and mighty Prince Charles, Prince of Great Britaine",
+            "imagectxid": "NL1UMV9",
+            "imageiiifid": "2KXJ8ZWQKK_K",
+            "imagelink": "2KXJ8ZWQKK_K"
+        }
+    },
+    "/src/content/mm15/mm15-0143-1657-island-barbados.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998732608805867",
+            "minino": "0143",
+            "minifn": "mm15-0143-1657-island-barbados",
+            "minititle": "The Island of Barbados, 1657",
+            "minislug": "1657-island-barbados",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSQESESE",
+            "imagetitle": "Topographicall description and admeasurement of the yland of Barbados in the West Indyaes : with the mrs. names of the seureall plantacons",
+            "imagectxid": "NL1UMVC",
+            "imageiiifid": "2KXJ8ZWQKT_W",
+            "imagelink": "2KXJ8ZWQKT_W"
+        }
+    },
+    "/src/content/mm15/mm15-0144-1755-british-french.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x99841438805867",
+            "minino": "0144",
+            "minifn": "mm15-0144-1755-british-french",
+            "minititle": "British and French Dominions in North America, 1755",
+            "minislug": "1755-british-french",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSQESXUG",
+            "imagetitle": "A map of the British and French dominions in North America : with the roads, distances, limits, and extent of the settlements, humbly inscribed to...",
+            "imagectxid": "NL11IY9Y",
+            "imageiiifid": "2KXJ8ZSQ3FANZ",
+            "imagelink": "2KXJ8ZSQ3FANZ"
+        }
+    },
+    "/src/content/mm15/mm15-0145-1784-usa.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998732598805867",
+            "minino": "0145",
+            "minifn": "mm15-0145-1784-usa",
+            "minititle": "The United States of America, 1784",
+            "minislug": "1784-usa",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSQESL06",
+            "imagetitle": "Map of the United States of America",
+            "imagectxid": "NL1UMV2",
+            "imageiiifid": "2KXJ8ZWQKU_K",
+            "imagelink": "2KXJ8ZWQKU_K"
+        }
+    },
+    "/src/content/mm15/mm15-0146-1836-michigan-ouisconsin.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991578698805867",
+            "minino": "0146",
+            "minifn": "mm15-0146-1836-michigan-ouisconsin",
+            "minititle": "Territories of Michigan and Ouisconsin, 1836",
+            "minislug": "1836-michigan-ouisconsin",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSQ37LKS",
+            "imagetitle": "Improved map of the territories of Michigan and Ouisconsin (pronounced Wisconsin)",
+            "imagectxid": "NL11JNUC",
+            "imageiiifid": "2KXJ8ZSFHTCJE",
+            "imagelink": "2KXJ8ZWQ7IK8"
+        }
+    },
+    "/src/content/mm15/mm15-0147-1862-mississippi.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998782318805867",
+            "minino": "0147",
+            "minifn": "mm15-0147-1862-mississippi",
+            "minititle": "Mississippi River, St. Louis to the Gulf, 1862",
+            "minislug": "1862-mississippi",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSQE46RH",
+            "imagetitle": "Lloyd's map of the lower Mississippi River from St. Louis to the Gulf of Mexico",
+            "imagectxid": "NL11JNUB",
+            "imageiiifid": "2KXJ8ZSFHTO1L",
+            "imagelink": "2KXJ8ZWQ5KD5"
+        }
+    },
+    "/src/content/mm15/mm15-0148-1884-zigzag.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998732578805867",
+            "minino": "0148",
+            "minifn": "mm15-0148-1884-zigzag",
+            "minititle": "Zigzag Journeys, Western States of America, 1884",
+            "minislug": "1884-zigzag",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSQESBXF",
+            "imagetitle": "Composite illustration of United States views and railroad map segments",
+            "imagectxid": "NL1UMV4",
+            "imageiiifid": "2KXJ8ZWQKA_7",
+            "imagelink": "2KXJ8ZWQKA_7"
+        }
+    },
+    "/src/content/mm15/mm15-0149-1906-hollow-earth.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998732568805867",
+            "minino": "0149",
+            "minifn": "mm15-0149-1906-hollow-earth",
+            "minititle": "The Hollow Earth, 1906",
+            "minislug": "1906-hollow-earth",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSQ37B0Y",
+            "imagetitle": "Globe showing section of the earth's interior",
+            "imagectxid": "NL11JNU8",
+            "imageiiifid": "2KXJ8ZSFHTZ3V",
+            "imagelink": "2KXJ8ZWQKM_B"
+        }
+    },
+    "/src/content/mm15/mm15-0150-1955-road-map-southwestern.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998732558805867",
+            "minino": "0150",
+            "minifn": "mm15-0150-1955-road-map-southwestern",
+            "minititle": "Road Map of the Southwestern States",
+            "minislug": "1955-road-map-southwestern",
+            "essayno": "mm15",
+            "essaytitle": "Maps, Movement, and American Literature",
+            "essaysubtitle": "",
+            "essayslug": "maps-movement-lit",
+            "manifest": "2KXJ8ZSF24YE4",
+            "imagetitle": "Washington, D.C. metropolitan area road map",
+            "imagectxid": "NL11JNUA",
+            "imageiiifid": "2KXJ8ZSFHTI9A",
+            "imagelink": "2KXJ8ZWQJI68"
+        }
+    },
+    "/src/content/mm18/mm18-0171-1732-coast-pilot-chart.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998774168805867",
+            "minino": "0171",
+            "minifn": "mm18-0171-1732-coast-pilot-chart",
+            "minititle": "Coast Pilot Chart of New England, 1732",
+            "minislug": "1732-coast-pilot-chart",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSF20H1I",
+            "imagetitle": "A correct map of the coast of New England, 1731",
+            "imagectxid": "NL11JAD5",
+            "imageiiifid": "2KXJ8ZSF22VV7",
+            "imagelink": "2KXJ8ZSF22VV7"
+        }
+    },
+    "/src/content/mm18/mm18-0172-1732-variations-of-the-compass.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998774128805867",
+            "minino": "0172",
+            "minifn": "mm18-0172-1732-variations-of-the-compass",
+            "minititle": "Variations of the Compass, Atlantic Ocean, 1732",
+            "minislug": "1732-variations-of-the-compass",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSF20NKW",
+            "imagetitle": "A new and correct chart shewing the variations of the compass in the Western & Southern Oceans",
+            "imagectxid": "NL11JACZ",
+            "imageiiifid": "2KXJ8ZSF2277K",
+            "imagelink": "2KXJ8ZSF2277K"
+        }
+    },
+    "/src/content/mm18/mm18-0173-1807-trade-winds.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998766728805867",
+            "minino": "0173",
+            "minifn": "mm18-0173-1807-trade-winds",
+            "minititle": "Trade Winds and Navigation, North Atlantic, 1807",
+            "minislug": "1807-trade-winds",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSF24TGB",
+            "imagetitle": "Chart of the Atlantic Ocean",
+            "imagectxid": "NL1UMVI",
+            "imageiiifid": "2KXJ8ZWQKI_D",
+            "imagelink": "2KXJ8ZWQKI_D"
+        }
+    },
+    "/src/content/mm18/mm18-0174-1820-ships-and-navigation.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998774118805867",
+            "minino": "0174",
+            "minifn": "mm18-0174-1820-ships-and-navigation",
+            "minititle": "Ships and Navigation, 1820",
+            "minislug": "1820-ships-and-navigation",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSF24Q9D",
+            "imagetitle": "Steam engine",
+            "imagectxid": "NL1UMVM",
+            "imageiiifid": "2KXJ8ZWQKO_8",
+            "imagelink": "2KXJ8ZWQKO_8"
+        }
+    },
+    "/src/content/mm18/mm18-0175-1833-stage-and-steamboat-routes-ohio.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998774138805867",
+            "minino": "0175",
+            "minifn": "mm18-0175-1833-stage-and-steamboat-routes-ohio",
+            "minititle": "Stage and Steamboat Routes, Ohio, 1833",
+            "minislug": "1833-stage-and-steamboat-routes-ohio",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSF20077",
+            "imagetitle": "The travellers pocket map of Ohio : with its canals, roads and distances, by stage & steam boat routes",
+            "imagectxid": "NL11JAD8",
+            "imageiiifid": "2KXJ8ZSF2255O",
+            "imagelink": "2KXJ8ZSF2255O"
+        }
+    },
+    "/src/content/mm18/mm18-0176-1838-us-coast-survey-chart-new-haven.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x997746808805867",
+            "minino": "0176",
+            "minifn": "mm18-0176-1838-us-coast-survey-chart-new-haven",
+            "minititle": "U.S. Coast Survey Chart, New Haven Harbour, 1838",
+            "minislug": "1838-us-coast-survey-chart-new-haven",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSF207NK",
+            "imagetitle": "Extract from the U.S. Coast Survey : New Haven Harbour, 1838",
+            "imagectxid": "NL11JAG3",
+            "imageiiifid": "2KXJ8ZSF20C4X",
+            "imagelink": "2KXJ8ZSF20C4X"
+        }
+    },
+    "/src/content/mm18/mm18-0177-1859-frontiers-of-ocean.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998776318805867",
+            "minino": "0177",
+            "minifn": "mm18-0177-1859-frontiers-of-ocean",
+            "minititle": "Frontiers of Ocean Navigation and Study, 1859",
+            "minislug": "1859-frontiers-of-ocean",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSF24JS9",
+            "imagetitle": "Karte vom amerikanischen Polynesien &c.",
+            "imagectxid": "NL1UMVP",
+            "imageiiifid": "2KXJ8ZWQKY_I",
+            "imagelink": "2KXJ8ZWQKY_I"
+        }
+    },
+    "/src/content/mm18/mm18-0178-1877-austro-hungarian.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998776348805867",
+            "minino": "0178",
+            "minifn": "mm18-0178-1877-austro-hungarian",
+            "minititle": "Austro-Hungarian Arctic Expedition, 1877",
+            "minislug": "1877-austro-hungarian",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSQE42EY",
+            "imagetitle": "Originalkarte der Rückreise der Österr.-Ungar. Expedition, Mai-August, 1874 : nach Weyprecht's Beobachtungen",
+            "imagectxid": "NL1UMVQ",
+            "imageiiifid": "2KXJ8ZWQKV_X",
+            "imagelink": "2KXJ8ZWQKV_X"
+        }
+    },
+    "/src/content/mm18/mm18-0179-1891-algae-concentrations.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998776358805867",
+            "minino": "0179",
+            "minifn": "mm18-0179-1891-algae-concentrations",
+            "minititle": "Algae Concentrations, Sargasso Sea, 1891",
+            "minislug": "1891-algae-concentrations",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSQE4ULC",
+            "imagetitle": "Die nordatlantische Sargasso See : nach der Häufigkeit des Krautvorkommens dargestellt",
+            "imagectxid": "NL1UMVV",
+            "imageiiifid": "2KXJ8ZWQK7_2",
+            "imagelink": "2KXJ8ZWQK7_2"
+        }
+    },
+    "/src/content/mm18/mm18-0180-1934-us-coast-survey-chart-hawaii.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998776368805867",
+            "minino": "0180",
+            "minifn": "mm18-0180-1934-us-coast-survey-chart-hawaii",
+            "minititle": "U.S. Coast Survey Chart, Hawaii, 1934",
+            "minislug": "1934-us-coast-survey-chart-hawaii",
+            "essayno": "mm18",
+            "essaytitle": "Navigating the Coasts and Seas",
+            "essaysubtitle": "",
+            "essayslug": "navigating-the-coasts-and-seas",
+            "manifest": "2KXJ8ZSF20B3P",
+            "imagetitle": "Territory of Hawaii",
+            "imagectxid": "NL11JADH",
+            "imageiiifid": "2KXJ8ZSF2233U",
+            "imagelink": "2KXJ8ZSF2233U"
+        }
+    },
+    "/src/content/mm19/mm19-0181-1840-atlas-venezuela.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998726878805867",
+            "minino": "0181",
+            "minifn": "mm19-0181-1840-atlas-venezuela",
+            "minititle": "Atlas of Venezuela, 1840",
+            "minislug": "1840-atlas-venezuela",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSF20TDB",
+            "imagetitle": "America historica, fisica y politica actual",
+            "imagectxid": "NL11JAAB",
+            "imageiiifid": "2KXJ8ZSF2JUV1",
+            "imagelink": "2KXJ8ZSF2JUV1"
+        }
+    },
+    "/src/content/mm19/mm19-0182-1909-route-bogota.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998724268805867",
+            "minino": "0182",
+            "minifn": "mm19-0182-1909-route-bogota",
+            "minititle": "The Route of Professor Hiram Bingham from Caracas to Bogota, 1909",
+            "minislug": "1909-route-bogota",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSQESKOC",
+            "imagetitle": "South America sketch map showing the route of Prof. Hiram Bingham from Caracas to Bogota, 1907",
+            "imagectxid": "NL1UMUX",
+            "imageiiifid": "2KXJ8ZWQK5_D",
+            "imagelink": "2KXJ8ZWQK5_D"
+        }
+    },
+    "/src/content/mm19/mm19-0183-1933-ye-olde-spanish.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998723668805867",
+            "minino": "0183",
+            "minifn": "mm19-0183-1933-ye-olde-spanish",
+            "minititle": "Ye Olde Spanish Main, 1933",
+            "minislug": "1933-ye-olde-spanish",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSF20ISO",
+            "imagetitle": "The Grace Line dedicates this carte to ye olde Spanish Main, cradle of our western civilization",
+            "imagectxid": "NL11JAE6",
+            "imageiiifid": "2KXJ8ZSF20VP7",
+            "imagelink": "2KXJ8ZSF20VP7"
+        }
+    },
+    "/src/content/mm19/mm19-0184-1938-motorists-mexico.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998723608805867",
+            "minino": "0184",
+            "minifn": "mm19-0184-1938-motorists-mexico",
+            "minititle": "Motorist's Guide to Mexico, 1938",
+            "minislug": "1938-motorists-mexico",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSF24C6X",
+            "imagetitle": "Mexico City routes for entering and leaving",
+            "imagectxid": "NL1UMUR",
+            "imageiiifid": "2KXJ8ZWP5ZHW",
+            "imagelink": "2KXJ8ZWP5ZHW"
+        }
+    },
+    "/src/content/mm19/mm19-0185-1908-united-brazil.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x994086038805867",
+            "minino": "0185",
+            "minifn": "mm19-0185-1908-united-brazil",
+            "minititle": "The United States of Brazil, 1908",
+            "minislug": "1908-united-brazil",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSF24HMI",
+            "imagetitle": "Mappa geral da Republica dos Estados Unidos do Brasil : publicado por occasiaÌƒo da ExposicÌ§Ì§aÌƒo Nacional de 1908 por ordem do Exmo. Snr. Ministro da...",
+            "imagectxid": "NL1UN3X",
+            "imageiiifid": "2KXJ8ZWQVUF5",
+            "imagelink": "2KXJ8ZWQVUF5"
+        }
+    },
+    "/src/content/mm19/mm19-0186-1929-airmail-argentina.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998723628805867",
+            "minino": "0186",
+            "minifn": "mm19-0186-1929-airmail-argentina",
+            "minititle": "Airmail Route, Argentina to United States, 1929",
+            "minislug": "1929-airmail-argentina",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSF24GTB",
+            "imagetitle": "South America sketch map showing the route of Prof. Hiram Bingham from Caracas to Bogota, 1907",
+            "imagectxid": "NL1UMUM",
+            "imageiiifid": "2KXJ8ZWP5P5P",
+            "imagelink": "2KXJ8ZWP5P5P"
+        }
+    },
+    "/src/content/mm19/mm19-0187-1855-panama-rr.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998723648805867",
+            "minino": "0187",
+            "minifn": "mm19-0187-1855-panama-rr",
+            "minititle": "The Panama Railroad, 1855",
+            "minislug": "1855-panama-rr",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSQESI70",
+            "imagetitle": "Map showing the line of the Panama Rail-Road",
+            "imagectxid": "NL1UMUQ",
+            "imageiiifid": "2KXJ8ZWP53T7",
+            "imagelink": "2KXJ8ZWP53T7"
+        }
+    },
+    "/src/content/mm19/mm19-0188-1950-panorama-american.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998731668805867",
+            "minino": "0188",
+            "minifn": "mm19-0188-1950-panorama-american",
+            "minititle": "Panorama of the American Continent, 1950",
+            "minislug": "1950-panorama-american",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSQES7RL",
+            "imagetitle": "Mapa panorâmico do continente Americano : apresentando a Estrada de Rodagem Panamericana e mostrando alguns dos recursos naturais, cenários...",
+            "imagectxid": "NL1UMV8",
+            "imageiiifid": "2KXJ8ZWQKW_1",
+            "imagelink": "2KXJ8ZWQKW_1"
+        }
+    },
+    "/src/content/mm19/mm19-0189-1726-louisiana-mexico.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991759858805867",
+            "minino": "0189",
+            "minifn": "mm19-0189-1726-louisiana-mexico",
+            "minititle": "Louisiana and the Coast of Mexico, 1726",
+            "minislug": "1726-louisiana-mexico",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSF248X5",
+            "imagetitle": "Carte de la coste de la Louisiane, depuis la Baye de St. Bernard jusqu'a celle de Saint Joseph ou tous les ports, rades, et bons mouillages sont...",
+            "imagectxid": "NL1UN4B",
+            "imageiiifid": "2KXJ8ZWQVZ7I",
+            "imagelink": "2KXJ8ZWQVZ7I"
+        }
+    },
+    "/src/content/mm19/mm19-0190-1848-military-leavenworth.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998726948805867",
+            "minino": "0190",
+            "minifn": "mm19-0190-1848-military-leavenworth",
+            "minititle": "Military Reconnaissance from Fort Leavenworth to San Diego, 1848",
+            "minislug": "1848-military-leavenworth",
+            "essayno": "mm19",
+            "essaytitle": "Around, Over, and Through the Americas",
+            "essaysubtitle": "",
+            "essayslug": "around-over-through",
+            "manifest": "2KXJ8ZSF209ZD",
+            "imagetitle": "Sketch of the actions fought at San Pasqual in Upper California between the Americans and the Mexicans, Dec. 6th & 7th, 1846",
+            "imagectxid": "NL11JADS",
+            "imageiiifid": "2KXJ8ZSF22MMI",
+            "imagelink": "2KXJ8ZSF22MMI"
+        }
+    },
+    "/src/content/mm20/mm20-0191-1775-southern-indian-district-of-north-america.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991462688805867",
+            "minino": "0191",
+            "minifn": "mm20-0191-1775-southern-indian-district-of-north-america",
+            "minititle": "Southern Indian District of North America, 1775",
+            "minislug": "1775-southern-indian-district-of-north-america",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSQ37SWV",
+            "imagetitle": "Map of the Southern Indian District of North America",
+            "imagectxid": "NL1UN4C",
+            "imageiiifid": "2KXJ8ZWQ79PQ",
+            "imagelink": "2KXJ8ZWQ79PQ"
+        }
+    },
+    "/src/content/mm20/mm20-0192-1818-map-of-the-state-of-georgia.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x997083948805867",
+            "minino": "0192",
+            "minifn": "mm20-0192-1818-map-of-the-state-of-georgia",
+            "minititle": "Map of the State of Georgia, 1818",
+            "minislug": "1818-map-of-the-state-of-georgia",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSF203QU",
+            "imagetitle": "Map of the state of Georgia",
+            "imagectxid": "NL11JAAX",
+            "imageiiifid": "2KXJ8ZSF2K9XD",
+            "imagelink": "2KXJ8ZSF2K9XD"
+        }
+    },
+    "/src/content/mm20/mm20-0193-1822-state-of-georgia.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998740578805867",
+            "minino": "0193",
+            "minifn": "mm20-0193-1822-state-of-georgia",
+            "minititle": "The State of Georgia, in the American Atlas, 1822",
+            "minislug": "1822-state-of-georgia",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSF20KG1",
+            "imagetitle": "Georgia",
+            "imagectxid": "NL11JABS",
+            "imageiiifid": "2KXJ8ZSF2K4U2",
+            "imagelink": "2KXJ8ZSF2K4U2"
+        }
+    },
+    "/src/content/mm20/mm20-0194-1835-north-carolina-south.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x995469658805867",
+            "minino": "0194",
+            "minifn": "mm20-0194-1835-north-carolina-south",
+            "minititle": "North Carolina, South Carolina, and Georgia, 1835",
+            "minislug": "1835-north-carolina-south",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSF20QLD",
+            "imagetitle": "Map of the states of North Carolina, South Carolina, and Georgia",
+            "imagectxid": "NL11JAE2",
+            "imageiiifid": "2KXJ8ZSF20UT1",
+            "imagelink": "2KXJ8ZSF20UT1"
+        }
+    },
+    "/src/content/mm20/mm20-0195-1863-usarmy-map-of-northwest-georgia.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998740878805867",
+            "minino": "0195",
+            "minifn": "mm20-0195-1863-usarmy-map-of-northwest-georgia",
+            "minititle": "U.S. Army Map of Northwestern Georgia, 1863",
+            "minislug": "1863-usarmy-map-of-northwest-georgia",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSF20YB4",
+            "imagetitle": "Northwestern Georgia (with portions of the adjoining States of Tennessee and Alabama) : being part of the Department of the Cumberland",
+            "imagectxid": "NL11JADB",
+            "imageiiifid": "2KXJ8ZSF22UU1",
+            "imagelink": "2KXJ8ZSF22UU1"
+        }
+    },
+    "/src/content/mm20/mm20-0196-1869-georgia-central-railroad.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998740868805867",
+            "minino": "0196",
+            "minifn": "mm20-0196-1869-georgia-central-railroad",
+            "minititle": "Georgia Central Railroad and its Connections, 1869",
+            "minislug": "1869-georgia-central-railroad",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSF20MRI",
+            "imagetitle": "Georgia Central Railroad, and its connections",
+            "imagectxid": "NL11JACT",
+            "imageiiifid": "2KXJ8ZSF22CCX",
+            "imagelink": "2KXJ8ZSF22CCX"
+        }
+    },
+    "/src/content/mm20/mm20-0197-1919-national-highways-proposed-in-georgia.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998740858805867",
+            "minino": "0197",
+            "minifn": "mm20-0197-1919-national-highways-proposed-in-georgia",
+            "minititle": "National Highways Proposed in Georgia, 1919",
+            "minislug": "1919-national-highways-proposed-in-georgia",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSF20OFP",
+            "imagetitle": "National highways map of the state of Georgia : showing thirty-three hundred miles of national highways proposed by the National Highways Association...",
+            "imagectxid": "NL11JACW",
+            "imageiiifid": "2KXJ8ZSF22IIO",
+            "imagelink": "2KXJ8ZSF22IIO"
+        }
+    },
+    "/src/content/mm20/mm20-0198-1930-motor-routes-to-augusta.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998740848805867",
+            "minino": "0198",
+            "minifn": "mm20-0198-1930-motor-routes-to-augusta",
+            "minititle": "Motor Routes to Augusta, Georgia and Florida, 1930",
+            "minislug": "1930-motor-routes-to-augusta",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSF20WHQ",
+            "imagetitle": "AAA motor routes to Augusta, Georgia, and Florida : climate surpassing even the Riviera",
+            "imagectxid": "NL11JADE",
+            "imageiiifid": "2KXJ8ZSF22BBP",
+            "imagelink": "2KXJ8ZSF22BBP"
+        }
+    },
+    "/src/content/mm20/mm20-0199-1968-principal-us-electric.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998740848805867",
+            "minino": "0199",
+            "minifn": "mm20-0199-1968-principal-us-electric",
+            "minititle": "Principal US Electric Transmission Lines, 1968",
+            "minislug": "1968-principal-us-electric",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSF20Z5R",
+            "imagetitle": "Principal interconnected transmission lines in the United States",
+            "imagectxid": "NL11JAE5",
+            "imageiiifid": "2KXJ8ZSF20EO4",
+            "imagelink": "2KXJ8ZSF20EO4"
+        }
+    },
+    "/src/content/mm20/mm20-0200-1976-mapping-the-travels-of-john.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998740828805867",
+            "minino": "0200",
+            "minifn": "mm20-0200-1976-mapping-the-travels-of-john",
+            "minititle": "Mapping the Travels of John and William Bartram, 1976",
+            "minislug": "1976-mapping-the-travels-of-john",
+            "essayno": "mm20",
+            "essaytitle": "Lines that Fracture and Fade",
+            "essaysubtitle": "Two Centuries of Travel through Georgia, 1775-1976",
+            "essayslug": "lines-that-fracture",
+            "manifest": "2KXJ8ZSF208C5",
+            "imagetitle": "Travels of John and William Bartram, July 1765-April 1766 : Travels of William Bartram, March 1773-January 1777",
+            "imagectxid": "NL11JAC8",
+            "imageiiifid": "2KXJ8ZSF2KWBQ",
+            "imagelink": "2KXJ8ZSF2KWBQ"
+        }
+    },
+    "/src/content/mm25/mm25-0241-1773-colonial-post-roads.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998854128805867",
+            "minino": "0241",
+            "minifn": "mm25-0241-1773-colonial-post-roads",
+            "minititle": "Colonial Post Roads, 1773",
+            "minislug": "1773-colonial-post-roads",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSF249QD",
+            "imagetitle": "Hugh Finlay's tract from Canada to the Massachusetts Province",
+            "imagectxid": "NL1UMWH",
+            "imageiiifid": "2KXJ8ZWQ5MY7",
+            "imagelink": "2KXJ8ZWQ5MY7"
+        }
+    },
+    "/src/content/mm25/mm25-0242-1849-routes-to-california.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998854108805867",
+            "minino": "0242",
+            "minifn": "mm25-0242-1849-routes-to-california",
+            "minititle": "Routes to California, 1849",
+            "minislug": "1849-routes-to-california",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSF20202",
+            "imagetitle": "Map of the United States, the British provinces, Mexico &c. : showing the routes of the U.S. mail steam packets to California, and a plan of the Gold...",
+            "imagectxid": "NL11JAJ1",
+            "imageiiifid": "2KXJ8ZSF2Y0B7",
+            "imagelink": "2KXJ8ZSF2Y0B7"
+        }
+    },
+    "/src/content/mm25/mm25-0243-1866-wire-across-continent.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x991679048805867",
+            "minino": "0243",
+            "minifn": "mm25-0243-1866-wire-across-continent",
+            "minititle": "A Wire across the Continent, 1866",
+            "minislug": "1866-wire-across-continent",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSQ37ZUS",
+            "imagetitle": "Map of the California State Telegraph, and Overland Mail road : Austin to Great Salt Lake City : from actual survey, Aug., 1866",
+            "imagectxid": "NL11JNXZ",
+            "imageiiifid": "2KXJ8ZSFHN1KY",
+            "imagelink": "2KXJ8ZWQVIA8"
+        }
+    },
+    "/src/content/mm25/mm25-0244-1858-wire-across-ocean.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998808468805867",
+            "minino": "0244",
+            "minifn": "mm25-0244-1858-wire-across-ocean",
+            "minititle": "A Wire Across the Ocean, 1858",
+            "minislug": "1858-wire-across-ocean",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSQE4SWN",
+            "imagetitle": "Map of the submarine telegraph between America & Europe : with its various communications on the two continents",
+            "imagectxid": "NL11JNXX",
+            "imageiiifid": "2KXJ8ZSFHNET3",
+            "imagelink": "2KXJ8ZSQ3FHMN"
+        }
+    },
+    "/src/content/mm25/mm25-0245-1889-standard-time.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998854148805867",
+            "minino": "0245",
+            "minifn": "mm25-0245-1889-standard-time",
+            "minititle": "Standard Time and Solar Time, 1889",
+            "minislug": "1889-standard-time",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSFANF30",
+            "imagetitle": "Map showing the divisions of standard time",
+            "imagectxid": "NL1UMW9",
+            "imageiiifid": "2KXJ8ZWQ5588",
+            "imagelink": "2KXJ8ZWQ5588"
+        }
+    },
+    "/src/content/mm25/mm25-0246-1899-new-economy.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x999499108805867",
+            "minino": "0246",
+            "minifn": "mm25-0246-1899-new-economy",
+            "minititle": "The New Economy, 1899",
+            "minislug": "1899-new-economy",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSF20RE8",
+            "imagetitle": "Pennsylvania",
+            "imagectxid": "NL11JACK",
+            "imageiiifid": "2KXJ8ZSF2KPDK",
+            "imagelink": "2KXJ8ZSF2KPDK"
+        }
+    },
+    "/src/content/mm25/mm25-0247-1905-independent-telephone.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998854198805867",
+            "minino": "0247",
+            "minifn": "mm25-0247-1905-independent-telephone",
+            "minititle": "Independent Telephone Networks, 1905",
+            "minislug": "1905-independent-telephone",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSQE4DSA",
+            "imagetitle": "Independent telephone toll lines in New York, New Jersey, Pennsylvania : showing connections with Vermont, Delaware, Maryland, West Virginia, Ohio and...",
+            "imagectxid": "NL1UMWC",
+            "imageiiifid": "2KXJ8ZWQ5S64",
+            "imagelink": "2KXJ8ZWQ5S64"
+        }
+    },
+    "/src/content/mm25/mm25-0248-1926-radio-stations.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998854158805867",
+            "minino": "0248",
+            "minifn": "mm25-0248-1926-radio-stations",
+            "minititle": "Radio Stations of the United States, Canada, Mexico, and Cuba, 1926",
+            "minislug": "1926-radio-stations",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSF20DMQ",
+            "imagetitle": "Rand McNally radio map of the United States",
+            "imagectxid": "NL11JACG",
+            "imageiiifid": "2KXJ8ZSF2KGYB",
+            "imagelink": "2KXJ8ZSF2KGYB"
+        }
+    },
+    "/src/content/mm25/mm25-0249-1932-rivers-roads-rates.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998854118805867",
+            "minino": "0249",
+            "minifn": "mm25-0249-1932-rivers-roads-rates",
+            "minititle": "Rivers, Roads, and Rates of Travel, 1932",
+            "minislug": "1932-rivers-roads-rates",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSF205JO",
+            "imagetitle": "Transportation",
+            "imagectxid": "NL11JAD2",
+            "imageiiifid": "2KXJ8ZSF22007",
+            "imagelink": "2KXJ8ZSF22007"
+        }
+    },
+    "/src/content/mm25/mm25-0250-1768-chart-gulf-stream.md": {
+        "default": {},
+        "metadata": {
+            "iaid": "x998854138805867",
+            "minino": "0250",
+            "minifn": "mm25-0250-1768-chart-gulf-stream",
+            "minititle": "Benjamin Franklin's Chart of the Gulf Stream, 1768-1770",
+            "minislug": "1768-chart-gulf-stream",
+            "essayno": "mm25",
+            "essaytitle": "Mapping Communication",
+            "essaysubtitle": "",
+            "essayslug": "mapping-communication",
+            "manifest": "2KXJ8ZSQE45T0",
+            "imagetitle": "Chart of the Gulf Stream",
+            "imagectxid": "NL1UMWI",
+            "imageiiifid": "2KXJ8ZWQ5WR2",
+            "imagelink": "2KXJ8ZWQ5WR2"
+        }
+    }
+}

@@ -1,6 +1,5 @@
 ---
 iaid: x998561558805867
-iaid: x998561558805867
 minino: "0042"
 minifn: mm05-0042-1821-canal-lake-erie
 minititle: "Proposed Canal, Lake Erie to Hudson River, 1821"

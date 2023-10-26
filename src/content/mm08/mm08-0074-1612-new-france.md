@@ -1,6 +1,5 @@
 ---
 iaid: x998671228805867
-iaid: x998668988805867
 minino: '0074'
 minifn: mm08-0074-1612-new-france
 minititle: 'New France, 1612'

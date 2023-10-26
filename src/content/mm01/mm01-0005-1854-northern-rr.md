@@ -1,6 +1,5 @@
 ---
 iaid: x998365458805867
-iaid: x998365458805867
 minino: "0005"
 minifn: mm01-0005-1854-northern-rr
 minititle: "Proposed Northern Rail Route to the Pacific, 1854"

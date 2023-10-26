@@ -1,6 +1,5 @@
 ---
 iaid: x998559838805867
-iaid: x998559838805867
 minino: "0043"
 minifn: mm05-0043-1841-us-expeditionary-oregon
 minititle: "U.S. Expeditionary Map of the Oregon Territory, 1841-1845"

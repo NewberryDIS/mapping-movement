@@ -1,6 +1,5 @@
 ---
 iaid: x998559848805867
-iaid: x998559848805867
 minino: "0040"
 minifn: mm05-0040-1808-rapids-ohio
 minititle: "The Rapids of the Ohio, 1808"

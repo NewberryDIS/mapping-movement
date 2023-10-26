@@ -9,8 +9,6 @@
 	import Footer from '$comps/footer.svelte';
 	import Title from '$comps/title.svelte';
 	import { showSidebar, x, y, maxX, scrollPoint } from '$lib/stores';
-	export let data;
-	const { toc } = data;
 	import Icon from '@iconify/svelte';
 	$: visible = $x > 1000 || $showSidebar;
 	$: essay = $page.data.essay || { meta: { essaytitle: 'Mapping Movement' } };
@@ -39,7 +37,7 @@
 
 <main class:visible>
 	<nav>
-		<Sidebar {toc} />
+		<Sidebar/>
 	</nav>
 	<article class="core">
 		<Image home={$page.url.pathname === '/'} />

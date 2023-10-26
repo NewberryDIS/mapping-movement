@@ -1,6 +1,5 @@
 ---
 iaid: x999476408805867
-iaid: x999476408805867
 minino: '0030'
 minifn: mm03-0030-1919-railroad-valuation-map-itasca
 minititle: 'Railroad Valuation Map, Itasca, IL, 1919'

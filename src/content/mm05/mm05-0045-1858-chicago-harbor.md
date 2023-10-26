@@ -1,6 +1,5 @@
 ---
 iaid: x997396178805867
-iaid: x997396178805867
 minino: "0045"
 minifn: mm05-0045-1858-chicago-harbor
 minititle: "Corps of Engineers Map of Chicago Harbor, 1858"

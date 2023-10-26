@@ -1,6 +1,5 @@
 ---
 iaid: x991410948805867
-iaid: x991410948805867
 minino: "0046"
 minifn: mm05-0046-1866-union-pacific-rr
 minititle: "The Union Pacific Railroad under Construction, 1866"

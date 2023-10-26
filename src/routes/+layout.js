@@ -1,28 +1,30 @@
 import { error } from "@sveltejs/kit";
 export const prerender = true;
 export const trailingSlash = "always";
+import { toc } from "$lib/stores";
 
-export async function load({ params, url }) {
-  let toc = [];
+export async function load({ params, fetch }) {
   let returnData = {};
 
   try {
-    // getting sidebar
-    const paths = import.meta.glob("/src/content/*.md", {
-      eager: true,
-    });
-
-    for (const path in paths) {
-      const file = paths[path];
-      if (file && typeof file === "object" && "metadata" in file) {
-        toc.push(paths[path].metadata);
-      }
-    }
-
     returnData = {
       ...returnData,
-      toc: toc,
     };
+    // console.log(url.pathname);
+    // if (url.pathname.includes("data")) {
+    //   console.log("asdfafsafaf");
+    //   const fileName = "data.json";
+    //   const datoo = switchGitter("all");
+    //   let exportdata = [];
+    //   for (let i in datoo) {
+    //     // if (datoo[i].metadata) {
+    //     //   exportdata.push(datoo[i]);
+    //     // }
+    //     exportdata.push(datoo[i].metadata);
+    //   }
+    //   return { exportdata };
+    // }
+
     // getting page data if not /
     if (params.essay) {
       // console.log(params);
@@ -33,24 +35,30 @@ export async function load({ params, url }) {
         content: essayData.default,
         meta: essayData.metadata,
       };
-      let minis = [];
+      // console.log(essay);
+      const dataurl = `/data/${essay.meta.essayno}.json`;
+      console.log(essay.meta.essayno);
+      let minis = await fetch(dataurl).then((r) => r.json());
 
-      let paths = switchGitter(essay.meta.essayno);
+      console.log(minis);
 
-      for (const path in paths) {
-        const file = paths[path];
-        // if (!("metadata" in file)) {
-        //   console.log(file);
-        // }
-
-        if (file && typeof file === "object" && "metadata" in file) {
-          minis.push(paths[path].metadata);
-        }
-      }
-      minis = minis
-        .filter((f) => f)
-        .sort((a, b) => (a.minino > b.minino ? 1 : -1));
-
+      //
+      // let paths = switchGitter(essay.meta.essayno);
+      //
+      // for (const path in paths) {
+      //   const file = paths[path];
+      //   // if (!("metadata" in file)) {
+      //   //   console.log(file);
+      //   // }
+      //
+      //   if (file && typeof file === "object" && "metadata" in file) {
+      //     minis.push(paths[path].metadata);
+      //   }
+      // }
+      // minis = minis
+      //   .filter((f) => f)
+      //   .sort((a, b) => (a.minino > b.minino ? 1 : -1));
+      //
       returnData = {
         essay: essay,
         minis: minis,
@@ -86,60 +94,60 @@ export async function load({ params, url }) {
   }
 }
 
-function switchGitter(val) {
-  console.log(val);
-  let paths;
-  switch (val) {
-    case "mm01":
-      paths = import.meta.glob("/src/content/mm01/*.md", { eager: true });
-      break;
-    case "mm03":
-      paths = import.meta.glob("/src/content/mm03/*.md", { eager: true });
-      break;
-    case "mm05":
-      paths = import.meta.glob("/src/content/mm05/*.md", { eager: true });
-      break;
-    case "mm06":
-      paths = import.meta.glob("/src/content/mm06/*.md", { eager: true });
-      break;
-    case "mm07":
-      paths = import.meta.glob("/src/content/mm07/*.md", { eager: true });
-      break;
-    case "mm08":
-      paths = import.meta.glob("/src/content/mm08/*.md", { eager: true });
-      break;
-    case "mm09":
-      paths = import.meta.glob("/src/content/mm09/*.md", { eager: true });
-      break;
-    case "mm12":
-      paths = import.meta.glob("/src/content/mm12/*.md", { eager: true });
-      break;
-    case "mm13":
-      paths = import.meta.glob("/src/content/mm13/*.md", { eager: true });
-      break;
-    case "mm14":
-      paths = import.meta.glob("/src/content/mm14/*.md", { eager: true });
-      break;
-    case "mm15":
-      paths = import.meta.glob("/src/content/mm15/*.md", { eager: true });
-      break;
-    case "mm18":
-      paths = import.meta.glob("/src/content/mm18/*.md", { eager: true });
-      break;
-    case "mm19":
-      paths = import.meta.glob("/src/content/mm19/*.md", { eager: true });
-      break;
-    case "mm20":
-      paths = import.meta.glob("/src/content/mm20/*.md", { eager: true });
-      break;
-    case "mm25":
-      paths = import.meta.glob("/src/content/mm25/*.md", { eager: true });
-      break;
-    case "all":
-      paths = import.meta.glob("/src/content/*/*.md", { eager: true });
-      break;
-    default:
-      console.log("Essay not found.");
-  }
-  return paths;
-}
+// function switchGitter(val) {
+//   console.log(val);
+//   let paths;
+//   switch (val) {
+//     case "mm01":
+//       paths = import.meta.glob("/src/content/mm01/*.md", { eager: true });
+//       break;
+//     case "mm03":
+//       paths = import.meta.glob("/src/content/mm03/*.md", { eager: true });
+//       break;
+//     case "mm05":
+//       paths = import.meta.glob("/src/content/mm05/*.md", { eager: true });
+//       break;
+//     case "mm06":
+//       paths = import.meta.glob("/src/content/mm06/*.md", { eager: true });
+//       break;
+//     case "mm07":
+//       paths = import.meta.glob("/src/content/mm07/*.md", { eager: true });
+//       break;
+//     case "mm08":
+//       paths = import.meta.glob("/src/content/mm08/*.md", { eager: true });
+//       break;
+//     case "mm09":
+//       paths = import.meta.glob("/src/content/mm09/*.md", { eager: true });
+//       break;
+//     case "mm12":
+//       paths = import.meta.glob("/src/content/mm12/*.md", { eager: true });
+//       break;
+//     case "mm13":
+//       paths = import.meta.glob("/src/content/mm13/*.md", { eager: true });
+//       break;
+//     case "mm14":
+//       paths = import.meta.glob("/src/content/mm14/*.md", { eager: true });
+//       break;
+//     case "mm15":
+//       paths = import.meta.glob("/src/content/mm15/*.md", { eager: true });
+//       break;
+//     case "mm18":
+//       paths = import.meta.glob("/src/content/mm18/*.md", { eager: true });
+//       break;
+//     case "mm19":
+//       paths = import.meta.glob("/src/content/mm19/*.md", { eager: true });
+//       break;
+//     case "mm20":
+//       paths = import.meta.glob("/src/content/mm20/*.md", { eager: true });
+//       break;
+//     case "mm25":
+//       paths = import.meta.glob("/src/content/mm25/*.md", { eager: true });
+//       break;
+//     case "all":
+//       paths = import.meta.glob("/src/content/*/*.md", { eager: true });
+//       break;
+//     default:
+//       console.log("Essay not found.");
+//   }
+//   return paths;
+// }
