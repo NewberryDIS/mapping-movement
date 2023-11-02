@@ -1,53 +1,43 @@
-# Rebuild of Mapping Movement
+# Mapping Movement Rebuild.
 
-## part 0. Skeuomorphism.
+## 0. Representation.
 
-That horribly-shaped word means "Buttons in iTunes in 2007". It doesn't really - what it really means is, mimicking traditional interface elements in a new interface in order to assint users to adopt something that otherwise might feel quite different. If, in 2007, buttons looked like they do now, a lot of people wouldn't identify then as buttons. So, Apple - and everyone else - designed their interface to have big, chunky, 3D-illusion interface elements.
+It was the goal of the original design of Mapping Movement to be like a book. We took this inspiration as our north star, returning to it to orient ourselves in our redesign. While we did end up throwing out most of the map, we continually returned to that idea when we became lost.
 
-We still use it in the traditional way - the icon for a phone app, for example - but, for the most part, digital interfaces are the norm. But the retro nature of the term still has value. While we don't (usually) _need_ to do it anymore, we can still attempt to replicate older user experiences into contemporary design - for fun - because some of the old interfaces were awesome.
+The user experience of physical books is something we've been missing ever since digital interfaces started to replace them. Their texture and smell of the pages, the feel of their weight, density, and ...floppiness? (You know how some books just fall open, and some seem to complain every time they're opened? That.) The way you can hold your place with a finger to jump back to find some section you passed, or to go to the end to see if your hunch about the murderer is correct - or, as in the case of books about maps: to the differently-colored and textured pages, easily identifiable as the plates, the high quality representations of the maps - and how easily we could return to where we left off. Having, literally, left something of ourselves there, we never feel like our sense of place has been lost.
 
-As a librarian, it's about books - but there are other great ones - vinyl records, rolling the windows down in the car. We understand why these experiences have fallen out of common use, but we don't have to forget what we liked about them.
+You set the book down, face down, and get a drink, use the restroom, or simply to lean back and think about something. The book - and your place within it - remains stored.
 
-Curling up with a good book in the secluded back section of the library, having to get up and flip a record over after about 20 minutes - there's something wonderful about that.
+That strong sense of place within a book is something lacking in a digital experience. Every link clicked changes the space you're in, and, we visit so many of them every day, taken as a whole, the volume of these minor spaces drains any individual one of them of containing our sense of place.
 
-Can we reproduce those experiences?
+## 1. Inhabitation.
 
-## part 1. Books.
+Is it possible to imbue a digital space with a sense of place?
 
-The original version of the Mapping Movement project was driven by a strict adherence to the attempt to replicate a book-reading experience. I was not a part of that project; I was not in a position to help question their assumptions.
+The book, Mapping Movement, may have some answers. Maps, as 2-dimensional, frozen representations of physical space, from impossible perspectives, are easy to misunderstand as a noisy sort of chart; one can't understand the trend of the quarterly profits in a glance as one can with a pie chart or a bar graph. Mapping Movement uses them to show the movement of people - turning data into knowledge, turning noise into flow, turning spaces into places.
 
-One of the core features of books, the original project team maintained, was that there are no images. As such, they didn't want images interspersed in the text. Books about maps often do have images, though, and even if they typically, this one did. Over the 15 essays in Mapping Movement, there are 150 maps. However, they felt strongly about this: books don't have pictures.
+(Of course it's not merely movement that transforms space into place. A place is a space that you inhabit, an essential being-within; you can "be" in a space (eg airports), and we can briefly glimpse a place, like the inside of your crush's house when they open the door - an intimately understood but infinitely distant place.)
 
-This is a fundamentally reductive view of a book-reading experience. There is so much more to how we experience a book than just what's printed on the page. You can put a book down, face-open, and pick it up, immediately where you left off - if you did to many things before coming back, there was no RAM caching issue to make you lose your place; there was less anxiety about the experience itself. With a book in your hands, you can stick a finger between the pages and flip through the book, and easily return to your starting point, feeling like you barely left it. In a book with vivid and vital images of maps, there are usually sections of the book where they're collected - identifiable by the unique paper which stood out against the color and texture of the rest of the book. Flipping to the plates was not only easy, but it was a vital part of the experience.
+While designing the updated Mapping Movement, we used a smooth-scroll effect on navigation: when a user clicks a link, rather than the page content disappearing and the new content appearing out of nowhere, the page scrolls back to the top, the blurring speed of which disguises the changing of the content. We did this, in part, to bring the feeling of turning the page, but also to retain the sense of place. The moment of page changes in web development, insofar as they seem instant, read as digital - unreal, fleeting figments of electricity flashing through flattened rock. To retain the flow, we disguised the content switch and brought the user visibly from where they were to the place where they arrived.
 
-The online equivalent - clicking a link and then using the back button on the browser - is fundamentally different: even if the exact location on the page is preserved, the flow is broken; the mental space, the reader's mental position within the content, has changed.
+## 2. Inhibition.
 
-While we can't (yet) adequately replicate that nimble orienteering, we can try to capture its _vibe_. And what better way to approach the project's core concept - of maps and movement, of maps which can show the movements of people - than to imbue the site with a sense of place, and of motion.
+Displaying the maps themselves was a contentious issue. It was the opinion of the original designers that, because books don't have pictures, the text should be presented in wall form. Even in 2007, this was a known bad user experience - it was already a joke, a caricature of bad design.
 
-We used a smooth-scrolling navigation effect to suffuse place and motion into the interaction. While all sites have a sense of _space_, a sense of _place_, a sense of the being-within
+It was our feeling that, while the presence of images interspersed within in the text of a book is unnatural to the book experience, there were more reasons to do it than to not do it. First, it is (and was, in 2007), the expectation of the reader, to have breaks in text, rest for the eyes, points of reference upon distraction, etc. There's no sense in subverting the expectations of the user only to present them with an alternative which is worse. Secondly, because, far more essential to the book-experience than the absence of images, is the presence of _pages_. As socially responsible web developers we would never demand our users click a "next page" link within an article, but we felt we could replicate that moment of disruption by adding the large, intriguing, and beautiful, maps about which the book was written. The intense unnaturalness, the extended, uninterrupted experience was evaluated to be more unbookish than the images.
 
----
+And, finally, we felt we could do more with the images than merely present them.
 
-with a sense of space and motion. Throughout the site, page pages are replaced by - or obscured with - a smooth scroll back to the top of the page, to replicate the experience of turning a physical page, and that movement of the eyes and the attention to the new page.
+We used a parallax effect on the maps. Parallax is not just the top design trend of 2014, it's been used to convey motion and the illusion of space in video games since the nineteen hundreds. (My daughter calls them that. I hate it.)
 
-When a user clicks a link to go to a new essay, or to one of the map-specific pages,
+The parallax effect has a lot of power. While it does, naturally, give a page a sense of depth and space, it's also something, while far from novel, is still on the rare side; noticeable, though not remarkable. It catches the eye, and, as vital companions to the content, we felt it was important to let the maps shine.
 
-One of the things I did to attempt to replicate the book experience was smooth scrolling to the top of a page. When you click on a link, rather than the page disappearing and a new page appearing, I made that disappearance and reappearance occur while the page was scrolling to the top. When you read a book, when you finish a page, your eyes follow that motion - so I meant to give users the sense of physical transition that accompanies page-turning. Additionally, one of the the things we've lost with digital interfaces is the patience - and while I wouldn't dream of wasting users' time by adding delays and timers and such, that scroll - it's a pause, a rest. It doesn't occur in the middle of the text anywhere, so the interruption only occurs when the user is shifting headspace anyway - and I hope that the brief, page-turning hiatus brought at least a moment of rest in otherwise hectic lives.
+## 3. Noise.
 
-I did break up the text with maps. I broke that rule. I did it for a few reasons.
+Maps are, as we have said, when taken as a whole, noisy. Their value begins in their details, in their minutia; their value as a whole is best evaluated by how quickly they can get you into their details. By allowing a limited - though changing - window into the map, we don't provide a view of the entire map - we only allow views of details.
 
-A. Skeuomorphism. People expect that on the web today, and subverting expectations should only ever be done when you've got something better to offer. Subverting the readers' expectations to provide them with a wall of text - a known bad interface design - was not something I was willing to do - I wouldn't subvert your expectations in order to give you something worse.
+Maps are, also, and we almost forgot about this, _large_. They are almost never manageable; they are cumbersome, whether we are tourists attempting to refold them in the same way they had been folded, or whether we are scholars in a library, having to find the largest table in the place just to lay out the map in its entirety. We position our bodies to suit the map, and not the other way around. If we want to follow a flow, we have to move our body to another side of the table. This is, while certainly nowhere near as convenient as a IIIF map viewer, a vivid, haptic experience, nostalgic even to those who have never done it - there's something that sparks sublimity at that oversized table, lost in focus, shifting noise to flow.
 
-B. Audience. The Mapping Movement revitalization will not get the same fanfare as its original release; it won't be swarmed by academics pursuing cutting edge research. It's readers will be more casual: less _interested_ and more _curious_ - and that's a huge distinction. Readers could not be expected to travel through the content of their own volition - we had to invite them, tease them in further like a will o' the wisp. Maps have that power - not all maps, and not all presentations of maps - but if you do it right, you can pull people into a map.
+The images which are interspersed in the text of Mapping Movement use a technique called "fixed" positioning - so they don't move as you scroll. In many implementations of the parallax effect, the background elements still move, but at a different rate; it's only with that layering of rates that motion can be created in the old video games. By "fixing" their position, we lay the map out on a table, and give the power to move around them to the user, transforming their absent scroll to the next text section into an active, empowered scroll; intentional; _aware_. Instead of a thing you have to get past to continue reading, it becomes a space you inhabit, a place.
 
-## 2. Maps.
-
-I don't know if there are people that don't like maps. I haven't met any, and if I have, I've surely eliminated it from my memory. Everyone loves maps. There's something so evocative about a map - so many things, really - I can't pretend to get anywhere near exhaustive here. But a few things stand out to me.
-
-First, maps make me curious. In a map, I see spaces - foreign and familiar - in a new way. I see a stream that I've walked by - it seemed straight, but it isn't, it winds quite a lot. I see the buildings in my neighborhood and I can see their interplay, not just their view from the ground.
-
-However, maps can appear noisy - an enormous amount of information transfered in a pretty samey way. Maps present themselves and their content as a pile of details - and if you can get a user to grab onto a single detail, the power of the map will take over from there - especially in the case of the Mapping Movement maps, which are as beautiful as they are fascinating.
-
-As you scroll through a webpage, you scroll past images. This is common. Sometimes, the images scroll at a different speed - we call it parallax and while it's the newest design trend of 2013, it's been in use since side-scrolling video games of the 80s and 90s. At this point, it's not _uncommon_, but it's not super common. It's a known interface - but it still catches the eye.
-
-In that moment, in which the map catches the user's eye,
+We hoped that with these techniques we were able to do justice to the original design guidance, to the books and maps we've experienced, and to the content of Mapping Movement.
