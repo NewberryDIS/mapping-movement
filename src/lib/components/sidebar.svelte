@@ -10,13 +10,14 @@
 </script>
 
 <ul class="side bar">
+
     <a
         href="/{base}"
         class={$page.url.pathname == `/${base}`
             ? "active no-lines"
             : "no-lines"}
     >
-        Home
+        <li>Home</li>
     </a>
     {#each toc as c}
         <a
@@ -26,7 +27,7 @@
                 ? "active no-lines"
                 : "no-lines"}
         >
-            {c.essaytitle}
+            <li>{c.essaytitle}</li>
         </a>
     {/each}
 </ul>

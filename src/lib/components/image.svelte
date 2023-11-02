@@ -58,7 +58,7 @@
 					</p>
 				</div>
 			{/if}
-			<button class="info-icon" on:click={() => (tooltipVisible = !tooltipVisible)}>
+			<button class="info-icon" aria-label="Jump to gallery" on:click={() => (tooltipVisible = !tooltipVisible)}>
 				<Icon icon="zondicons:question" width="32" color="var(--brand)" />
 			</button>
             {#if !home}

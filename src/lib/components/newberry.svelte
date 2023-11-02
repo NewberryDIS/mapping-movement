@@ -4,9 +4,9 @@
 </script>
 
 {#if $x < 1000}
-    <button class="n-wrapper">
+    <div class="n-wrapper">
         <img src="{base}/NewberryN-Logo.svg" alt="" />
-    </button>
+    </div>
 {:else}
     <div class="logo-wrapper">
         <svg

@@ -47,8 +47,7 @@
 		</div>
 	</article>
 </main>
-
-<button class="sidebar-button" on:click={() => (visible = !visible)}>
+<button class="sidebar-button" aria-label="Show sidebar" on:click={() => (visible = !visible)}>
 	<Icon icon="gg:menu-round" width={32} />
 </button>
 

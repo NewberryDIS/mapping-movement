@@ -17,7 +17,7 @@
 />
 <header class="wedgie {$y > 45 ? 'shadow' : ''}">
     <div class="logo">
-        <a href="https://www.newberry.org" target="_blank" class="linklogo">
+        <a href="https://www.newberry.org" target="_blank" class="linklogo" aria-label="Link to Newberry Library's home page">
             <Newberry />
         </a>
     </div>

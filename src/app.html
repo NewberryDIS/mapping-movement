@@ -1,27 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
+  <head>
     <meta charset="utf-8" />
     <link rel="icon" href="%sveltekit.assets%/favicon.png" />
     <meta name="viewport" content="width=device-width" />
+    <meta
+      name="description"
+      content="American Maps of Movement, Cartography, Migration, American Immigration, the impacts of mobility on as economic, social, cultural, intellectual, and political life, exploration, road maps, sea charts, transportation;"
+    />
+    <meta name="theme-color" content="#eadcc9" />
     %sveltekit.head%
-</head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VXBH4RD619"></script>
-<script>
+  </head>
+  <!-- Google tag (gtag.js) -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-VXBH4RD619"
+  ></script>
+  <script>
     window.dataLayer = window.dataLayer || [];
 
     function gtag() {
-        dataLayer.push(arguments);
+      dataLayer.push(arguments);
     }
-    gtag('js', new Date());
+    gtag("js", new Date());
 
-    gtag('config', 'G-VXBH4RD619');
-</script>
+    gtag("config", "G-VXBH4RD619");
+  </script>
 
-<body data-sveltekit-preload-data="hover">
+  <body data-sveltekit-preload-data="hover">
     <div style="display: contents">%sveltekit.body%</div>
-</body>
-
+  </body>
 </html>
