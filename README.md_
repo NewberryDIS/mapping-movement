@@ -1,0 +1,71 @@
+# Rebuild of Mapping Movement
+
+- Uses Tify & Internet Archive's IIIF API.
+
+As of initial build, _only **American Railroad Maps, 1873-2012** is functional_
+
+## Requirements
+
+[Node.js](https://nodejs.org/en/) v16 or later with npm.
+
+## Development
+
+- Project setup: `npm install`
+- Compile and hot-reload: `npm run serve`
+- Build for production: `npm run build`
+
+## 0. Skeuomorphism.
+
+That horribly-shaped word means "Buttons in iTunes in 2007". It doesn't really - what it really means is, mimicking traditional interface elements in a new interface in order to assist users in adoption. If, in 2007, buttons looked like they do now, a lot of people wouldn't identify it as a button. So, Apple - and everyone else - designed their interface to have big, chunky, 3D-illusion interface elements.
+
+The original concept is no longer useful. For example, if we used Skeuomorphic design guidance today, that might mean making our new 2023-looking buttons look like out-of-fashion 2022 buttons - there's no way to push design forward if you're trying to mimick the past - not when everything is digital. We're used to digital interfaces now - we don't need to "mimic" traditional design if we want to help users navigate the UI - we can just use the old design.
+
+But the retro nature of the term still has value. While we don't NEED to do it anymore, we can still attempt to replicate older user interfaces into contemporary design - for fun. Because some of the old interfaces were awesome.
+
+As a librarian, it's very obvious to me that I'm talking about books. I hope that's what you were thinking of too - but there are other great ones - vinyl records leap to mind as well - I think we all understand why these experiences have fallen out of common use, we shouldn't forget them.
+
+Curling up with a good book in the secluded back section of the library, having to get up and flip a record over after about 20 minutes - there's something wonderful about that.
+
+Can we reproduce those experiences?
+
+## 1. Books.
+
+When I was asked to revitalize the Mapping Movement project, I was given the design guidance which the original project lead used in the original version. The main author wanted the experience on the web to replicate a book-reading experience. This was in 2007, and technology was much more limited - the things I did with Mapping Movement - which I will describe in extreme detail - it just wasn't possible then. That said, had I been there, I would've put up a fuss.
+
+One of the core features of books, the original project lead ("OPL") said, was that there are no images. He didn't want the Mapping Movement project text to be interspersed with images. This was, it's vital to point out, a "book" of essays about maps. Maps were expected to be somehow visible in the project - he just didn't want them in the actual text - because that's not how real life books work.
+
+But this is a fundamentally reductive view of a book-reading experience. With a book in your hands, you can stick a finger between the pages and flip through the book, and easily return to your starting point. If, as in the case of books about maps, there are pictures, you can very easily flip to the maps, examine them, and then return to your page. On a website, sure, you can click a link to a new page, and then click back to return - but we all know that the experience of web navigation is not at all similar to book navigation.
+
+Flipping to a later section of the book is not a web-interface I had the time to develop. So, instead, what I attempted to was not to replicate the haptic experience, but the _vibe_.
+
+One of the things I did to attempt to replicate the book experience was smooth scrolling to the top of a page. When you click on a link, rather than the page disappearing and a new page appearing, I made that disappearance and reappearance occur while the page was scrolling to the top. When you read a book, when you finish a page, your eyes follow that motion - so I meant to give users the sense of physical transition that accompanies page-turning. Additionally, one of the the things we've lost with digital interfaces is the patience - and while I wouldn't dream of wasting users' time by adding delays and timers and such, that scroll - it's a pause, a rest. It doesn't occur in the middle of the text anywhere, so the interruption only occurs when the user is shifting headspace anyway - and I hope that the brief, page-turning hiatus brought at least a moment of rest in otherwise hectic lives.
+
+I did break up the text with maps. I broke that rule. I did it for a few reasons.
+
+A. Skeuomorphism. Whether people in 2007 would have reacted well to a wall of text is largely irrelevant: the internet has changed - and we have changed how we understand it. The expectations we have today are entrentched, patterns and interactions are so formulaic that every time a web design differs from it, that difference will be noticed. Subverting expectations is at the core of innovation - and we take care to do it only when we replace their expectation with something better. The "wall of text" has power - as a known bad interface design, it carries a gravity of negative power - and while we considered tapping into it, we felt we were unable to use it to improve the experience.
+
+B. Orientation. The Mapping Movement revitalization will not get the same fanfare as its original release; it won't be swarmed by academics pursuing cutting edge research - it's almost old enough to vote. We maintain that it is still vibrant and fascinating - but it is no longer new. Readers discovering it today will be more casual: less _interested_ and more _curious_. Readers in this version cannot be expected to travel through the content of their own volition - we will have to invite them, and tease them in further like a will o' the wisp. Maps have that power - not all maps, and certainly not all presentations of maps - but if you do it right, people will fall right into a map.
+
+## 2. Maps.
+
+Maps are a unique presentation of information - very common, and conceptually borrowed for everything from database schemas to creating an action plan. Their uniqueness can be seen in their noisy appearance: if you attempt to understand the whole of a map - the way you might with a bar graph or a pie chart - you will get lost. Maps are about their details - even if you are able to draw conclusions by looking from a distance, that conclusion is still just another detail.
+
+Maps are fascinating - even to the casual readers we expect to visit this revitalization. But in order for a casual reader to become enraptured by a map, a detail must catch their eye; if they are prsented with noise, they will scroll by, barely registering it.
+
+In order to invoke the spell of the maps, I used a parallax technique - which, while the top design trend of 2013, it's been used to create depth and space on 2-dimentional screens since video games in the nineteen hundreds. (My daughter uses that phrase. I cri evrytiem.) Parallax isn't new - but it's not hugely common. It's something users notice. It goes beyond just an effect though - even such a spatial one as parallax - it also shows and obscures the map as the user passes by - they are, by the end of the scroll, able to see all of it, but by focusing their attention on small sections of it at a time, we attempt to reduce the noisy impact of a _whole map_, and provide them with just the details - and the whole map - at the same time.
+
+Most of us have not encountered, in real life, maps as large as some of these. They are physically daunting objects - you can't grab one and curl up in the corner of the library - you often have to use a special table, one of the few tables around large enough to lay the whole thing out. This experience of a map is one that is very unique to maps - there aren't many things we approach in this way - and those few are generally works of art - and its with that same grandeur and awe and reverence that we lay a large map out on a huge table, physically walking around the map in order to get a better look at the details - and as we follow our route through the map, we move our bodies around the room, around the table; the map holds still, it is the human that moves.
+
+This aspect of the real life experience of a map was another "pseudo-skeuomorphia" we attempted.
+
+One of the core principles every web developer considers is that they can't control the users' hardware. We can't give them fast processors or uniformly-sized screens. And, in the case of Mapping Movement, we were not allowed to send all of our users a 10' by 10' monitor.
+
+to so unique - and so effective that we use them everywhere - we use the word to make metaphors, or to assist our thinking, or to help us plan. We have website maps, maps of database schemas, . They appear noisy if you come at them from the wrong angle - maps contain their details the way a pomegranite contains its seeds. Approaching a map the way you would, say, a bar graph, you will be overwhelmed; while you may be able to make high level deductions from a map, its true value is only up close. We take maps in pieces.
+
+First, maps make me curious. In a map, I see spaces - foreign and familiar - in a new way. I see a stream that I've walked by - it seemed straight, but it isn't, it winds quite a lot. I see the buildings in my neighborhood and I can see their interplay, not just their view from the ground.
+
+However, maps can appear noisy - an enormous amount of information transfered in a pretty samey way. Maps present themselves and their content as a pile of details - and if you can get a user to grab onto a single detail, the power of the map will take over from there - especially in the case of the Mapping Movement maps, which are as beautiful as they are fascinating.
+
+As you scroll through a webpage, you scroll past images. This is common. Sometimes, the images scroll at a different speed - we call it parallax and while it's the newest design trend of 2013, it's been in use since side-scrolling video games of the 80s and 90s. At this point, it's not _uncommon_, but it's not super common. It's a known interface - but it still catches the eye.
+
+In that moment, in which the map catches the user's eye,
