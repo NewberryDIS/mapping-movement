@@ -66,17 +66,6 @@
 		font-weight: 400;
 		margin-right: 8px;
 	}
-	.shadow-text {
-		color: rgba(0, 0, 0, 0);
-		font-size: 40px;
-		padding: 10px;
-	}
-	.lg.shadow-text {
-		scale: 2;
-	}
-	.sm.shadow-text {
-		scale: 0.5;
-	}
 
 	@media only screen and (min-width: 600px) {
 		.titlebar {
