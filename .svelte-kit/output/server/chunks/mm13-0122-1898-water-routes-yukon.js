@@ -1,0 +1,29 @@
+import { c as create_ssr_component } from "./index2.js";
+const metadata = {
+  "iaid": "x998715648805867",
+  "minino": "0122",
+  "minifn": "mm13-0122-1898-water-routes-yukon",
+  "minititle": "Water Routes to the Yukon, 1898",
+  "minislug": "1898-water-routes-yukon",
+  "essayno": "mm13",
+  "essaytitle": "Waterways Cartography, Part II",
+  "essaysubtitle": "Landmarks and Exemplars in North America",
+  "essayslug": "waterways-cartography-part-2",
+  "manifest": "2KXJ8ZSQ38M9N",
+  "imagetitle": "Map of the western part of the Dominion of Canada shewing various routes to the Yukon Dist., 1898",
+  "imagectxid": "NL11JNU1",
+  "imageiiifid": "2KXJ8ZSFHTYM3",
+  "imagelink": "2KXJ8ZWQWMV7"
+};
+const Mm13_0122_1898_water_routes_yukon = create_ssr_component(($$result, $$props, $$bindings, slots) => {
+  return `<p>The discovery of gold in the Yukon District of Canada in 1896 set off a major rush to diggings in a remote part of North America. A demand for maps showing how to reach Dawson, the settlement that had sprung up on the Yukon River near the mouth of its tributary, the Klondike, was met almost immediately by cartographers working for newspapers, magazines, and established map publishers. In this case, the Matthews-Northrup Company of Buffalo, New York, employed a civil engineer, W. T. Jennings, to compile a “Map of the Western Part of the Dominion of Canada Shewing Various Routes to the Yukon.” The large sheet, measuring about thirty-nine by thirty-two inches, traced a variety of overland routes, most of which started from the railroad network across southern Canada and then proceeded by a combination of land and water courses to thread their way across the provinces and territories to reach the Yukon River. The last leg of the journey was usually by water to Dawson. </p>
+<p>All of the various routes laid out by Jennings are colored in dark red, but there is no key on the map itself to distinguish segments marked by dotted lines. Perhaps these routes were not surveyed before the map was published. The overall message of the cartographer seems to be that there were many possible ways to cross North American’s subarctic forest to reach the Yukon River. The practicality of many of these routes is questionable, suggesting that the map’s intended audience consisted more of armchair dreamers rather than prospective miners. Or, it may be that some young men wanted to combine a long adventure in the wilderness with a chance to strike it rich at the end. The fur trade had set up a network of contacts between Native American villages and British agents that Jennings could tap for his map. By emphasizing passage over land, after an initial journey by railroad, the map seemed reasonable to a venturesome soul. </p>
+<p>By the time the Jennings map appeared, a variety of maps and books for the prospective Klondike miner were already in print. <em>The Chicago Record,</em> which claimed to have the first newspaper correspondent at the diggings, published a 555-page book “for gold seekers” in 1897, complete with minute descriptions of the various routes, tables of distances, suggestions for outfitting, maps, and discussions of a variety of topics ranging from mining laws to mail service and women in the Klondike Country. </p>
+<p>Chapter 12 discussed “The Back Door Route” by way of railroad to Edmonton, then one of several portages to the Athabasca River, following a network of Hudson Bay Company posts to Great Slave Lake and the Mackenzie River to Fort Macpherson. Then, reversing direction, it advocated use of the Peace River to reach a portage to one of the westward flowing streams, like the Porcupine or Stewart Rivers, to reach the Yukon either above or below the Klondike. “One great advantage of this route is that it is an organized line of travel, and the numerous posts of the Hudson’s Bay Company can furnish prospectors with ample supplies, enabling them to travel very light.” (185) The return voyage would be more of a challenge because it would be upstream for 1882 miles. “There is but one way to get back, and that is to draw your boat by a rope and walk along the bank a la canal-boat.” (193) </p>
+<p>Mr. P.J. Curran of 5818 Aberdeen Street in Chicago had another idea. Although employed at the city’s stockyards at the time, he had eight years of experience as a Canadian mounted policeman in the British Northwest Territory. Using the same back-door route, Curran planned to start from Edmonton on March 1, 1898, probably too early to have the Jennings map in hand, but “after the most vigorous part of the winter has softened under the influences of lengthening days, and before any of the waterways have broken up, so that the journey may be made all the way with dog sledges.” (195) Expecting to make fifty miles a day over the ice, Curran estimated the expense of his trip at $600. The overland, fresh-water route would, he concluded, soon “be the popular line of march” for the gold-hunters. The map publishers in Buffalo probably had probably come to the same conclusion. </p>
+<p>The building of the White Pass and Yukon Railway between 1898 and 1900 changed the picture. So did the gradual decline of the gold-seeking fever. Reality dawned. One authority estimated that only 100,000 people set out for the Klondike out of the millions that dreamed about it. Only 40,000 reached Dawson City and half of these soon gave up and departed. The diggers thus numbered about 20,000, but only 4,000 found gold and of these only 300 found enough to be considered rich. The mapmakers fared better. One map published in Vancouver sold 100,000 copies in three editions (Hayes 1999, 186), all in 1897. Other firms, based in Seattle, Chicago, Buffalo, and San Francisco, were not left out of these profitable cartographic ventures. </p>`;
+});
+export {
+  Mm13_0122_1898_water_routes_yukon as default,
+  metadata
+};
