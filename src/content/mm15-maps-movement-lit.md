@@ -3,7 +3,7 @@
   essayfn: mm15-maps-movement-lit
   essaytitle: "Maps, Movement, and American Literature" 
   essaysubtitle : ""
-  author: "Martin Br?ckner"
+  author: "Martin Brückner"
   essayslug: maps-movement-lit
 ---
 

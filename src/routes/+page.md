@@ -104,6 +104,8 @@ The following contributors gifted materials for the project to the Newberry Libr
 - Ralph E. Ehrenberg
 - Peter Nekola
 
+This website was originally developed by Northwestern University's Media & Technology Innovation Team and launched in 2016. In 2023, it was redesigned by the Newberry's Digital Initiatives and Services department. Learn more: <a href="https://github.com/newberrydis/mapping-movement#mapping-movement-rebuild" rel="nofollow" target="_blank">Mapping Movement Rebuild</a>
+
 ![N.E.H.]({base}/NEH-Preferred-Seal820.jpg)
 
 </details>

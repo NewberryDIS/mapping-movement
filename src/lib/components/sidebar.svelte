@@ -30,6 +30,13 @@
             <li>{c.essaytitle}</li>
         </a>
     {/each}
+    <a
+        href="https://archive.org/details/newberry?query=%22mapping+movement%22&sort=date"
+        class="no-lines"
+        target="_blank"
+    >
+        <li>Browse all maps at our digital collections</li>
+    </a>
 </ul>
 
 <style>
