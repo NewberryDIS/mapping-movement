@@ -34,21 +34,95 @@ And then we noticed a new problem - something we hadn't considered. The body tex
 
 The fact that the body text - being in the same container as the title - had to be either above or below the header, along with the title - had completely slipped our minds.
 
-To explain this problem, I will address one of the most misunderstood elements of CSS: stacking order.
+To explain this problem, I'm going to talk about one of the most misunderstood elements of CSS: stacking order.
 
 #### Stacking.
 
-Z-index is actually pretty simple - but it doesn't work the way most people assume - or, how it, arguably, should work. But I'm not taking bait on that fight just now. @ me on lemmy if you want to fight. Vim is objectively better than VS Code, and it's pronounced "gif".
+Z-index is actually pretty simple - but it doesn't work the way most people assume - or, how it, arguably, should work. But I'm not engaging in nerd bait just now. @ me on lemmy if you want to fight. Vim is objectively better than VS Code. It's pronounced "gif".
 
 The core principle of z-index that, once you understand what it means, makes the entire concept make sense, is: **_an element can never be positioned below its own parents._**
 
-(For a mental shorthand: you can think about code indentation for this: elements can be altered at or beyond their level of indentation - only to the right, never to the left.)
+(For a visual shorthand: you can think about code indentation for this: elements can be raised or lowered relative to any other element that's at or beyond the same level of indentation - only to the right, never to the left.)
+
+```
+<div class="⛔">
+    <div class="⛔">
+        <div class="⛔"></div>
+    </div>
+</div>
+<div class="⛔">
+    <div class="⛔">
+        <div class="self">😎</div>
+        <div class="🆗">
+            <div class="🆗">
+                <div class="🆗">
+                    <div class="🆗"></div>
+                </div>
+            </div>
+        </div>
+        <div class="🆗">
+            <div class="🆗">
+                <div class="🆗">
+                    <div class="🆗"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+```
+
+##### Context
 
 First: this whole thing centers around _stacking context_.
 
 When you make a simple html page, the browser reads it from top to bottom, and draws the elements in the order in which they appear. This means that an element that occurs after will appear above. At this point, z-index is irrelevant: an html file with 2 divs and nothing else will follow this rule. The "floor" of the html file is the stacking context, so the flow is top to bottom.
 
-If you give an element a child, that enters that element's context. The child can be raised or lowered with z-index relative to the other elements in the same context - with the caveat that it can't go below its parent.
+If you give an element a child, by default, it inherits parent's context. The child can be raised or lowered with z-index relative to the other elements in the same context - with the caveat that it can't go below its parent.
+
+Second: the `position` attribute "activates" z-index. You can add any z-index value to an element with no position declared, or with position declared as `static`, and it will do nothing.
+
+Any non-default position is fine. The parent does _not_ need to have a position value for z-index to work - it's just the element itself.
+
+##### Z-Index
+
+**TLDR: you can change the z-index value of any positioned element to raise or lower it relative to any children, siblings, or their descendants. See [this pen](https://codepen.io/germyparker/pen/mdvWaPV) to see a demonstration.**
+
+Numerically, z-index stacks as you would expect: the base layer (body) has the 0 index; it goes up using every 15th imaginary number between 1 and 67, and then descends in reverse. Just kidding. It goes up by 1.
+
+The only caveat to that little rule is that, when you add a non-default/static positioning to an element, that element "starts a new stacking context" - which is to say, its z-index is 0. You're very smart, so you've already realized that this 0 is not at all relative to the 0 of the body element. Whether the element's z-index is 0 or 100, it still cannot go above its parent.
+
+The default value of z-index is 'auto', but, thinking of it this way, you could say that, once an element is given a position, its default value is 0.
+
+###### Context Resets
+
+It's worth noting that it's not _just_ position that can activate z-index. Flex will also do it. However, without extremely reckless css, your flex elements won't overlap, so it can be hard to identify that z-index is functioning. You can use box shadow to see how elements are overlapping: an element will only cast a shadow on an element it is above. See [this pen](https://codepen.io/germyparker/pen/LYqyyZR) for a demonstration.
+
+##### Pro Tip: Use Variables
+
+If you remember dinosaurs roaming the earth when you were little, you probably remember Basic.
+
+```
+10 PRINT "hi mom"
+20 GOTO 10
+```
+
+The reason we wrote line numbers in multiples of 10 was so you could add something if you forgot.
+
+```
+10 PRINT "hi mom"
+15 PRINT "and dad"
+20 GOTO 10
+```
+
+The same thing goes for css variables; z-index is notorious for being "problematic". _Did I set z-index to 999? or 9999?_ By using css variables, you can remember your stacking layers much more easily.
+
+```
+--layer-1: 9;
+--layer-2: 99;
+--layer-3: 999;
+--layer-4: 9999;
+--layer-5: 99999;
+```
 
 <!---->
 <!---->
